@@ -1,0 +1,79 @@
+id: amazon-quick-now-available-in-the-aws-lo-17b9ef7d
+sourceId: amazon-quick
+title: Amazon Quick Now Available in the AWS London Region
+url: https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-london-region/
+publishedAt: 2026-03-25T16:47:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: >-
+  <p>Amazon Quick is now available in the AWS Europe (London) region
+  (eu-west-2). This launch allows customers in the United Kingdom to access the
+  full power of Amazon Quick while meeting local and regional requirements for
+  data sovereignty.</p>
+
+  <p>Amazon Quick provides business users an agentic teammate that quickly
+  answers questions at work and turns those answers into actions. With Amazon
+  Quick, every user is empowered to make better decisions, faster and take
+  actions without switching applications using AI they can trust. Today’s launch
+  allows customers to take advantage of Amazon Quick’s capabilities including
+  AI-powered chat, Research, Spaces, Flows, and QuickSight dashboards — with
+  their data stored and processed locally within the London region. This
+  expansion also supports in-region inference through EU-CRIS (Europe
+  Cross-Region Inference), ensuring that inference requests from London
+  instances are routed exclusively within European AWS Regions. Customers in
+  regulated industries such as financial services, healthcare, and the public
+  sector can meet strict data sovereignty requirements of UK data protection
+  frameworks.</p>
+
+  <p>For a full list of AWS regions where Amazon Quick is available, visit the
+  <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html"
+  target="_blank" rel="noopener noreferrer">Quick regional availability
+  page</a>. To learn more, visit the <a
+  href="https://docs.aws.amazon.com/quick/" target="_blank" rel="noopener
+  noreferrer">Amazon Quick documentation</a> or <a href="/quick/">product detail
+  page</a>.</p>
+raw:
+  id: whats-new-v2#launch-tqllrtrv8rzl27nvunkkkh
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-tqllrtrv8rzl27nvunkkkh
+  dateCreated: 2026-03-18T17:04:03+0000
+  dateUpdated: 2026-03-26T02:17:00+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: >
+      <p>Amazon Quick is now available in the AWS Europe (London) region
+      (eu-west-2). This launch allows customers in the United Kingdom to access
+      the full power of Amazon Quick while meeting local and regional
+      requirements for data sovereignty.</p>
+
+      <p>Amazon Quick provides business users an agentic teammate that quickly
+      answers questions at work and turns those answers into actions. With
+      Amazon Quick, every user is empowered to make better decisions, faster and
+      take actions without switching applications using AI they can trust.
+      Today’s launch allows customers to take advantage of Amazon Quick’s
+      capabilities including AI-powered chat, Research, Spaces, Flows, and
+      QuickSight dashboards — with their data stored and processed locally
+      within the London region. This expansion also supports in-region inference
+      through EU-CRIS (Europe Cross-Region Inference), ensuring that inference
+      requests from London instances are routed exclusively within European AWS
+      Regions. Customers in regulated industries such as financial services,
+      healthcare, and the public sector can meet strict data sovereignty
+      requirements of UK data protection frameworks.</p>
+
+      <p>For a full list of AWS regions where Amazon Quick is available, visit
+      the <a
+      href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html"
+      target="_blank" rel="noopener noreferrer">Quick regional availability
+      page</a>. To learn more, visit the <a
+      href="https://docs.aws.amazon.com/quick/" target="_blank" rel="noopener
+      noreferrer">Amazon Quick documentation</a> or <a href="/quick/">product
+      detail page</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-london-region/
+    postDateTime: 2026-03-25T16:47:00Z
+    headline: Amazon Quick Now Available in the AWS London Region
+matchedKeywords:
+  - Amazon Quick
+status: dismissed
+injectionFlags: []

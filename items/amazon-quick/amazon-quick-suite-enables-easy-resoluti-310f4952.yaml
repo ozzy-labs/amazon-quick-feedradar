@@ -1,0 +1,36 @@
+id: amazon-quick-suite-enables-easy-resoluti-310f4952
+sourceId: amazon-quick
+title: Amazon Quick Suite Enables Easy Resolution of Ambiguous Map Locations
+url: https://aws.amazon.com/about-aws/whats-new/2026/02/quick-ambiguous-locations-resolution
+publishedAt: 2026-02-03T16:00:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p><a href="https://aws.amazon.com/quick/quicksight/" target="_blank">Quick Sight in Amazon Quick Suite</a> now enables authors to resolve or update ambiguous locations directly on map visuals for accurate geographical data visualization. When Quick Suite encounters location names that exist in multiple regions—such as cities like Springfield or Abbeville that appear in multiple U.S. states—users can now explicitly define the correct geographical context through three resolution methods: adding supporting geospatial fields to create location hierarchies, searching for specific locations from Quick Suite's geographical database, or entering exact latitude and longitude coordinates for precise positioning.<br>
+  <br>
+  These enhancements address visualization accuracy needs for organizations working with datasets containing common location names that could refer to multiple places. With location mapping, dashboard authors can ensure their geospatial visuals correctly represent their data's geographical context, leading to more reliable insights. The feature provides clear status tracking with Unmatched, Matched, and Unused location indicators, helping users understand and manage their location mappings effectively. Users can resolve ambiguous locations directly from map visuals by selecting &quot;Resolve now&quot; or accessing &quot;Geo data match&quot; options.<br>
+  <br>
+  This feature is now available in all Amazon Quick Suite&nbsp;<a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/regions.html" target="_blank">regions where Quick Sight is supported.</a>&nbsp;Discover how to&nbsp;<a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/geospatial-charts.html" target="_blank">create maps and geospatial charts</a>&nbsp;in Quick Suite and learn more about this new feature in&nbsp;<a href="https://aws.amazon.com/blogs/business-intelligence/ambiguous-location-mapping-for-map-visuals-in-amazon-quick-sight/" target="_blank">our blog post</a>.</p>
+raw:
+  id: whats-new-v2#launch-mu7eyluhhbrweugio3vdow
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-mu7eyluhhbrweugio3vdow
+  dateCreated: 2026-01-30T17:25:57+0000
+  dateUpdated: 2026-02-03T20:02:45+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p><a href="https://aws.amazon.com/quick/quicksight/" target="_blank">Quick Sight in Amazon Quick Suite</a> now enables authors to resolve or update ambiguous locations directly on map visuals for accurate geographical data visualization. When Quick Suite encounters location names that exist in multiple regions—such as cities like Springfield or Abbeville that appear in multiple U.S. states—users can now explicitly define the correct geographical context through three resolution methods: adding supporting geospatial fields to create location hierarchies, searching for specific locations from Quick Suite's geographical database, or entering exact latitude and longitude coordinates for precise positioning.<br>
+      <br>
+      These enhancements address visualization accuracy needs for organizations working with datasets containing common location names that could refer to multiple places. With location mapping, dashboard authors can ensure their geospatial visuals correctly represent their data's geographical context, leading to more reliable insights. The feature provides clear status tracking with Unmatched, Matched, and Unused location indicators, helping users understand and manage their location mappings effectively. Users can resolve ambiguous locations directly from map visuals by selecting &quot;Resolve now&quot; or accessing &quot;Geo data match&quot; options.<br>
+      <br>
+      This feature is now available in all Amazon Quick Suite&nbsp;<a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/regions.html" target="_blank">regions where Quick Sight is supported.</a>&nbsp;Discover how to&nbsp;<a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/geospatial-charts.html" target="_blank">create maps and geospatial charts</a>&nbsp;in Quick Suite and learn more about this new feature in&nbsp;<a href="https://aws.amazon.com/blogs/business-intelligence/ambiguous-location-mapping-for-map-visuals-in-amazon-quick-sight/" target="_blank">our blog post</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/02/quick-ambiguous-locations-resolution
+    postDateTime: 2026-02-03T16:00:00Z
+    headline: Amazon Quick Suite Enables Easy Resolution of Ambiguous Map Locations
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

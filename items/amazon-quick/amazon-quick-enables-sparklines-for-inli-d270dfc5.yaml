@@ -1,0 +1,32 @@
+id: amazon-quick-enables-sparklines-for-inli-d270dfc5
+sourceId: amazon-quick
+title: Amazon Quick Enables Sparklines for Inline Trend Visualization in Tables
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sparklines-tables/
+publishedAt: 2026-04-03T15:00:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p><a href="https://aws.amazon.com/quick/quicksight/" target="_blank" rel="noopener noreferrer">Quick Sight in Amazon Quick</a> now supports sparklines, enabling authors to embed compact, inline trend visualizations directly within table cells. Sparklines allow users to display line or area charts inside individual table columns, providing at-a-glance trend context alongside their data without requiring separate chart visuals. Authors can add sparklines to tables by configuring a metric with a date dimension, and Quick automatically renders a miniature trend line within each row.</p>
+  <p>This enhancement helps organizations quickly identify patterns, anomalies, and directional trends within tabular data — such as revenue over time by product, weekly ticket volumes by team, or monthly utilization by region — without navigating away from the table view. Sparklines support customization options including visual type (line or area), line color, line interpolation (linear, smooth, or stepped), and Y-axis behavior (shared or independent scaling across rows), giving authors flexibility to tailor the visualization to their dashboard's needs.</p>
+  <p>This feature is now available in all Amazon Quick <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/regions.html" target="_blank" rel="noopener noreferrer">regions where Quick Sight is supported.</a> Learn more about how to <a href="https://docs.aws.amazon.com/quick/latest/userguide/format-sparklines.html" target="_blank" rel="noopener noreferrer">add sparklines to your tables</a> in Amazon Quick.</p>
+raw:
+  id: whats-new-v2#launch-kqb9prwzeufzgeexulkypg
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-kqb9prwzeufzgeexulkypg
+  dateCreated: 2026-04-03T16:13:45+0000
+  dateUpdated: 2026-04-06T22:22:16+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p><a href="https://aws.amazon.com/quick/quicksight/" target="_blank" rel="noopener noreferrer">Quick Sight in Amazon Quick</a> now supports sparklines, enabling authors to embed compact, inline trend visualizations directly within table cells. Sparklines allow users to display line or area charts inside individual table columns, providing at-a-glance trend context alongside their data without requiring separate chart visuals. Authors can add sparklines to tables by configuring a metric with a date dimension, and Quick automatically renders a miniature trend line within each row.</p>
+      <p>This enhancement helps organizations quickly identify patterns, anomalies, and directional trends within tabular data — such as revenue over time by product, weekly ticket volumes by team, or monthly utilization by region — without navigating away from the table view. Sparklines support customization options including visual type (line or area), line color, line interpolation (linear, smooth, or stepped), and Y-axis behavior (shared or independent scaling across rows), giving authors flexibility to tailor the visualization to their dashboard's needs.</p>
+      <p>This feature is now available in all Amazon Quick <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/regions.html" target="_blank" rel="noopener noreferrer">regions where Quick Sight is supported.</a> Learn more about how to <a href="https://docs.aws.amazon.com/quick/latest/userguide/format-sparklines.html" target="_blank" rel="noopener noreferrer">add sparklines to your tables</a> in Amazon Quick.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/quick-sparklines-tables/
+    postDateTime: 2026-04-03T15:00:00Z
+    headline: Amazon Quick Enables Sparklines for Inline Trend Visualization in Tables
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

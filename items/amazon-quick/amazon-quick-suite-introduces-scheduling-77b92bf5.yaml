@@ -1,0 +1,44 @@
+id: amazon-quick-suite-introduces-scheduling-77b92bf5
+sourceId: amazon-quick
+title: Amazon Quick Suite introduces scheduling for Quick Flows
+url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-scheduling-quick-flows/
+publishedAt: 2025-11-25T08:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p>Amazon Quick Flows now supports scheduling, enabling you to automate repetitive workflows without requiring manual intervention. You can now configure Quick Flows to run automatically at specified times or intervals, improving operational efficiency and ensuring critical tasks execute consistently.<br>
+  <br>
+  You can schedule Quick Flows to run daily, weekly, monthly, or on custom intervals. This capability is great for automating routine and administrative tasks such as generating recurring reports from dashboards, summarizing open items assigned to you in external services, or generating daily meeting briefings before you head out to work.<br>
+  <br>
+  You can schedule any flow you have access to—whether you created it or it was shared with you. To schedule a flow, click the scheduling icon and configure your desired date, time, and frequency.<br>
+  <br>
+  Scheduling in Quick Flows is available now in&nbsp;US East (N. Virginia), US West (Oregon), and Europe (Ireland) There are no additional charges for using scheduled execution beyond standard Quick Flows usage.<br>
+  <br>
+  To learn more about configuring scheduled Quick Flows, please visit our <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/schedules-in-quick-flows.html">documentation</a>.</p>
+raw:
+  id: whats-new-v2#launch-g4e8mf7wl7b1wf6j1m7c8q
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-g4e8mf7wl7b1wf6j1m7c8q
+  dateCreated: 2025-11-25T17:19:20+0000
+  dateUpdated: 2025-11-26T03:31:44+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick Flows now supports scheduling, enabling you to automate repetitive workflows without requiring manual intervention. You can now configure Quick Flows to run automatically at specified times or intervals, improving operational efficiency and ensuring critical tasks execute consistently.<br>
+      <br>
+      You can schedule Quick Flows to run daily, weekly, monthly, or on custom intervals. This capability is great for automating routine and administrative tasks such as generating recurring reports from dashboards, summarizing open items assigned to you in external services, or generating daily meeting briefings before you head out to work.<br>
+      <br>
+      You can schedule any flow you have access to—whether you created it or it was shared with you. To schedule a flow, click the scheduling icon and configure your desired date, time, and frequency.<br>
+      <br>
+      Scheduling in Quick Flows is available now in&nbsp;US East (N. Virginia), US West (Oregon), and Europe (Ireland) There are no additional charges for using scheduled execution beyond standard Quick Flows usage.<br>
+      <br>
+      To learn more about configuring scheduled Quick Flows, please visit our <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/schedules-in-quick-flows.html">documentation</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/11/amazon-quick-suite-scheduling-quick-flows/
+    postDateTime: 2025-11-25T08:00:00Z
+    headline: Amazon Quick Suite introduces scheduling for Quick Flows
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

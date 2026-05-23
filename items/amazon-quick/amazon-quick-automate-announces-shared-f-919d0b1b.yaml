@@ -1,0 +1,32 @@
+id: amazon-quick-automate-announces-shared-f-919d0b1b
+sourceId: amazon-quick
+title: Amazon Quick Automate announces shared file storage for automations
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-automate-shared-file-storage/
+publishedAt: 2026-04-21T06:22:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick Automate now supports in-app file storage, enabling you to seamlessly manage files within your automations without requiring external storage solutions or connectors. This feature provides a centralized location for uploading, downloading, and sharing files across multiple automations within the same automation group, eliminating the friction previously experienced when working with files in automation workflows.<br>
+  Previously, providing files as inputs to automations or receiving file outputs required uploading to external services like Amazon S3, OneDrive, or SharePoint, and configuring connectors. With shared file storage, automation builders and business users can now upload files directly through an intuitive drag-and-drop interface and access them immediately across all automations in their automation group.&nbsp;Key use cases include static lookup files that business users can update as needed, such as contact lists or pricing tables; configuration files where business users can manage agent guidelines outside the automation itself; multi-automation workflows where one automation's output feeds into another; and daily or weekly reporting where automations share outputs with users for review.</p>
+  <p>This feature is available in all AWS Regions where Quick Automate is enabled, including US East (N. Virginia), US West (Oregon), Europe (Dublin), Europe (London), Europe (Frankfurt), Asia Pacific (Tokyo), and Asia Pacific (Sydney).&nbsp;To learn more about shared file storage, visit the <a href="https://aws.amazon.com/quick/automate/">Amazon Quick Automate product page</a> or read the <a href="https://docs.aws.amazon.com/quick/latest/userguide/actions-quick.html#shared-file-actions">shared file actions&nbsp;documentation.</a>.&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-f6b9pqdz4gueqgw7qo6dsv
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-f6b9pqdz4gueqgw7qo6dsv
+  dateCreated: 2026-04-22T20:15:48+0000
+  dateUpdated: 2026-04-27T20:26:38+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick Automate now supports in-app file storage, enabling you to seamlessly manage files within your automations without requiring external storage solutions or connectors. This feature provides a centralized location for uploading, downloading, and sharing files across multiple automations within the same automation group, eliminating the friction previously experienced when working with files in automation workflows.<br>
+      Previously, providing files as inputs to automations or receiving file outputs required uploading to external services like Amazon S3, OneDrive, or SharePoint, and configuring connectors. With shared file storage, automation builders and business users can now upload files directly through an intuitive drag-and-drop interface and access them immediately across all automations in their automation group.&nbsp;Key use cases include static lookup files that business users can update as needed, such as contact lists or pricing tables; configuration files where business users can manage agent guidelines outside the automation itself; multi-automation workflows where one automation's output feeds into another; and daily or weekly reporting where automations share outputs with users for review.</p>
+      <p>This feature is available in all AWS Regions where Quick Automate is enabled, including US East (N. Virginia), US West (Oregon), Europe (Dublin), Europe (London), Europe (Frankfurt), Asia Pacific (Tokyo), and Asia Pacific (Sydney).&nbsp;To learn more about shared file storage, visit the <a href="https://aws.amazon.com/quick/automate/">Amazon Quick Automate product page</a> or read the <a href="https://docs.aws.amazon.com/quick/latest/userguide/actions-quick.html#shared-file-actions">shared file actions&nbsp;documentation.</a>.&nbsp;</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-automate-shared-file-storage/
+    postDateTime: 2026-04-21T06:22:00Z
+    headline: Amazon Quick Automate announces shared file storage for automations
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

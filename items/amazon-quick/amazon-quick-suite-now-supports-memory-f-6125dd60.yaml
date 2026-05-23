@@ -1,0 +1,36 @@
+id: amazon-quick-suite-now-supports-memory-f-6125dd60
+sourceId: amazon-quick
+title: Amazon Quick Suite now supports memory for chat agents
+url: https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/
+publishedAt: 2025-12-16T08:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p>We are announcing memory for chat agents in Amazon Quick Suite – a feature that allows users to get personalized responses based on their previous conversations. With this feature, Quick Suite remembers the preferences users specify in chat and generate responses that are tailored to them. Users can also view their inferred preferences and remove any memory they don’t want Quick chat agents to use.<br>
+  <br>
+  Previously, chat users needed to repeat their preferences around response format, acronyms, dashboards, and integrations in every conversation. They also had to clarify ambiguous topics and entities in chat, increasing the tedious back and forth needed to get accurate and insightful responses. Memory addresses this pain point by remembering facts and details about users in a way that ensures responses provided to users continuously learn and improve. Users also control what Quick Suite remembers about them – all the memories are viewable and removable by users, and users have the choice to start chat in Private Mode in which conversations are not used to infer memories.<br>
+  <br>
+  Memory in Quick Suite chat agents is available in US East (N. Virginia) and US West (Oregon). To learn more, visit the <a href="https://docs.aws.amazon.com/quicksight/latest/user/what-is-quicksight.html" style="cursor: pointer;" contenteditable="false">Amazon Quick Suite User Guide</a>.</p>
+raw:
+  id: whats-new-v2#launch-kgyxxpau47qoi9zbngdfjl
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-kgyxxpau47qoi9zbngdfjl
+  dateCreated: 2025-12-05T20:15:26+0000
+  dateUpdated: 2025-12-16T18:24:01+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>We are announcing memory for chat agents in Amazon Quick Suite – a feature that allows users to get personalized responses based on their previous conversations. With this feature, Quick Suite remembers the preferences users specify in chat and generate responses that are tailored to them. Users can also view their inferred preferences and remove any memory they don’t want Quick chat agents to use.<br>
+      <br>
+      Previously, chat users needed to repeat their preferences around response format, acronyms, dashboards, and integrations in every conversation. They also had to clarify ambiguous topics and entities in chat, increasing the tedious back and forth needed to get accurate and insightful responses. Memory addresses this pain point by remembering facts and details about users in a way that ensures responses provided to users continuously learn and improve. Users also control what Quick Suite remembers about them – all the memories are viewable and removable by users, and users have the choice to start chat in Private Mode in which conversations are not used to infer memories.<br>
+      <br>
+      Memory in Quick Suite chat agents is available in US East (N. Virginia) and US West (Oregon). To learn more, visit the <a href="https://docs.aws.amazon.com/quicksight/latest/user/what-is-quicksight.html" style="cursor: pointer;" contenteditable="false">Amazon Quick Suite User Guide</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/
+    postDateTime: 2025-12-16T08:00:00Z
+    headline: Amazon Quick Suite now supports memory for chat agents
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

@@ -1,0 +1,32 @@
+id: amazon-connect-now-provides-agent-schedu-655edef1
+sourceId: amazon-quick
+title: Amazon Connect now provides agent scheduling metrics in data lake
+url: https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/
+publishedAt: 2026-01-15T16:00:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Connect now provides agent scheduling metrics in data lake, making it easier for you to generate reports and insights from this data. For example, after publishing schedules for next month, you can access interval level (15 minutes or 30 minutes) metrics such as forecasted headcount, scheduled headcount, and projected service level in Connect analytics data lake. You can view aggregated metrics for an entire business unit (forecast group) or broken down by specific demand segments (demand groups). You can then visualize this data in Amazon Quick Sight or another BI tool of your choice for further analysis, such as identifying periods of over or under-staffing. This eliminates the need for manual reviews of agent schedules thus improving productivity for schedulers and supervisors.<br>
+  <br>
+  This feature is available in all <a href="https://docs.aws.amazon.com/connect/latest/adminguide/regions.html#optimization_region">AWS Regions</a> where Amazon Connect agent scheduling is available. To learn more about Amazon Connect agent scheduling, click <a href="https://docs.aws.amazon.com/connect/latest/adminguide/forecasting-capacity-planning-scheduling.html">here</a>.</p>
+raw:
+  id: whats-new-v2#launch-84tzj5itk92e6rwh8565p1
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-84tzj5itk92e6rwh8565p1
+  dateCreated: 2026-01-09T18:01:02+0000
+  dateUpdated: 2026-01-15T17:30:24+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Connect now provides agent scheduling metrics in data lake, making it easier for you to generate reports and insights from this data. For example, after publishing schedules for next month, you can access interval level (15 minutes or 30 minutes) metrics such as forecasted headcount, scheduled headcount, and projected service level in Connect analytics data lake. You can view aggregated metrics for an entire business unit (forecast group) or broken down by specific demand segments (demand groups). You can then visualize this data in Amazon Quick Sight or another BI tool of your choice for further analysis, such as identifying periods of over or under-staffing. This eliminates the need for manual reviews of agent schedules thus improving productivity for schedulers and supervisors.<br>
+      <br>
+      This feature is available in all <a href="https://docs.aws.amazon.com/connect/latest/adminguide/regions.html#optimization_region">AWS Regions</a> where Amazon Connect agent scheduling is available. To learn more about Amazon Connect agent scheduling, click <a href="https://docs.aws.amazon.com/connect/latest/adminguide/forecasting-capacity-planning-scheduling.html">here</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/
+    postDateTime: 2026-01-15T16:00:00Z
+    headline: Amazon Connect now provides agent scheduling metrics in data lake
+matchedKeywords:
+  - Amazon Quick
+status: dismissed
+injectionFlags: []

@@ -1,0 +1,40 @@
+id: amazon-quick-automate-now-supports-impor-c2cafee2
+sourceId: amazon-quick
+title: Amazon Quick Automate now supports import and export of automations
+  across AWS accounts
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/quick-automate-import-export/
+publishedAt: 2026-04-20T20:12:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick Automate now enables you to migrate automation versions across automation groups, AWS accounts, and AWS Regions. Previously, moving automations between environments required time-consuming manual recreation of workflows. This new capability is designed for DevOps teams and organizations managing multi-environment deployments who need to promote tested automations from development to production, deploy across geographic regions, or share proven workflows with other teams.<br>
+  <br>
+  The migration process packages your workflow, runtime configuration, and process step metadata into a secure, encrypted link using AWS KMS encryption. Export links remain valid for 12 hours and can be reused multiple times, eliminating repeated exports. This streamlined approach saves significant time compared to manual recreation and enables point-in-time snapshots for disaster recovery scenarios. Key use cases include promoting automations between development, staging, and production environments, deploying across AWS Regions, and sharing proven automation with teams outside&nbsp;your automation group.<br>
+  <br>
+  This feature is available in all AWS Regions where Quick Automate is enabled, including US East (N. Virginia), US West (Oregon), Europe (Dublin), Europe (London), Europe (Frankfurt), Asia Pacific (Tokyo), and Asia Pacific (Sydney).&nbsp;Note that dependencies such as action connectors, credentials, and humn-in-the-loop task queue configurations are not included in the migration bundle and must be configured separately in the destination environment.</p>
+  <p>To learn more, visit the <a href="https://aws.amazon.com/quick/automate/">Amazon Quick Automate marketing page</a> or see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/export-import-automations.html">export and import documentation</a>.</p>
+raw:
+  id: whats-new-v2#launch-ch2cq4yhtknx7dckrqkjxz
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-ch2cq4yhtknx7dckrqkjxz
+  dateCreated: 2026-04-22T18:42:25+0000
+  dateUpdated: 2026-04-27T20:20:27+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick Automate now enables you to migrate automation versions across automation groups, AWS accounts, and AWS Regions. Previously, moving automations between environments required time-consuming manual recreation of workflows. This new capability is designed for DevOps teams and organizations managing multi-environment deployments who need to promote tested automations from development to production, deploy across geographic regions, or share proven workflows with other teams.<br>
+      <br>
+      The migration process packages your workflow, runtime configuration, and process step metadata into a secure, encrypted link using AWS KMS encryption. Export links remain valid for 12 hours and can be reused multiple times, eliminating repeated exports. This streamlined approach saves significant time compared to manual recreation and enables point-in-time snapshots for disaster recovery scenarios. Key use cases include promoting automations between development, staging, and production environments, deploying across AWS Regions, and sharing proven automation with teams outside&nbsp;your automation group.<br>
+      <br>
+      This feature is available in all AWS Regions where Quick Automate is enabled, including US East (N. Virginia), US West (Oregon), Europe (Dublin), Europe (London), Europe (Frankfurt), Asia Pacific (Tokyo), and Asia Pacific (Sydney).&nbsp;Note that dependencies such as action connectors, credentials, and humn-in-the-loop task queue configurations are not included in the migration bundle and must be configured separately in the destination environment.</p>
+      <p>To learn more, visit the <a href="https://aws.amazon.com/quick/automate/">Amazon Quick Automate marketing page</a> or see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/export-import-automations.html">export and import documentation</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/quick-automate-import-export/
+    postDateTime: 2026-04-20T20:12:00Z
+    headline: Amazon Quick Automate now supports import and export of automations
+      across AWS accounts
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

@@ -1,0 +1,74 @@
+id: amazon-quick-sight-expands-dashboard-the-cebdb33b
+sourceId: amazon-quick
+title: Amazon Quick Sight expands Dashboard Theme Customization
+url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-expands-dashboard-theme-customization
+publishedAt: 2025-11-20T08:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: >-
+  <p><a href="https://aws.amazon.com/quicksight/" style="cursor:
+  pointer;">Amazon Quick Sight</a> now supports comprehensive theming
+  capabilities that enable organizations to maintain consistent brand identity
+  across their analytics dashboards. Authors can customize interactive sheet
+  backgrounds with gradient colors and angles, implement sophisticated card
+  styling with configurable borders and opacity, and control typography for
+  visual titles and subtitles at the theme level.<br>
+
+  <br>
+
+  These enhancements address critical enterprise needs including maintaining
+  corporate visual identity and creating seamless embedded analytics
+  experiences. With theme-level controls, organizations can ensure visual
+  consistency across departments while enabling embedded dashboards to match
+  host application styling. The theming capabilities are particularly valuable
+  for embedded analytics scenarios, as the features enable dashboards to appear
+  native within host applications, enhancing the overall professional appearance
+  and user experience.<br>
+
+  <br>
+
+  Expanded theme capabilities is available in all <a
+  href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html"
+  style="cursor: pointer;">supported Amazon Quick Sight regions</a>.</p>
+raw:
+  id: whats-new-v2#launch-8sah2wvv51oakfpwg1rgch
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-8sah2wvv51oakfpwg1rgch
+  dateCreated: 2025-11-03T17:07:33+0000
+  dateUpdated: 2025-11-24T19:12:44+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: >
+      <p><a href="https://aws.amazon.com/quicksight/" style="cursor:
+      pointer;">Amazon Quick Sight</a> now supports comprehensive theming
+      capabilities that enable organizations to maintain consistent brand
+      identity across their analytics dashboards. Authors can customize
+      interactive sheet backgrounds with gradient colors and angles, implement
+      sophisticated card styling with configurable borders and opacity, and
+      control typography for visual titles and subtitles at the theme level.<br>
+
+      <br>
+
+      These enhancements address critical enterprise needs including maintaining
+      corporate visual identity and creating seamless embedded analytics
+      experiences. With theme-level controls, organizations can ensure visual
+      consistency across departments while enabling embedded dashboards to match
+      host application styling. The theming capabilities are particularly
+      valuable for embedded analytics scenarios, as the features enable
+      dashboards to appear native within host applications, enhancing the
+      overall professional appearance and user experience.<br>
+
+      <br>
+
+      Expanded theme capabilities is available in all <a
+      href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html"
+      style="cursor: pointer;">supported Amazon Quick Sight regions</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/11/amazon-quick-sight-expands-dashboard-theme-customization
+    postDateTime: 2025-11-20T08:00:00Z
+    headline: Amazon Quick Sight expands Dashboard Theme Customization
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

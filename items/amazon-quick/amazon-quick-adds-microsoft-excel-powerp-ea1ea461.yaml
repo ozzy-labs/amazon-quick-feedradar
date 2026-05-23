@@ -1,0 +1,40 @@
+id: amazon-quick-adds-microsoft-excel-powerp-ea1ea461
+sourceId: amazon-quick
+title: Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the
+  Word extension (Preview)
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/
+publishedAt: 2026-04-30T11:30:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Today, Amazon Quick introduces new and upgraded Microsoft 365 extensions in preview for Excel, PowerPoint, and Word, enabling Quick to perform tasks directly within users’ Microsoft 365 environments. These extensions allow you to use AI to perform complex local tasks such as redlining documents, building financial models, and creating presentation-ready decks.<br>
+  The Microsoft Excel extension helps with complex spreadsheet analysis, creating pivot tables and charts, and importing and cleaning data. The Microsoft PowerPoint extension helps you create and refine presentations from Quick data using organization-defined templates. Updates to the Microsoft Word extension include the ability to generate formatted documents with Word primitives, make sweeping edits with track changes enabled, and participate as a reviewer in comments.<br>
+  <br>
+  These extensions transform daily work across teams. Finance teams can build complex models by describing what they need, and sales teams can draft proposals that automatically pull from CRM data. Marketing teams can create branded presentations without manual formatting, legal teams can streamline contract reviews, and IT teams can automate routine data analysis that previously required manual effort.<br>
+  Amazon Quick extensions are available in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Europe (Ireland), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (London).<br>
+  Start working with Amazon Quick by <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank" rel="noopener noreferrer"><u>signing up for an account</u></a>. To learn more about Amazon Quick, visit the <a href="https://aws.amazon.com/quick/" target="_blank" rel="noopener noreferrer">Quick website</a>, and install extensions on the <a href="https://aws.amazon.com/quick/download/" target="_blank" rel="noopener noreferrer">Quick download page</a>.</p>
+raw:
+  id: whats-new-v2#launch-7sreaswcqdcgzzwhyfyjvn
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-7sreaswcqdcgzzwhyfyjvn
+  dateCreated: 2026-04-30T21:27:13+0000
+  dateUpdated: 2026-04-30T21:27:13+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Today, Amazon Quick introduces new and upgraded Microsoft 365 extensions in preview for Excel, PowerPoint, and Word, enabling Quick to perform tasks directly within users’ Microsoft 365 environments. These extensions allow you to use AI to perform complex local tasks such as redlining documents, building financial models, and creating presentation-ready decks.<br>
+      The Microsoft Excel extension helps with complex spreadsheet analysis, creating pivot tables and charts, and importing and cleaning data. The Microsoft PowerPoint extension helps you create and refine presentations from Quick data using organization-defined templates. Updates to the Microsoft Word extension include the ability to generate formatted documents with Word primitives, make sweeping edits with track changes enabled, and participate as a reviewer in comments.<br>
+      <br>
+      These extensions transform daily work across teams. Finance teams can build complex models by describing what they need, and sales teams can draft proposals that automatically pull from CRM data. Marketing teams can create branded presentations without manual formatting, legal teams can streamline contract reviews, and IT teams can automate routine data analysis that previously required manual effort.<br>
+      Amazon Quick extensions are available in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Europe (Ireland), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (London).<br>
+      Start working with Amazon Quick by <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank" rel="noopener noreferrer"><u>signing up for an account</u></a>. To learn more about Amazon Quick, visit the <a href="https://aws.amazon.com/quick/" target="_blank" rel="noopener noreferrer">Quick website</a>, and install extensions on the <a href="https://aws.amazon.com/quick/download/" target="_blank" rel="noopener noreferrer">Quick download page</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/
+    postDateTime: 2026-04-30T11:30:00Z
+    headline: Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates
+      the Word extension (Preview)
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

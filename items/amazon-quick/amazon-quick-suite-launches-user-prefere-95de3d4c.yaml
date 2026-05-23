@@ -1,0 +1,58 @@
+id: amazon-quick-suite-launches-user-prefere-95de3d4c
+sourceId: amazon-quick
+title: Amazon Quick Suite launches User Preferences for chat personalization
+url: https://aws.amazon.com/about-aws/whats-new/2026/03/user-preferences-in-quick/
+publishedAt: 2026-03-09T20:03:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: >-
+  <p>We are announcing User Preferences in Amazon Quick Suite – a new feature
+  that gives users greater control over how Quick looks, feels, and works for
+  them. With User Preferences, users can now customize their Chat panel layout
+  by setting it to open expanded or collapsed by default; Quick also
+  automatically remembers their last used setting and resumes from where they
+  left off. Users can select a default chat agent and pre-select a default
+  knowledge scope for My Assistant, so their preferred agent is ready each time
+  they return to Quick. Users can also personalize their experience by letting
+  Quick know what to call them and sharing their area of focus at work – Quick
+  uses this context to personalize responses and make interactions more
+  relevant. Finally, users can view and manage their memories directly from User
+  Preferences.<br>
+
+  <br>
+
+  Previously, users had no way to persist their preferred Chat settings, agent
+  selection, or personal context across sessions. User Preferences addresses
+  this by giving users a single place to configure how Quick works for them,
+  saving time and making every interaction feel more personalized from the
+  start.<br>
+
+  <br>
+
+  User Preferences is available in all AWS Regions where Amazon Quick Suite is
+  available. To learn more, visit the <a
+  href="https://docs.aws.amazon.com/quick/latest/userguide/what-is.html">Amazon
+  Quick Suite User Guide.</a></p>
+raw:
+  id: whats-new-v2#launch-nwobmdhsbz3x5kt81kfjtb
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-nwobmdhsbz3x5kt81kfjtb
+  dateCreated: 2026-03-09T20:08:36+0000
+  dateUpdated: 2026-03-09T23:16:19+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>We are announcing User Preferences in Amazon Quick Suite – a new feature that gives users greater control over how Quick looks, feels, and works for them. With User Preferences, users can now customize their Chat panel layout by setting it to open expanded or collapsed by default; Quick also automatically remembers their last used setting and resumes from where they left off. Users can select a default chat agent and pre-select a default knowledge scope for My Assistant, so their preferred agent is ready each time they return to Quick. Users can also personalize their experience by letting Quick know what to call them and sharing their area of focus at work – Quick uses this context to personalize responses and make interactions more relevant. Finally, users can view and manage their memories directly from User Preferences.<br>
+      <br>
+      Previously, users had no way to persist their preferred Chat settings, agent selection, or personal context across sessions. User Preferences addresses this by giving users a single place to configure how Quick works for them, saving time and making every interaction feel more personalized from the start.<br>
+      <br>
+      User Preferences is available in all AWS Regions where Amazon Quick Suite is available. To learn more, visit the <a href="https://docs.aws.amazon.com/quick/latest/userguide/what-is.html">Amazon Quick Suite User Guide.</a></p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/03/user-preferences-in-quick/
+    postDateTime: 2026-03-09T20:03:00Z
+    headline: Amazon Quick Suite launches User Preferences for chat personalization
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

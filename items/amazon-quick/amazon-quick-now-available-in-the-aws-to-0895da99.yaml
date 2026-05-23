@@ -1,0 +1,58 @@
+id: amazon-quick-now-available-in-the-aws-to-0895da99
+sourceId: amazon-quick
+title: Amazon Quick Now Available in the AWS Tokyo Region
+url: https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-tokyo-region/
+publishedAt: 2026-03-25T17:02:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: >-
+  <p>Amazon Quick is now available in the AWS Asia Pacific (Tokyo) region
+  (ap-northeast-1). This launch allows customers in Japan to access the full
+  power of Amazon Quick while meeting local and regional requirements for data
+  sovereignty.</p>
+
+  <p>Amazon Quick provides business users an agentic teammate that quickly
+  answers questions at work and turns those answers into actions. With Amazon
+  Quick, every user is empowered to make better decisions, faster and take
+  actions without switching applications using AI they can trust. Today’s launch
+  allows customers to take advantage of Amazon Quick’s capabilities including
+  AI-powered chat, Research, Spaces, Flows, and QuickSight dashboards — with
+  their data stored and processed locally within the AWS Tokyo region. This
+  expansion also supports in-region inference through JP-CRIS (Japan
+  Cross-Region Inference), ensuring that inference requests from Tokyo instances
+  are routed exclusively within the AWS Tokyo region. Customers in regulated
+  industries such as financial services, healthcare, and the public sector can
+  meet strict data sovereignty requirements of Japan's data protection
+  frameworks, including the Act on the Protection of Personal Information
+  (APPI).</p>
+
+  <p>For a full list of AWS regions where Amazon Quick is available, visit
+  the&nbsp;<a
+  href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html">Quick
+  regional availability page.</a>&nbsp;To learn more, visit the&nbsp;<a
+  href="https://docs.aws.amazon.com/quick/">Amazon Quick
+  documentation</a>&nbsp;or&nbsp;<a href="/quick/">product detail page</a>.</p>
+
+  <p>&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-tsxrx5euibijdftc5dtza4
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-tsxrx5euibijdftc5dtza4
+  dateCreated: 2026-03-18T17:04:03+0000
+  dateUpdated: 2026-03-26T02:13:51+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick is now available in the AWS Asia Pacific (Tokyo) region (ap-northeast-1). This launch allows customers in Japan to access the full power of Amazon Quick while meeting local and regional requirements for data sovereignty.</p>
+      <p>Amazon Quick provides business users an agentic teammate that quickly answers questions at work and turns those answers into actions. With Amazon Quick, every user is empowered to make better decisions, faster and take actions without switching applications using AI they can trust. Today’s launch allows customers to take advantage of Amazon Quick’s capabilities including AI-powered chat, Research, Spaces, Flows, and QuickSight dashboards — with their data stored and processed locally within the AWS Tokyo region. This expansion also supports in-region inference through JP-CRIS (Japan Cross-Region Inference), ensuring that inference requests from Tokyo instances are routed exclusively within the AWS Tokyo region. Customers in regulated industries such as financial services, healthcare, and the public sector can meet strict data sovereignty requirements of Japan's data protection frameworks, including the Act on the Protection of Personal Information (APPI).</p>
+      <p>For a full list of AWS regions where Amazon Quick is available, visit the&nbsp;<a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html">Quick regional availability page.</a>&nbsp;To learn more, visit the&nbsp;<a href="https://docs.aws.amazon.com/quick/">Amazon Quick documentation</a>&nbsp;or&nbsp;<a href="/quick/">product detail page</a>.</p>
+      <p>&nbsp;</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-tokyo-region/
+    postDateTime: 2026-03-25T17:02:00Z
+    headline: Amazon Quick Now Available in the AWS Tokyo Region
+matchedKeywords:
+  - Amazon Quick
+status: dismissed
+injectionFlags: []

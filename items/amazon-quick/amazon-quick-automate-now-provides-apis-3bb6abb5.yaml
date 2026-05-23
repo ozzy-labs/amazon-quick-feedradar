@@ -1,0 +1,33 @@
+id: amazon-quick-automate-now-provides-apis-3bb6abb5
+sourceId: amazon-quick
+title: Amazon Quick Automate now provides APIs to trigger and monitor automation jobs
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-automate-api-trigger/
+publishedAt: 2026-04-21T05:49:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick Automate now provides APIs that enable you to programmatically start automation jobs and check their status from external applications and services. The new StartAutomationJob and DescribeAutomationJob APIs allow automation developers and DevOps engineers to invoke deployed automations with custom input data and retrieve structured results when jobs complete, extending Quick Automate's capabilities beyond scheduled execution.</p>
+  <p>These APIs enable seamless integration of Quick Automate workflows into your existing applications and event-driven architectures. You can trigger automations in response to application events such as new user registrations or order completions, pass dynamic input parameters with typed schemas, and use the output data for further processing. Use cases include incorporating automations into data pipelines, coordinating workflows across multiple AWS services or third-party applications, and executing batch operations with different input parameters from a single application.</p>
+  <p>This feature is available through AWS SDK and AWS CLI in all AWS Regions where Quick Automate is enabled, including US East (N. Virginia), US West (Oregon), Europe (Dublin), Europe (London), Europe (Frankfurt), Asia Pacific (Tokyo), and Asia Pacific (Sydney). To learn more, visit the <a href="https://aws.amazon.com/quick/automate/">Amazon Quick Automate marketing page</a> or see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/deploying-automations.html#setting-up-triggers">API documentation</a>.</p>
+raw:
+  id: whats-new-v2#launch-mbbvczktpgu2qlgazbidpf
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-mbbvczktpgu2qlgazbidpf
+  dateCreated: 2026-04-22T20:15:38+0000
+  dateUpdated: 2026-04-27T20:28:08+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick Automate now provides APIs that enable you to programmatically start automation jobs and check their status from external applications and services. The new StartAutomationJob and DescribeAutomationJob APIs allow automation developers and DevOps engineers to invoke deployed automations with custom input data and retrieve structured results when jobs complete, extending Quick Automate's capabilities beyond scheduled execution.</p>
+      <p>These APIs enable seamless integration of Quick Automate workflows into your existing applications and event-driven architectures. You can trigger automations in response to application events such as new user registrations or order completions, pass dynamic input parameters with typed schemas, and use the output data for further processing. Use cases include incorporating automations into data pipelines, coordinating workflows across multiple AWS services or third-party applications, and executing batch operations with different input parameters from a single application.</p>
+      <p>This feature is available through AWS SDK and AWS CLI in all AWS Regions where Quick Automate is enabled, including US East (N. Virginia), US West (Oregon), Europe (Dublin), Europe (London), Europe (Frankfurt), Asia Pacific (Tokyo), and Asia Pacific (Sydney). To learn more, visit the <a href="https://aws.amazon.com/quick/automate/">Amazon Quick Automate marketing page</a> or see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/deploying-automations.html#setting-up-triggers">API documentation</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-automate-api-trigger/
+    postDateTime: 2026-04-21T05:49:00Z
+    headline: Amazon Quick Automate now provides APIs to trigger and monitor
+      automation jobs
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

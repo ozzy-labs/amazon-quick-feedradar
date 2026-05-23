@@ -1,0 +1,40 @@
+id: amazon-quick-now-supports-multi-account-f0746e69
+sourceId: amazon-quick
+title: Amazon Quick now supports multi-account sign-in within the same browser
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-multi-account-sign-in/
+publishedAt: 2026-04-16T12:00:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Today, AWS announces multi-session support for Amazon Quick, which enables customers to access up to five Amazon Quick accounts simultaneously within the same browser. The feature also includes the Amazon Quick account name in all URLs, enabling users to easily access the correct account when opening agents, spaces, flows, research reports, dashboards, and other assets.<br>
+  <br>
+  Customers use multiple accounts for different environments such as development, testing, and production, and compare insights and resource configurations across multiple accounts for troubleshooting and other application-related jobs. Using multi-session capability in Amazon Quick, customers can now sign in to multiple accounts and manage their resources in a single browser. You can sign in to another account by accessing the Amazon Quick top right menu and selecting the option to sign in to another account. For users accessing global URLs without an account name, Amazon Quick presents an account input page that pre-populates the accounts they are logged into, allowing them to select the desired account. You have the option to log out of the current session in the specific browser tab or log out of all sessions.<br>
+  <br>
+  Amazon Quick multi-account sign-in is available in all <a href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html">supported Amazon Quick regions</a>.<br>
+  <br>
+  To learn more about this, visit <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/signing-in.html">Amazon Quick Signing In</a></p>
+raw:
+  id: whats-new-v2#launch-2tddhzjc7uswgcfbjdvrwk
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-2tddhzjc7uswgcfbjdvrwk
+  dateCreated: 2026-04-09T15:08:39+0000
+  dateUpdated: 2026-04-16T19:30:23+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Today, AWS announces multi-session support for Amazon Quick, which enables customers to access up to five Amazon Quick accounts simultaneously within the same browser. The feature also includes the Amazon Quick account name in all URLs, enabling users to easily access the correct account when opening agents, spaces, flows, research reports, dashboards, and other assets.<br>
+      <br>
+      Customers use multiple accounts for different environments such as development, testing, and production, and compare insights and resource configurations across multiple accounts for troubleshooting and other application-related jobs. Using multi-session capability in Amazon Quick, customers can now sign in to multiple accounts and manage their resources in a single browser. You can sign in to another account by accessing the Amazon Quick top right menu and selecting the option to sign in to another account. For users accessing global URLs without an account name, Amazon Quick presents an account input page that pre-populates the accounts they are logged into, allowing them to select the desired account. You have the option to log out of the current session in the specific browser tab or log out of all sessions.<br>
+      <br>
+      Amazon Quick multi-account sign-in is available in all <a href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html">supported Amazon Quick regions</a>.<br>
+      <br>
+      To learn more about this, visit <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/signing-in.html">Amazon Quick Signing In</a></p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-multi-account-sign-in/
+    postDateTime: 2026-04-16T12:00:00Z
+    headline: " Amazon Quick now supports multi-account sign-in within the same browser"
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

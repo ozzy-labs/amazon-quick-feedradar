@@ -1,0 +1,39 @@
+id: amazon-quick-now-supports-document-level-0ce185df
+sourceId: amazon-quick
+title: Amazon Quick now supports document-level access controls for ACL support for S3
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-acl-s3/
+publishedAt: 2026-04-10T15:11:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick now supports document-level access control lists (ACLs) for Amazon S3 knowledge bases, enabling you to manage granular permissions for documents stored in S3. With this feature, you can control which users and groups can access specific documents or folders within your knowledge base, ensuring that sensitive information is only available to authorized personnel.<br>
+  <br>
+  You can configure document-level ACLs using two methods optimized for different use cases. The global ACL configuration file provides centralized permission management at the folder level, ideal for organizations with stable permission structures. Alternatively, document-level metadata files enable faster permission updates by allowing you to define access controls for individual documents, requiring reindexing only for affected documents rather than entire folder structures.<br>
+  Document-level ACL configuration is permanent and must be set when creating a new knowledge base. For ACL-enabled knowledge bases, documents without an associated ACL entry are not ingested, ensuring comprehensive access control across your document repository.</p>
+  <p>This Feature is available in all <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html#regions-qs" target="_blank" rel="noopener noreferrer">AWS Regions where Amazon Quick is available</a>.&nbsp;<br>
+  To get started with document-level ACLs for Amazon S3 knowledge bases, visit the <a href="https://docs.aws.amazon.com/quicksuite/" target="_blank">Amazon Quick User Guide</a>.</p>
+raw:
+  id: whats-new-v2#launch-2tddhzjc7uswgcfbjdvrwk-1
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-2tddhzjc7uswgcfbjdvrwk-1
+  dateCreated: 2026-04-14T14:06:30+0000
+  dateUpdated: 2026-04-14T14:06:31+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick now supports document-level access control lists (ACLs) for Amazon S3 knowledge bases, enabling you to manage granular permissions for documents stored in S3. With this feature, you can control which users and groups can access specific documents or folders within your knowledge base, ensuring that sensitive information is only available to authorized personnel.<br>
+      <br>
+      You can configure document-level ACLs using two methods optimized for different use cases. The global ACL configuration file provides centralized permission management at the folder level, ideal for organizations with stable permission structures. Alternatively, document-level metadata files enable faster permission updates by allowing you to define access controls for individual documents, requiring reindexing only for affected documents rather than entire folder structures.<br>
+      Document-level ACL configuration is permanent and must be set when creating a new knowledge base. For ACL-enabled knowledge bases, documents without an associated ACL entry are not ingested, ensuring comprehensive access control across your document repository.</p>
+      <p>This Feature is available in all <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html#regions-qs" target="_blank" rel="noopener noreferrer">AWS Regions where Amazon Quick is available</a>.&nbsp;<br>
+      To get started with document-level ACLs for Amazon S3 knowledge bases, visit the <a href="https://docs.aws.amazon.com/quicksuite/" target="_blank">Amazon Quick User Guide</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-acl-s3/
+    postDateTime: 2026-04-10T15:11:00Z
+    headline: Amazon Quick now supports document-level access controls for ACL
+      support for S3
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

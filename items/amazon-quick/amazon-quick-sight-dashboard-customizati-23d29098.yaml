@@ -1,0 +1,37 @@
+id: amazon-quick-sight-dashboard-customizati-23d29098
+sourceId: amazon-quick
+title: Amazon Quick Sight dashboard customization now includes tables and pivot tables
+url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-dashboard-tables-pivot-tables/
+publishedAt: 2025-11-21T08:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p><a href="https://aws.amazon.com/quicksuite/quicksight/">Amazon Quick Sight</a> has expanded customization capabilities to include tables and pivot tables in dashboards. This update enables readers to personalize their data views by sorting, reordering, hiding/showing, and freezing columns—all without requiring updates from dashboard authors.<br>
+  <br>
+  These capabilities are especially valuable for teams that need to tailor dashboard views for different analytical needs and collaborate across departments. For example, sales managers can quickly sort by revenue to identify top performers, while finance teams can freeze account columns to maintain context in large datasets.<br>
+  <br>
+  These new customization features are now available in Amazon Quick Sight Enterprise Edition across all <a href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html">supported Amazon Quick Sight regions</a>.&nbsp;Learn how to get started with these new customization features in <a href="https://aws.amazon.com/blogs/business-intelligence/empower-readers-with-customizable-tables-and-pivot-tables-in-amazon-quick-sight/">our blog post.</a></p>
+raw:
+  id: whats-new-v2#launch-sjq9y2yutarq3yqtha6tsf
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-sjq9y2yutarq3yqtha6tsf
+  dateCreated: 2025-11-20T22:27:15+0000
+  dateUpdated: 2025-11-21T23:54:29+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p><a href="https://aws.amazon.com/quicksuite/quicksight/">Amazon Quick Sight</a> has expanded customization capabilities to include tables and pivot tables in dashboards. This update enables readers to personalize their data views by sorting, reordering, hiding/showing, and freezing columns—all without requiring updates from dashboard authors.<br>
+      <br>
+      These capabilities are especially valuable for teams that need to tailor dashboard views for different analytical needs and collaborate across departments. For example, sales managers can quickly sort by revenue to identify top performers, while finance teams can freeze account columns to maintain context in large datasets.<br>
+      <br>
+      These new customization features are now available in Amazon Quick Sight Enterprise Edition across all <a href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html">supported Amazon Quick Sight regions</a>.&nbsp;Learn how to get started with these new customization features in <a href="https://aws.amazon.com/blogs/business-intelligence/empower-readers-with-customizable-tables-and-pivot-tables-in-amazon-quick-sight/">our blog post.</a></p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/11/amazon-quick-sight-dashboard-tables-pivot-tables/
+    postDateTime: 2025-11-21T08:00:00Z
+    headline: Amazon Quick Sight dashboard customization now includes tables and
+      pivot tables
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

@@ -1,0 +1,32 @@
+id: build-custom-applications-using-natural-6191332f
+sourceId: amazon-quick
+title: Build custom applications using natural language in Amazon Quick (Preview)
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications/
+publishedAt: 2026-04-28T14:30:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Today, AWS announces new features in preview for <a href="https://www.aws.com/quick/" target="_blank" rel="noopener noreferrer">Amazon Quick</a>, allowing users to create custom web applications in minutes using natural language. Creating internal tools and web applications typically requires developer resources or technical skills, but with this new capability, any user can simply describe what they need and get a fully interactive application—no coding required. These applications connect to live data sources, implement complex workflows, embed AI-powered features, and can be published and shared with your team in one click.</p>
+  <p>Whether you’re a sales leader wanting to create an application for pipeline review by pulling data from a CRM and other business applications in real time, or a finance manager looking to simplify monthly close by aggregating information from QuickBooks, Excel, and internal systems, Quick allows anyone to create applications that will drive their business forward using a simple prompt.</p>
+  <p>Amazon Quick is an AI assistant for work that turns questions into answers, answers into actions, and actions into outcomes — for you and your entire team. You can <a href="https://us-east-1.signin.aws/platform/d-9067642ac7/login?workflowStateHandle=d95d4042-bc2a-48d9-9c53-f08910af24d8#/validation" target="_blank" rel="noopener noreferrer">sign up</a> for an account and start working with Amazon Quick for free; no AWS account or credit card is required. A guided onboarding experience helps you find value in less than 5 minutes, with role-specific workflows for sales, marketing, finance, HR, and more. To learn more about building applications in Quick, visit the <a href="https://docs.aws.amazon.com/quick/latest/userguide/using-amazon-quick-apps.html" target="_blank" rel="noopener noreferrer">product documentation</a> or <a href="https://www.aws.com/quick/" target="_blank" rel="noopener noreferrer">Amazon Quick product page</a>.</p>
+raw:
+  id: whats-new-v2#launch-rnravjc8bt9vhcl1ksywj4
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-rnravjc8bt9vhcl1ksywj4
+  dateCreated: 2026-04-28T18:25:12+0000
+  dateUpdated: 2026-04-28T18:25:13+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Today, AWS announces new features in preview for <a href="https://www.aws.com/quick/" target="_blank" rel="noopener noreferrer">Amazon Quick</a>, allowing users to create custom web applications in minutes using natural language. Creating internal tools and web applications typically requires developer resources or technical skills, but with this new capability, any user can simply describe what they need and get a fully interactive application—no coding required. These applications connect to live data sources, implement complex workflows, embed AI-powered features, and can be published and shared with your team in one click.</p>
+      <p>Whether you’re a sales leader wanting to create an application for pipeline review by pulling data from a CRM and other business applications in real time, or a finance manager looking to simplify monthly close by aggregating information from QuickBooks, Excel, and internal systems, Quick allows anyone to create applications that will drive their business forward using a simple prompt.</p>
+      <p>Amazon Quick is an AI assistant for work that turns questions into answers, answers into actions, and actions into outcomes — for you and your entire team. You can <a href="https://us-east-1.signin.aws/platform/d-9067642ac7/login?workflowStateHandle=d95d4042-bc2a-48d9-9c53-f08910af24d8#/validation" target="_blank" rel="noopener noreferrer">sign up</a> for an account and start working with Amazon Quick for free; no AWS account or credit card is required. A guided onboarding experience helps you find value in less than 5 minutes, with role-specific workflows for sales, marketing, finance, HR, and more. To learn more about building applications in Quick, visit the <a href="https://docs.aws.amazon.com/quick/latest/userguide/using-amazon-quick-apps.html" target="_blank" rel="noopener noreferrer">product documentation</a> or <a href="https://www.aws.com/quick/" target="_blank" rel="noopener noreferrer">Amazon Quick product page</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/custom-applications/
+    postDateTime: 2026-04-28T14:30:00Z
+    headline: Build custom applications using natural language in Amazon Quick (Preview)
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

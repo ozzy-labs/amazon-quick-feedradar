@@ -1,0 +1,70 @@
+id: amazon-cloudwatch-launches-unified-manag-6ecc1f01
+sourceId: amazon-quick
+title: Amazon CloudWatch launches unified management and analytics for
+  operational, security, and compliance data
+url: https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-unified-management-analytics
+publishedAt: 2025-12-02T13:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: >-
+  <p>Amazon CloudWatch now provides new data management and analytics
+  capabilities that allow you to unify operational, security, and compliance
+  data across your AWS environment and third-party sources. DevOps teams,
+  security analysts, and compliance officers can now access all their data in a
+  single place, eliminating the need to maintain multiple separate data stores
+  and complex (extract-transform-load) ETL pipelines. CloudWatch now offers
+  greater flexibility in where and how customers gain insights into this data,
+  both natively in CloudWatch or with any Apache Iceberg-compatible tool.<br>
+
+  <br>
+
+  With the unified data store enhancements, customers can now easily collect and
+  aggregate logs across AWS accounts and regions aligned to geographic
+  boundaries, business units, or persona-specific requirements. With AWS
+  Organization-wide enablement for AWS sources such as AWS CloudTrail, Amazon
+  VPC, and Amazon WAF, and managed collectors for third party sources such as
+  Crowdstrike, Okta, Palo Alto Networks, CloudWatch makes it easy to bring more
+  of your logs together. Customers can use pipelines to transform and enrich
+  their logs to standard formats such as Open Cybersecurity Schema Framework
+  (OCSF) for security analytics, and define facets to accelerate insights on
+  their data. Customers can make their data available in managed Amazon S3
+  Tables at no additional storage charge, enabling teams to query data in Amazon
+  SageMaker Unified Studio, Amazon Quick Suite, Amazon Athena, Amazon Redshift,
+  or any Apache Iceberg-compatible analytics tool.<br>
+
+  <br>
+
+  To get started, visit the Ingestion page in the CloudWatch console and add one
+  or more data sources. To learn more about Amazon CloudWatch unified data
+  store, visit the <a
+  href="https://aws.amazon.com/cloudwatch/features/unified-data-and-telemetry/"
+  target="_blank">product page</a>, <a
+  href="https://aws.amazon.com/cloudwatch/pricing/" target="_blank">pricing
+  page</a>, and <a href="https://docs.aws.amazon.com/cloudwatch/"
+  target="_blank">documentation</a>. For Regional availability, visit the <a
+  href="https://builder.aws.com/build/capabilities" target="_blank">AWS Builder
+  Center</a>.</p>
+raw:
+  id: whats-new-v2#launch-bnymjc6zyztkbwqviwez1w-2
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-bnymjc6zyztkbwqviwez1w-2
+  dateCreated: 2025-11-26T20:26:36+0000
+  dateUpdated: 2025-12-02T19:42:30+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon CloudWatch now provides new data management and analytics capabilities that allow you to unify operational, security, and compliance data across your AWS environment and third-party sources. DevOps teams, security analysts, and compliance officers can now access all their data in a single place, eliminating the need to maintain multiple separate data stores and complex (extract-transform-load) ETL pipelines. CloudWatch now offers greater flexibility in where and how customers gain insights into this data, both natively in CloudWatch or with any Apache Iceberg-compatible tool.<br>
+      <br>
+      With the unified data store enhancements, customers can now easily collect and aggregate logs across AWS accounts and regions aligned to geographic boundaries, business units, or persona-specific requirements. With AWS Organization-wide enablement for AWS sources such as AWS CloudTrail, Amazon VPC, and Amazon WAF, and managed collectors for third party sources such as Crowdstrike, Okta, Palo Alto Networks, CloudWatch makes it easy to bring more of your logs together. Customers can use pipelines to transform and enrich their logs to standard formats such as Open Cybersecurity Schema Framework (OCSF) for security analytics, and define facets to accelerate insights on their data. Customers can make their data available in managed Amazon S3 Tables at no additional storage charge, enabling teams to query data in Amazon SageMaker Unified Studio, Amazon Quick Suite, Amazon Athena, Amazon Redshift, or any Apache Iceberg-compatible analytics tool.<br>
+      <br>
+      To get started, visit the Ingestion page in the CloudWatch console and add one or more data sources. To learn more about Amazon CloudWatch unified data store, visit the <a href="https://aws.amazon.com/cloudwatch/features/unified-data-and-telemetry/" target="_blank">product page</a>, <a href="https://aws.amazon.com/cloudwatch/pricing/" target="_blank">pricing page</a>, and <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">documentation</a>. For Regional availability, visit the <a href="https://builder.aws.com/build/capabilities" target="_blank">AWS Builder Center</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/12/amazon-cloudwatch-unified-management-analytics
+    postDateTime: 2025-12-02T13:00:00Z
+    headline: Amazon CloudWatch launches unified management and analytics for
+      operational, security, and compliance data
+matchedKeywords:
+  - Amazon Quick
+status: dismissed
+injectionFlags: []

@@ -1,0 +1,42 @@
+id: amazon-quick-now-available-as-a-desktop-9d957fec
+sourceId: amazon-quick
+title: Amazon Quick now available as a desktop application for macOS and Windows
+  (Preview)
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/
+publishedAt: 2026-04-28T14:30:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick is now available as a native desktop application for MacOS and Windows in preview. The desktop application extends Quick beyond your browser and utilizes the capabilities on your computer– including direct access to local files, proactive OS-level notifications, and native desktop control. Teams and individuals who want an AI assistant that understands their full work context across files, calendar, communications, and applications can now run Quick directly on their desktop.<br>
+  <br>
+  With Quick on your desktop, you can read and work with files on your computer without uploading them, receive notifications when action items, calendar conflicts, or messages need your attention, and automate browser-based tasks and desktop applications. Quick builds a personal knowledge graph that learns your people, projects, and relationships across every interaction–compounding context over time. For builders, the desktop application supports local Model Context Protocol (MCP) connections to coding agents. Memory, knowledge graph, and agents are shared across web and desktop, so your context travels with you across surfaces.<br>
+  <br>
+  The Amazon Quick desktop application is available in preview to all Quick subscribers on MacOS and Windows in all US East (N. Virginia).<br>
+  <br>
+  To get started, download the Quick desktop application <a href="https://aws.amazon.com/quick/download/" target="_blank" rel="noopener noreferrer"><u>here.</u></a>&nbsp; Start working with Amazon Quick by <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation"><u>signing up for an account</u></a>. To learn more, visit our <a href="https://aws.amazon.com/quick/desktop/" target="_blank" rel="noopener noreferrer"><u>website</u></a>&nbsp;and <a href="https://docs.aws.amazon.com/quick/latest/userguide/amazon-quick-desktop.html" target="_blank" rel="noopener noreferrer"><u>Amazon Quick documentation.</u></a></p>
+raw:
+  id: whats-new-v2#launch-pvsskzdnfre2z1te6hkwsz
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-pvsskzdnfre2z1te6hkwsz
+  dateCreated: 2026-04-28T16:58:41+0000
+  dateUpdated: 2026-04-28T19:24:33+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick is now available as a native desktop application for MacOS and Windows in preview. The desktop application extends Quick beyond your browser and utilizes the capabilities on your computer– including direct access to local files, proactive OS-level notifications, and native desktop control. Teams and individuals who want an AI assistant that understands their full work context across files, calendar, communications, and applications can now run Quick directly on their desktop.<br>
+      <br>
+      With Quick on your desktop, you can read and work with files on your computer without uploading them, receive notifications when action items, calendar conflicts, or messages need your attention, and automate browser-based tasks and desktop applications. Quick builds a personal knowledge graph that learns your people, projects, and relationships across every interaction–compounding context over time. For builders, the desktop application supports local Model Context Protocol (MCP) connections to coding agents. Memory, knowledge graph, and agents are shared across web and desktop, so your context travels with you across surfaces.<br>
+      <br>
+      The Amazon Quick desktop application is available in preview to all Quick subscribers on MacOS and Windows in all US East (N. Virginia).<br>
+      <br>
+      To get started, download the Quick desktop application <a href="https://aws.amazon.com/quick/download/" target="_blank" rel="noopener noreferrer"><u>here.</u></a>&nbsp; Start working with Amazon Quick by <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation"><u>signing up for an account</u></a>. To learn more, visit our <a href="https://aws.amazon.com/quick/desktop/" target="_blank" rel="noopener noreferrer"><u>website</u></a>&nbsp;and <a href="https://docs.aws.amazon.com/quick/latest/userguide/amazon-quick-desktop.html" target="_blank" rel="noopener noreferrer"><u>Amazon Quick documentation.</u></a></p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/
+    postDateTime: 2026-04-28T14:30:00Z
+    headline: Amazon Quick now available as a desktop application for macOS and
+      Windows (Preview)
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

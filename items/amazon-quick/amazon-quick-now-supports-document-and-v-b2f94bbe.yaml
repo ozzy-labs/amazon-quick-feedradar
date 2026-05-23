@@ -1,0 +1,40 @@
+id: amazon-quick-now-supports-document-and-v-b2f94bbe
+sourceId: amazon-quick
+title: Amazon Quick now supports document and visual creation in chat
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick/
+publishedAt: 2026-04-28T11:30:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Today, Amazon Quick introduces document and visual creation capabilities, enabling you to produce polished documents, presentations, spreadsheets, and more through natural language without leaving your conversation. No more switching between multiple tools to draft reports, build decks, or format tables. Quick users can now create documents and visuals, refine them in conversation or inline, and download finished files including Word, PDF, PowerPoint, and Excel formats.<br>
+  <br>
+  Quick also generates images, infographics, charts, and other visuals you can embed in any document or presentation, or export as standalone image files, all from the same conversation. Visual creation is currently available in preview.<br>
+  Whether you need to generate an executive briefing from meeting notes, create a deck to review quarterly sales trends, build a spreadsheet in Excel or produce an infographic that brings your data to life, Quick handles the end-to-end creation process within your existing chat workflow. This capability is ideal for business analysts, product managers, marketing, finance, and operations teams who need to quickly transform data and insights into shareable, presentation-ready materials without switching tools.<br>
+  <br>
+  Document creation is available in all AWS Regions where Amazon Quick is currently supported. Visual creation (preview) is available in the US East (N. Virginia) and US West (Oregon) AWS Regions.<br>
+  You can <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank" rel="noopener noreferrer"><u>sign up for an account</u></a> and start working with Quick for free; no AWS account or credit card is required. To get started with document and visual creation, open a chat conversation and describe whatever you need created. To learn more, see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/document-and-visual-creation.html" target="_blank" rel="noopener noreferrer"><u>Amazon Quick User Guide</u></a>.</p>
+raw:
+  id: whats-new-v2#launch-juw4bnoww1mvwvbbwzsnlp
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-juw4bnoww1mvwvbbwzsnlp
+  dateCreated: 2026-04-28T16:51:43+0000
+  dateUpdated: 2026-04-28T16:51:44+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Today, Amazon Quick introduces document and visual creation capabilities, enabling you to produce polished documents, presentations, spreadsheets, and more through natural language without leaving your conversation. No more switching between multiple tools to draft reports, build decks, or format tables. Quick users can now create documents and visuals, refine them in conversation or inline, and download finished files including Word, PDF, PowerPoint, and Excel formats.<br>
+      <br>
+      Quick also generates images, infographics, charts, and other visuals you can embed in any document or presentation, or export as standalone image files, all from the same conversation. Visual creation is currently available in preview.<br>
+      Whether you need to generate an executive briefing from meeting notes, create a deck to review quarterly sales trends, build a spreadsheet in Excel or produce an infographic that brings your data to life, Quick handles the end-to-end creation process within your existing chat workflow. This capability is ideal for business analysts, product managers, marketing, finance, and operations teams who need to quickly transform data and insights into shareable, presentation-ready materials without switching tools.<br>
+      <br>
+      Document creation is available in all AWS Regions where Amazon Quick is currently supported. Visual creation (preview) is available in the US East (N. Virginia) and US West (Oregon) AWS Regions.<br>
+      You can <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank" rel="noopener noreferrer"><u>sign up for an account</u></a> and start working with Quick for free; no AWS account or credit card is required. To get started with document and visual creation, open a chat conversation and describe whatever you need created. To learn more, see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/document-and-visual-creation.html" target="_blank" rel="noopener noreferrer"><u>Amazon Quick User Guide</u></a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick/
+    postDateTime: 2026-04-28T11:30:00Z
+    headline: Amazon Quick now supports document and visual creation in chat
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

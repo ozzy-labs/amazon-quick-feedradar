@@ -1,0 +1,40 @@
+id: amazon-quick-sight-expands-font-customiz-50127101
+sourceId: amazon-quick
+title: Amazon Quick Sight expands font customization for visuals
+url: https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization
+publishedAt: 2025-10-13T15:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p><a href="https://aws.amazon.com/quicksight/">Amazon Quick Sight</a> now supports font customization for data labels and axes. Authors can now customize fonts for data labels and axes in supported charts, in addition to the previously supported <a href="https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-font-customization-visuals/">font customization for visual titles, subtitles, and legend, as well as tables and pivot tables headers.</a><br>
+  <br>
+  Authors can set the font size (in pixels), font family, color, and styling options like bold, italics, and underline across analysis, including dashboards, reports and embedded scenarios. With this update, you can further align your dashboard's fonts with your organization's branding guidelines, creating a more cohesive and visually appealing experience. Additionally, the expanded font customization options help improve readability, especially when viewing visualizations on large screens.<br>
+  <br>
+  This is now available in all <a href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html">supported Amazon Quick Suite regions</a>.<br>
+  <br>
+  To learn more about this, visit <a href="https://docs.aws.amazon.com/quicksight/latest/user/analytics-format-options.html">Amazon Quick Suite Visual formatting guide.</a></p>
+raw:
+  id: whats-new-v2#launch-hmzvdo5qf68ugvjpq9zwgg
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-hmzvdo5qf68ugvjpq9zwgg
+  dateCreated: 2025-09-29T21:54:46+0000
+  dateUpdated: 2025-10-17T17:06:15+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p><a href="https://aws.amazon.com/quicksight/">Amazon Quick Sight</a> now supports font customization for data labels and axes. Authors can now customize fonts for data labels and axes in supported charts, in addition to the previously supported <a href="https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-font-customization-visuals/">font customization for visual titles, subtitles, and legend, as well as tables and pivot tables headers.</a><br>
+      <br>
+      Authors can set the font size (in pixels), font family, color, and styling options like bold, italics, and underline across analysis, including dashboards, reports and embedded scenarios. With this update, you can further align your dashboard's fonts with your organization's branding guidelines, creating a more cohesive and visually appealing experience. Additionally, the expanded font customization options help improve readability, especially when viewing visualizations on large screens.<br>
+      <br>
+      This is now available in all <a href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html">supported Amazon Quick Suite regions</a>.<br>
+      <br>
+      To learn more about this, visit <a href="https://docs.aws.amazon.com/quicksight/latest/user/analytics-format-options.html">Amazon Quick Suite Visual formatting guide.</a></p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization
+    postDateTime: 2025-10-13T15:00:00Z
+    headline: Amazon Quick Sight expands font customization for visuals
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

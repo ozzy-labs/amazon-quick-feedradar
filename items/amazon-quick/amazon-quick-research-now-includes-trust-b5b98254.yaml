@@ -1,0 +1,41 @@
+id: amazon-quick-research-now-includes-trust-b5b98254
+sourceId: amazon-quick
+title: Amazon Quick Research now includes trusted third-party industry intelligence
+url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-research-third-party-industry-intelligence/
+publishedAt: 2025-11-26T08:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p>Amazon Quick Suite, the AI-powered workspace helping organizations get answers from their enterprise data and move swiftly from insights to action, enhances Quick Research with access to specialized third-party datasets.<br>
+  <br>
+  Quick Research transforms how business professionals tackle complex business problems by completing weeks of data discovery, analysis, and insight generation in minutes. Today, Quick Research launches its partner ecosystem with industry intelligence providers <a href="https://www.spglobal.com/en">S&amp;P Global</a>, <a href="https://www.factset.com/">FactSet</a>, and <a href="https://www.idc.com/">IDC</a>, with more to come. Users with existing subscriptions can combine these authoritative datasets with all of their business data and real-time web search, accelerating their path to deeper insights and strategic decision-making. Additionally, all users have access to decades of US Patent and Trademark Office data along with millions of PubMed citations and abstracts in biomedical and life sciences literature.<br>
+  <br>
+  Business professionals from any industry can now access and analyze multiple data sources in one unified workspace, eliminating the need to switch between platforms. For example, a financial analyst can evaluate investment opportunities using FactSet's financial data alongside real-time web search and internal market reports, while energy teams can optimize trading strategies using S&amp;P Global's commodity data combined with insights from their strategy teams. Similarly, sales and product teams can spot emerging trends faster by leveraging IDC's industry intelligence with their customer data. By bringing critical data sources together in one place, organizations can move from insight to action with greater speed and confidence.<br>
+  <br>
+  Quick Research's third-party data integration is available in the following AWS Regions: US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland). To learn more, read our <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/third-party-data" contenteditable="false" style="cursor: pointer;">User Guide</a>.&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-cb9awakibs5cny4xsh8vzz
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-cb9awakibs5cny4xsh8vzz
+  dateCreated: 2025-11-21T22:53:34+0000
+  dateUpdated: 2025-11-26T21:50:25+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick Suite, the AI-powered workspace helping organizations get answers from their enterprise data and move swiftly from insights to action, enhances Quick Research with access to specialized third-party datasets.<br>
+      <br>
+      Quick Research transforms how business professionals tackle complex business problems by completing weeks of data discovery, analysis, and insight generation in minutes. Today, Quick Research launches its partner ecosystem with industry intelligence providers <a href="https://www.spglobal.com/en">S&amp;P Global</a>, <a href="https://www.factset.com/">FactSet</a>, and <a href="https://www.idc.com/">IDC</a>, with more to come. Users with existing subscriptions can combine these authoritative datasets with all of their business data and real-time web search, accelerating their path to deeper insights and strategic decision-making. Additionally, all users have access to decades of US Patent and Trademark Office data along with millions of PubMed citations and abstracts in biomedical and life sciences literature.<br>
+      <br>
+      Business professionals from any industry can now access and analyze multiple data sources in one unified workspace, eliminating the need to switch between platforms. For example, a financial analyst can evaluate investment opportunities using FactSet's financial data alongside real-time web search and internal market reports, while energy teams can optimize trading strategies using S&amp;P Global's commodity data combined with insights from their strategy teams. Similarly, sales and product teams can spot emerging trends faster by leveraging IDC's industry intelligence with their customer data. By bringing critical data sources together in one place, organizations can move from insight to action with greater speed and confidence.<br>
+      <br>
+      Quick Research's third-party data integration is available in the following AWS Regions: US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland). To learn more, read our <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/third-party-data" contenteditable="false" style="cursor: pointer;">User Guide</a>.&nbsp;</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/11/amazon-quick-research-third-party-industry-intelligence/
+    postDateTime: 2025-11-26T08:00:00Z
+    headline: "Amazon Quick Research now includes trusted third-party industry
+      intelligence "
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

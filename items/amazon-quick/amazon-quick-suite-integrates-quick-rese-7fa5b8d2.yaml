@@ -1,0 +1,42 @@
+id: amazon-quick-suite-integrates-quick-rese-7fa5b8d2
+sourceId: amazon-quick
+title: Amazon Quick Suite integrates Quick Research with Quick Flows for report
+  automation
+url: https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation
+publishedAt: 2025-12-08T15:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p>Amazon Quick Suite now includes Quick Research as a step within Quick Flows. This integration enables teams to generate comprehensive research reports as part of automated, multi-step workflows, transforming research projects into reusable workflows that can be shared across their organization.<br>
+  <br>
+  Quick Suite is Amazon's new AI-powered workspace that helps organizations get answers from their business data and move quickly from insights to action. With this integration, teams can trigger research automatically within their flows rather than conducting separate analysis. This addresses a critical productivity challenge by enabling teams to capture and scale proven research methods across hundreds of automated use cases. The integration also allows users to automate research workflows through scheduled triggers so users can set up flows that automatically generate research at specific times. Common use cases include automated account plan creation, standardizing product compliance analysis, and scheduled industry reports.<br>
+  <br>
+  Users benefit from pre-configured flows that generate research based on flow creator instructions and optional user inputs. The generated research report can be used further to automatically trigger downstream actions like updating a Salesforce opportunity for an account team to follow up on, posting on a Jira ticket for a compliance team to review, or creating an Asana task for a patent lawyer to approve. This unlocks &quot;set and forget&quot; workflows that deliver consistent analysis without manual heavy lifting. Now operating within these automated workflows, Quick Research maintains its core strength of streamlining analysis across diverse enterprise data sources while delivering verified, source-traced insights. For existing Flow users, this provides access to more comprehensive analysis.<br>
+  <br>
+  Quick Research with Flows integration is available in the following <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank">AWS Regions</a>: US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland). To learn more about automating your research needs, read the <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/quick-research-steps-in-flows.html" target="_blank">Quick Suite user guide</a>.&nbsp;&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-ptt368y9hwhmsuyp7uw1t9
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-ptt368y9hwhmsuyp7uw1t9
+  dateCreated: 2025-11-20T20:02:59+0000
+  dateUpdated: 2025-12-08T18:33:00+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick Suite now includes Quick Research as a step within Quick Flows. This integration enables teams to generate comprehensive research reports as part of automated, multi-step workflows, transforming research projects into reusable workflows that can be shared across their organization.<br>
+      <br>
+      Quick Suite is Amazon's new AI-powered workspace that helps organizations get answers from their business data and move quickly from insights to action. With this integration, teams can trigger research automatically within their flows rather than conducting separate analysis. This addresses a critical productivity challenge by enabling teams to capture and scale proven research methods across hundreds of automated use cases. The integration also allows users to automate research workflows through scheduled triggers so users can set up flows that automatically generate research at specific times. Common use cases include automated account plan creation, standardizing product compliance analysis, and scheduled industry reports.<br>
+      <br>
+      Users benefit from pre-configured flows that generate research based on flow creator instructions and optional user inputs. The generated research report can be used further to automatically trigger downstream actions like updating a Salesforce opportunity for an account team to follow up on, posting on a Jira ticket for a compliance team to review, or creating an Asana task for a patent lawyer to approve. This unlocks &quot;set and forget&quot; workflows that deliver consistent analysis without manual heavy lifting. Now operating within these automated workflows, Quick Research maintains its core strength of streamlining analysis across diverse enterprise data sources while delivering verified, source-traced insights. For existing Flow users, this provides access to more comprehensive analysis.<br>
+      <br>
+      Quick Research with Flows integration is available in the following <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank">AWS Regions</a>: US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland). To learn more about automating your research needs, read the <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/quick-research-steps-in-flows.html" target="_blank">Quick Suite user guide</a>.&nbsp;&nbsp;</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation
+    postDateTime: 2025-12-08T15:00:00Z
+    headline: Amazon Quick Suite integrates Quick Research with Quick Flows for
+      report automation
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

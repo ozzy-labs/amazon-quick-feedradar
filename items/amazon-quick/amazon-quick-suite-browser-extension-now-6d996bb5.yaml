@@ -1,0 +1,40 @@
+id: amazon-quick-suite-browser-extension-now-6d996bb5
+sourceId: amazon-quick
+title: Amazon Quick Suite browser extension now supports Quick Flows
+url: https://aws.amazon.com/about-aws/whats-new/2025/12/quick-suite-browser-extension-quick-flows/
+publishedAt: 2025-12-16T08:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p>Amazon Quick Suite browser extension now supports Amazon Quick Flows, enabling you to run workflows directly within your web browser, eliminating the need to manually extract information from each web page. You can invoke workflows that you've created or that have been shared with you, and pass web page content as input—all without leaving your browser.<br>
+  <br>
+  This capability is great for completing routine tasks such as analyzing contract documents to extract key terms, or generating weekly reports from project dashboards that automatically notify stakeholders.<br>
+  <br>
+  Quick Flows in browser extension is available now in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland). There are no additional charges for using the browser extension beyond standard Quick Flows usage.<br>
+  <br>
+  To get started, visit your <a href="https://chromewebstore.google.com/detail/amazon-quick-suite/innkphffipcmiflfibbeghfnkifiokgo?pli=1">Chrome</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/amazon-quick/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search">Firefox</a> or <a href="https://microsoftedge.microsoft.com/addons/detail/amazon-quick-suite/angdmbognecnbmjaflaiahjhlglcdjol">Edge</a> store page to install browser extension and sign in with your Quick Suite account. Once you sign in, look for the Flows icon below the chat box to invoke your flows. To learn more about invoking Quick Flows in browser extension, please visit our <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/flows-in-browser-extension.html">documentation</a>.&nbsp;</p>
+raw:
+  id: whats-new-v2#tm36zmeck4uucf3hwu5ytk
+  locale: en_US
+  directoryId: whats-new-v2
+  name: tm36zmeck4uucf3hwu5ytk
+  dateCreated: 2025-12-15T21:37:34+0000
+  dateUpdated: 2025-12-16T21:05:32+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick Suite browser extension now supports Amazon Quick Flows, enabling you to run workflows directly within your web browser, eliminating the need to manually extract information from each web page. You can invoke workflows that you've created or that have been shared with you, and pass web page content as input—all without leaving your browser.<br>
+      <br>
+      This capability is great for completing routine tasks such as analyzing contract documents to extract key terms, or generating weekly reports from project dashboards that automatically notify stakeholders.<br>
+      <br>
+      Quick Flows in browser extension is available now in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland). There are no additional charges for using the browser extension beyond standard Quick Flows usage.<br>
+      <br>
+      To get started, visit your <a href="https://chromewebstore.google.com/detail/amazon-quick-suite/innkphffipcmiflfibbeghfnkifiokgo?pli=1">Chrome</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/amazon-quick/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search">Firefox</a> or <a href="https://microsoftedge.microsoft.com/addons/detail/amazon-quick-suite/angdmbognecnbmjaflaiahjhlglcdjol">Edge</a> store page to install browser extension and sign in with your Quick Suite account. Once you sign in, look for the Flows icon below the chat box to invoke your flows. To learn more about invoking Quick Flows in browser extension, please visit our <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/flows-in-browser-extension.html">documentation</a>.&nbsp;</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/12/quick-suite-browser-extension-quick-flows/
+    postDateTime: 2025-12-16T08:00:00Z
+    headline: Amazon Quick Suite browser extension now supports Quick Flows
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

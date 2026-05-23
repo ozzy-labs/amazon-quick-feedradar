@@ -1,0 +1,35 @@
+id: amazon-quick-now-integrates-with-new-rel-8777e7c6
+sourceId: amazon-quick
+title: Amazon Quick now integrates with New Relic for observability-driven AI agents
+url: https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/
+publishedAt: 2026-05-05T16:35:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick, your AI assistant for work,&nbsp;now integrates with New Relic's AI agents, enabling&nbsp;on-call engineers, SREs, and engineering leaders&nbsp;to&nbsp;investigate incidents, generate root cause analysis briefs, and create tracked tasks without leaving their Amazon Quick workspace.</p>
+  <p>After connecting to New Relic's remote model context protocol (MCP) server, you can invoke New Relic's AI&nbsp;agents&nbsp;directly from a conversational prompt in Quick&nbsp;–&nbsp;including alert insights, user impact analysis, log analysis, transaction diagnostics, and natural language NRQL queries. In a single chat exchange, you can investigate an incident across your observability data, generate a root cause analysis (RCA) document with evidence links, and send it as an email attachment. Quick Flows can also invoke New Relic AI agents to automate recurring triage runbooks or escalation workflows. Because Quick surfaces responses alongside enterprise knowledge stored in Spaces&nbsp;-&nbsp;such as runbooks, architecture docs, and on-call policies—every answer reflects both live telemetry and organizational context.&nbsp;</p>
+  <p>The New Relic integration with Amazon Quick is available in all&nbsp;<a href="https://aws.amazon.com//about-aws/global-infrastructure/regional-product-services/" target="_blank">AWS Regions</a>&nbsp;where Amazon Quick is available.</p>
+  <p>To get started with Amazon Quick,&nbsp;<a href="https://aws.amazon.com/quick/" target="_blank">visit the website</a>&nbsp;and sign up in minutes. To learn more about the&nbsp;New Relic integration, read the&nbsp;<a href="https://docs.aws.amazon.com/quick/latest/userguide/newrelic-integration.html" target="_blank">New Relic integration guide</a>, and explore more&nbsp;Quick&nbsp;integrations on the&nbsp;<a href="https://aws.amazon.com/quick/integrations/" target="_blank">integrations page</a>.&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-7nk2sfaqcnnvzutdvqd26a
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-7nk2sfaqcnnvzutdvqd26a
+  dateCreated: 2026-05-05T18:17:55+0000
+  dateUpdated: 2026-05-05T18:17:56+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick, your AI assistant for work,&nbsp;now integrates with New Relic's AI agents, enabling&nbsp;on-call engineers, SREs, and engineering leaders&nbsp;to&nbsp;investigate incidents, generate root cause analysis briefs, and create tracked tasks without leaving their Amazon Quick workspace.</p>
+      <p>After connecting to New Relic's remote model context protocol (MCP) server, you can invoke New Relic's AI&nbsp;agents&nbsp;directly from a conversational prompt in Quick&nbsp;–&nbsp;including alert insights, user impact analysis, log analysis, transaction diagnostics, and natural language NRQL queries. In a single chat exchange, you can investigate an incident across your observability data, generate a root cause analysis (RCA) document with evidence links, and send it as an email attachment. Quick Flows can also invoke New Relic AI agents to automate recurring triage runbooks or escalation workflows. Because Quick surfaces responses alongside enterprise knowledge stored in Spaces&nbsp;-&nbsp;such as runbooks, architecture docs, and on-call policies—every answer reflects both live telemetry and organizational context.&nbsp;</p>
+      <p>The New Relic integration with Amazon Quick is available in all&nbsp;<a href="https://aws.amazon.com//about-aws/global-infrastructure/regional-product-services/" target="_blank">AWS Regions</a>&nbsp;where Amazon Quick is available.</p>
+      <p>To get started with Amazon Quick,&nbsp;<a href="https://aws.amazon.com/quick/" target="_blank">visit the website</a>&nbsp;and sign up in minutes. To learn more about the&nbsp;New Relic integration, read the&nbsp;<a href="https://docs.aws.amazon.com/quick/latest/userguide/newrelic-integration.html" target="_blank">New Relic integration guide</a>, and explore more&nbsp;Quick&nbsp;integrations on the&nbsp;<a href="https://aws.amazon.com/quick/integrations/" target="_blank">integrations page</a>.&nbsp;</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/05/amazon-quick-new-relic/
+    postDateTime: 2026-05-05T16:35:00Z
+    headline: "Amazon Quick now integrates with New Relic for observability-driven
+      AI agents "
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

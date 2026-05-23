@@ -1,0 +1,38 @@
+id: amazon-quick-sight-announces-the-general-4675041c
+sourceId: amazon-quick
+title: Amazon Quick Sight announces the general availability of a new data
+  preparation experience
+url: https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-sight-general-availability-data-preparation-experience
+publishedAt: 2025-10-23T14:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p>Amazon Quick Sight, a capability of Amazon Quick Suite, now offers a visual data preparation experience that helps business users perform advanced data transformations without writing complex code. Users can now clean, transform, and combine data in multi-step workflows—appending tables, aggregating data, executing flexible joins, and other advanced operations that previously required custom programming or SQL commands.<br>
+  <br>
+  Users can easily track data transformations step-by-step, enhancing traceability and shareability. With the ability to utilize datasets as a source expanded from 3 to 10 levels, teams can build reusable transformation logic that cascades across departments. For instance, centralized data analysts can now prepare foundational data sets that can then be further customized by regional business users, applying territory-specific calculations and business logic with simple clicks. The enhanced experience now also supports 20X larger cross-source joins, moving from a previous capacity of 1GB to 20GB today.<br>
+  <br>
+  This feature is available to Quick Sight Author and Author Pro customers in the following regions: US East (N.Virginia and Ohio), US West (Oregon), Canada (Central), South America (Sao Paulo), Europe (Frankfurt, Milan, Paris, Spain, Stockholm, Ireland, London, Zurich), Africa (Cape Town), Middle East (UAE), Israel (Tel Aviv), Asia Pacific (Jakarta, Mumbai, Singapore, Tokyo, Seoul, Sydney), AWS GovCloud (US-West, US- East) and to Quick Suite Enterprise subscribers in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland). For more details, read our documentation <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/data-prep-experience-new.html" target="_blank">here</a>.</p>
+raw:
+  id: whats-new-v2#launch-v97htjy8pgvqgdedxim4ke
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-v97htjy8pgvqgdedxim4ke
+  dateCreated: 2025-10-15T15:14:53+0000
+  dateUpdated: 2025-10-23T20:37:47+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick Sight, a capability of Amazon Quick Suite, now offers a visual data preparation experience that helps business users perform advanced data transformations without writing complex code. Users can now clean, transform, and combine data in multi-step workflows—appending tables, aggregating data, executing flexible joins, and other advanced operations that previously required custom programming or SQL commands.<br>
+      <br>
+      Users can easily track data transformations step-by-step, enhancing traceability and shareability. With the ability to utilize datasets as a source expanded from 3 to 10 levels, teams can build reusable transformation logic that cascades across departments. For instance, centralized data analysts can now prepare foundational data sets that can then be further customized by regional business users, applying territory-specific calculations and business logic with simple clicks. The enhanced experience now also supports 20X larger cross-source joins, moving from a previous capacity of 1GB to 20GB today.<br>
+      <br>
+      This feature is available to Quick Sight Author and Author Pro customers in the following regions: US East (N.Virginia and Ohio), US West (Oregon), Canada (Central), South America (Sao Paulo), Europe (Frankfurt, Milan, Paris, Spain, Stockholm, Ireland, London, Zurich), Africa (Cape Town), Middle East (UAE), Israel (Tel Aviv), Asia Pacific (Jakarta, Mumbai, Singapore, Tokyo, Seoul, Sydney), AWS GovCloud (US-West, US- East) and to Quick Suite Enterprise subscribers in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland). For more details, read our documentation <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/data-prep-experience-new.html" target="_blank">here</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/10/amazon-quick-sight-general-availability-data-preparation-experience
+    postDateTime: 2025-10-23T14:00:00Z
+    headline: Amazon Quick Sight announces the general availability of a new data
+      preparation experience
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

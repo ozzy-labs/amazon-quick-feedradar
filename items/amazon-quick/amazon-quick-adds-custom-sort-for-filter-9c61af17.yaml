@@ -1,0 +1,32 @@
+id: amazon-quick-adds-custom-sort-for-filter-9c61af17
+sourceId: amazon-quick
+title: Amazon Quick Adds Custom Sort for Filter Controls
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/quick-filter-control-sort/
+publishedAt: 2026-04-29T15:00:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Quick Sight in Amazon Quick&nbsp;now supports custom sort for filter controls, giving authors control over how values appear in dropdown and list controls. Previously, filter control values were always sorted alphabetically. With custom sort, authors can arrange values to match business logic or rank them by a related metric, so the most relevant options appear first.</p>
+  <p>Custom sort applies to dropdown and list controls, both single-select and multi-select. Authors can choose ascending, descending, or a fully user-defined order for controls with manually entered values. For controls tied to a dataset column, authors can sort by that column or by a different field using aggregation functions like Sum, Average, Count, Min, and Max. For example, a priority field can be ordered as Critical, High, Medium, Low instead of alphabetically, or a list of product categories can be ranked by total revenue so top sellers surface first.</p>
+  <p>This feature is now available in <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html#regions-qs" target="_blank" rel="noopener noreferrer">all Amazon Quick regions where Quick Sight is supported</a>. Learn more about <a href="https://docs.aws.amazon.com/quick/latest/userguide/filter-controls.html#filter-controls-sort" target="_blank" rel="noopener noreferrer">sorting filter control values</a> in the Amazon Quick User Guide.</p>
+raw:
+  id: whats-new-v2#launch-5r9zxwpstbaquxdex8wvm8
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-5r9zxwpstbaquxdex8wvm8
+  dateCreated: 2026-04-29T20:54:51+0000
+  dateUpdated: 2026-04-30T00:38:24+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Quick Sight in Amazon Quick&nbsp;now supports custom sort for filter controls, giving authors control over how values appear in dropdown and list controls. Previously, filter control values were always sorted alphabetically. With custom sort, authors can arrange values to match business logic or rank them by a related metric, so the most relevant options appear first.</p>
+      <p>Custom sort applies to dropdown and list controls, both single-select and multi-select. Authors can choose ascending, descending, or a fully user-defined order for controls with manually entered values. For controls tied to a dataset column, authors can sort by that column or by a different field using aggregation functions like Sum, Average, Count, Min, and Max. For example, a priority field can be ordered as Critical, High, Medium, Low instead of alphabetically, or a list of product categories can be ranked by total revenue so top sellers surface first.</p>
+      <p>This feature is now available in <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html#regions-qs" target="_blank" rel="noopener noreferrer">all Amazon Quick regions where Quick Sight is supported</a>. Learn more about <a href="https://docs.aws.amazon.com/quick/latest/userguide/filter-controls.html#filter-controls-sort" target="_blank" rel="noopener noreferrer">sorting filter control values</a> in the Amazon Quick User Guide.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/quick-filter-control-sort/
+    postDateTime: 2026-04-29T15:00:00Z
+    headline: Amazon Quick Adds Custom Sort for Filter Controls
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

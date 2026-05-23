@@ -1,0 +1,44 @@
+id: amazon-quick-now-supports-permission-ver-ac550e76
+sourceId: amazon-quick
+title: Amazon Quick now supports permission verification for ACL-enabled
+  knowledge bases
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/
+publishedAt: 2026-04-23T14:56:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick now provides ACL verification for ACL enabled knowledge bases, enabling administrators to check whether a specific user has access to a specific document. This feature simplifies troubleshooting access issues and helps confirm that sensitive documents are properly restricted, without manually tracing permission inheritance across your data sources.<br>
+  <br>
+  To verify document access, open a knowledge base with document-level ACLs enabled, navigate to the <b>Sync reports</b> tab, and choose <b>View Access Details</b> from the actions menu next to any synced item. From the Access Details panel, use the <b>Permission Checker</b> to enter a user's email address and instantly confirm whether they can access the document. The panel also displays all users and groups with access to the document, giving you full visibility into the applied permissions.<br>
+  The Permission Checker returns one of three results: the user has access, the user does not have access, or no ACL was found for the document.&nbsp;</p>
+  <p><br>
+  This feature is available for ACL enabled Knowledge Bases in all AWS Regions where Amazon Quick is available. For more information, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/sync-reports-observability.html" target="_blank" rel="noopener noreferrer">Sync reports and observability</a> in the Amazon Quick User Guide.<br>
+  <br>
+  Amazon Quick is available in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), Europe (London), and Europe (Ireland). For more information, visit the <a href="https://aws.amazon.com/quick/" target="_blank" rel="noopener noreferrer">Amazon Quick page</a>.</p>
+raw:
+  id: whats-new-v2#launch-fiujecjjjxewsgqga6gjzq
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-fiujecjjjxewsgqga6gjzq
+  dateCreated: 2026-04-23T18:00:52+0000
+  dateUpdated: 2026-04-23T18:00:53+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick now provides ACL verification for ACL enabled knowledge bases, enabling administrators to check whether a specific user has access to a specific document. This feature simplifies troubleshooting access issues and helps confirm that sensitive documents are properly restricted, without manually tracing permission inheritance across your data sources.<br>
+      <br>
+      To verify document access, open a knowledge base with document-level ACLs enabled, navigate to the <b>Sync reports</b> tab, and choose <b>View Access Details</b> from the actions menu next to any synced item. From the Access Details panel, use the <b>Permission Checker</b> to enter a user's email address and instantly confirm whether they can access the document. The panel also displays all users and groups with access to the document, giving you full visibility into the applied permissions.<br>
+      The Permission Checker returns one of three results: the user has access, the user does not have access, or no ACL was found for the document.&nbsp;</p>
+      <p><br>
+      This feature is available for ACL enabled Knowledge Bases in all AWS Regions where Amazon Quick is available. For more information, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/sync-reports-observability.html" target="_blank" rel="noopener noreferrer">Sync reports and observability</a> in the Amazon Quick User Guide.<br>
+      <br>
+      Amazon Quick is available in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), Europe (London), and Europe (Ireland). For more information, visit the <a href="https://aws.amazon.com/quick/" target="_blank" rel="noopener noreferrer">Amazon Quick page</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-acl/
+    postDateTime: 2026-04-23T14:56:00Z
+    headline: Amazon Quick now supports permission verification for ACL-enabled
+      knowledge bases
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

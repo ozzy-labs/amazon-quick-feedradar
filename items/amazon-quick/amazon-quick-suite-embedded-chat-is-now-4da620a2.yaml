@@ -1,0 +1,42 @@
+id: amazon-quick-suite-embedded-chat-is-now-4da620a2
+sourceId: amazon-quick
+title: Amazon Quick Suite Embedded Chat is now available
+url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-embedded-chat
+publishedAt: 2025-11-24T15:00:00.000Z
+fetchedAt: 2026-05-23T13:06:21.901Z
+summary: |-
+  <p>Today, AWS announces the general availability of <a href="https://aws.amazon.com/quicksuite/" target="_blank">Amazon Quick Suite</a> Embedded Chat, enabling you to embed Quick Suite's conversational AI, which combines structured data and unstructured knowledge in a single conversation - directly into your applications, eliminating the need to build conversational interfaces, orchestration logic, or data access layers from scratch.</p>
+  <p>Quick Suite Embedded Chat solves a fundamental problem: users want answers where they work, not in another tool. Whether in a CRM, support console, or analytics portal, they need instant, contextual responses. Most conversational tools excel at either structured data or documents, analytics or knowledge bases, answering questions or performing actions—rarely all of the above. Quick Suite closes this gap. Now, users can reference a KPI, pull details from a file, check customer feedback, and trigger actions in one continuous conversation without leaving the embedded chat.<br>
+  <br>
+  Embedded Chat brings this unified experience into your applications with simple integration, either through 1-click embedding or through API-based iframes for registered users with your existing authentication. You can connect your Agentic Chat to your data through connectors to search SharePoint, websites, send Slack messages, or create Jira tasks and customize the Agent with your brand colors, communication style, and personalized greetings. Security always stays under your control as you choose what the agent accesses and explicitly scope all actions.<br>
+  <br>
+  Quick Suite Embedded Chat is available the following <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank">AWS Regions</a>: US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland), and we'll expand availability to additional AWS Regions over the coming months. There is no additional cost for Quick Suite Embedded Chat. Existing Quick Suite pricing is available <a href="https://aws.amazon.com/quicksuite/pricing/" target="_blank">here</a>.<br>
+  <br>
+  To learn more, see Embedding Amazon Quick Suite <a href="https://aws.amazon.com/blogs/business-intelligence/announcing-embedded-chat-in-amazon-quick-suite/" target="_blank">launch blog</a>. To get started with Amazon Quick Suite, visit the Amazon Quick Suite <a href="https://aws.amazon.com/quicksuite/" target="_blank">product page</a>.</p>
+raw:
+  id: whats-new-v2#launch-szscmvksawjccet6w52xxv
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-szscmvksawjccet6w52xxv
+  dateCreated: 2025-11-24T15:54:45+0000
+  dateUpdated: 2025-11-24T22:37:23+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Today, AWS announces the general availability of <a href="https://aws.amazon.com/quicksuite/" target="_blank">Amazon Quick Suite</a> Embedded Chat, enabling you to embed Quick Suite's conversational AI, which combines structured data and unstructured knowledge in a single conversation - directly into your applications, eliminating the need to build conversational interfaces, orchestration logic, or data access layers from scratch.</p>
+      <p>Quick Suite Embedded Chat solves a fundamental problem: users want answers where they work, not in another tool. Whether in a CRM, support console, or analytics portal, they need instant, contextual responses. Most conversational tools excel at either structured data or documents, analytics or knowledge bases, answering questions or performing actions—rarely all of the above. Quick Suite closes this gap. Now, users can reference a KPI, pull details from a file, check customer feedback, and trigger actions in one continuous conversation without leaving the embedded chat.<br>
+      <br>
+      Embedded Chat brings this unified experience into your applications with simple integration, either through 1-click embedding or through API-based iframes for registered users with your existing authentication. You can connect your Agentic Chat to your data through connectors to search SharePoint, websites, send Slack messages, or create Jira tasks and customize the Agent with your brand colors, communication style, and personalized greetings. Security always stays under your control as you choose what the agent accesses and explicitly scope all actions.<br>
+      <br>
+      Quick Suite Embedded Chat is available the following <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank">AWS Regions</a>: US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland), and we'll expand availability to additional AWS Regions over the coming months. There is no additional cost for Quick Suite Embedded Chat. Existing Quick Suite pricing is available <a href="https://aws.amazon.com/quicksuite/pricing/" target="_blank">here</a>.<br>
+      <br>
+      To learn more, see Embedding Amazon Quick Suite <a href="https://aws.amazon.com/blogs/business-intelligence/announcing-embedded-chat-in-amazon-quick-suite/" target="_blank">launch blog</a>. To get started with Amazon Quick Suite, visit the Amazon Quick Suite <a href="https://aws.amazon.com/quicksuite/" target="_blank">product page</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/11/amazon-quick-suite-embedded-chat
+    postDateTime: 2025-11-24T15:00:00Z
+    headline: Amazon Quick Suite Embedded Chat is now available
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

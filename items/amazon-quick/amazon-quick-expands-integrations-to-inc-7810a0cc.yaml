@@ -1,0 +1,42 @@
+id: amazon-quick-expands-integrations-to-inc-7810a0cc
+sourceId: amazon-quick
+title: Amazon Quick expands integrations to include Google Workspace, Zoom,
+  Airtable, and more
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom/
+publishedAt: 2026-04-28T11:30:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick is expanding integrations with 13 new built-in action connectors, all supporting managed authentication so users can securely connect their accounts in just a few clicks without manual credentials setup. Amazon Quick is an AI assistant that turns questions into answers, answers into actions, and actions into outcomes—for you and your entire team. Quick brings all your tools and data together in one place. It learns what matters to you and your team, grounds every answer in your real business data, and goes beyond answers: scheduling, building deliverables, creating dashboards, and acting on your behalf.<br>
+  <br>
+  With Quick, business users can now take action directly across Gmail, Google Sheets, Google Docs, Google Calendar, Google Drive, Google Slides, Google Meet, Google Analytics, Zoom, QuickBooks, Airtable, and Dropbox. For example, you can draft and send emails in Gmail, update a Google Sheet with the latest data, schedule a meeting in Google Calendar, share files from Google Drive or Dropbox, schedule a Zoom meeting, sync financial records in QuickBooks, manage projects in Airtable, or collaborate with your team in Microsoft Teams, all without leaving Quick. Each connector includes built-in sign-in support, so Quick securely handles the account authorization flow on your behalf, making it easy to get connected in just a few clicks.<br>
+  <br>
+  These connectors are now available in all <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Regions</a> where Amazon Quick is available.<br>
+  <br>
+  Start working with Amazon Quick by <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank"><u>signing up for an account</u></a>. To learn more about integrations, visit the <a href="https://aws.amazon.com/quick/integrations/" target="_blank">integrations webpage</a> and<a href="https://docs.aws.amazon.com/quick/latest/userguide/working-with-integrations.html" target="_blank"> documentation</a>.</p>
+raw:
+  id: whats-new-v2#launch-11efpbephlwendtzjhicad
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-11efpbephlwendtzjhicad
+  dateCreated: 2026-04-28T16:51:26+0000
+  dateUpdated: 2026-04-28T16:51:27+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick is expanding integrations with 13 new built-in action connectors, all supporting managed authentication so users can securely connect their accounts in just a few clicks without manual credentials setup. Amazon Quick is an AI assistant that turns questions into answers, answers into actions, and actions into outcomes—for you and your entire team. Quick brings all your tools and data together in one place. It learns what matters to you and your team, grounds every answer in your real business data, and goes beyond answers: scheduling, building deliverables, creating dashboards, and acting on your behalf.<br>
+      <br>
+      With Quick, business users can now take action directly across Gmail, Google Sheets, Google Docs, Google Calendar, Google Drive, Google Slides, Google Meet, Google Analytics, Zoom, QuickBooks, Airtable, and Dropbox. For example, you can draft and send emails in Gmail, update a Google Sheet with the latest data, schedule a meeting in Google Calendar, share files from Google Drive or Dropbox, schedule a Zoom meeting, sync financial records in QuickBooks, manage projects in Airtable, or collaborate with your team in Microsoft Teams, all without leaving Quick. Each connector includes built-in sign-in support, so Quick securely handles the account authorization flow on your behalf, making it easy to get connected in just a few clicks.<br>
+      <br>
+      These connectors are now available in all <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Regions</a> where Amazon Quick is available.<br>
+      <br>
+      Start working with Amazon Quick by <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank"><u>signing up for an account</u></a>. To learn more about integrations, visit the <a href="https://aws.amazon.com/quick/integrations/" target="_blank">integrations webpage</a> and<a href="https://docs.aws.amazon.com/quick/latest/userguide/working-with-integrations.html" target="_blank"> documentation</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom/
+    postDateTime: 2026-04-28T11:30:00Z
+    headline: Amazon Quick expands integrations to include Google Workspace, Zoom,
+      Airtable, and more
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

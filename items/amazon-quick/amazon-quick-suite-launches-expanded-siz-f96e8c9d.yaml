@@ -1,0 +1,34 @@
+id: amazon-quick-suite-launches-expanded-siz-f96e8c9d
+sourceId: amazon-quick
+title: Amazon Quick Suite launches expanded size, faster ingestion, and richer
+  data type support for SPICE datasets
+url: https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quick-suite-launches-expanded-spice
+publishedAt: 2026-01-20T16:00:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p><a href="https://aws.amazon.com/quicksight/" target="_blank">Amazon Quick Suite</a> SPICE engine is now supporting higher scale, faster ingestion, and broader data types to power advanced analytics and AI-driven workloads. With this launch, customers can load up to 2TB of data per dataset, doubling the previous 1TB limit, when using the new data preparation experience. Despite the increased dataset size, SPICE continues to deliver strong performance, with ingestion further optimized to enable even faster data loading and refresh to reduce time to insight. We’ve also expanded SPICE’s data type support by increasing string length limits from 2K to 64K Unicode characters and extending the supported timestamp range from year 1400 back to year 0001. As Quick Suite customers bring richer, more complex, and increasingly AI-driven workloads into SPICE, these enhancements enable broader data coverage, faster data onboarding, and more powerful analytics, without compromising performance. To learn more, visit <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/data-source-limits.html#spice-limits" target="_blank">our documentation.</a><br>
+  <br>
+  The new SPICE dataset size limitation is now available in Amazon Quick Sight Enterprise Editions across all <a href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html" target="_blank">supported Amazon Quick Sight regions</a>.&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-km4qsgfss4z7q19ezn8grz
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-km4qsgfss4z7q19ezn8grz
+  dateCreated: 2026-01-16T21:28:43+0000
+  dateUpdated: 2026-01-20T20:14:07+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p><a href="https://aws.amazon.com/quicksight/" target="_blank">Amazon Quick Suite</a> SPICE engine is now supporting higher scale, faster ingestion, and broader data types to power advanced analytics and AI-driven workloads. With this launch, customers can load up to 2TB of data per dataset, doubling the previous 1TB limit, when using the new data preparation experience. Despite the increased dataset size, SPICE continues to deliver strong performance, with ingestion further optimized to enable even faster data loading and refresh to reduce time to insight. We’ve also expanded SPICE’s data type support by increasing string length limits from 2K to 64K Unicode characters and extending the supported timestamp range from year 1400 back to year 0001. As Quick Suite customers bring richer, more complex, and increasingly AI-driven workloads into SPICE, these enhancements enable broader data coverage, faster data onboarding, and more powerful analytics, without compromising performance. To learn more, visit <a href="https://docs.aws.amazon.com/quicksuite/latest/userguide/data-source-limits.html#spice-limits" target="_blank">our documentation.</a><br>
+      <br>
+      The new SPICE dataset size limitation is now available in Amazon Quick Sight Enterprise Editions across all <a href="https://docs.aws.amazon.com/quicksight/latest/user/regions-qs.html" target="_blank">supported Amazon Quick Sight regions</a>.&nbsp;</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/01/amazon-quick-suite-launches-expanded-spice
+    postDateTime: 2026-01-20T16:00:00Z
+    headline: Amazon Quick Suite launches expanded size, faster ingestion, and
+      richer data type support for SPICE datasets
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

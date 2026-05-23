@@ -1,0 +1,34 @@
+id: amazon-quick-upgrades-the-extension-for-22089b04
+sourceId: amazon-quick
+title: Amazon Quick upgrades the extension for Microsoft Outlook (Preview)
+url: https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/
+publishedAt: 2026-05-04T15:27:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Today, AWS announces the preview of the Amazon Quick extension for Microsoft Outlook, which brings generative AI-powered productivity directly into your email and calendar workflows. With the extension, you can use natural language to summarize unread messages, organize your inbox, schedule meetings, and draft in-line responses all without leaving Outlook.</p>
+  <p>The Quick extension for Outlook helps you focus on what matters most by prioritizing emails, searching for specific discussions, and organizing messages into folders or flagging them for follow-up. Using conversational instructions, you can find optimal meeting times with coworkers and schedule meetings. For email threads, you can generate summaries, extract action items, and draft contextual replies that pull in relevant information from your Amazon Quick spaces and knowledge bases. You can also trigger actions in external applications using your configured integrations directly from Outlook.</p>
+  <p>The Amazon Quick extension for Microsoft Outlook is available in preview in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Europe (Ireland), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (London).</p>
+  <p>To get started with Amazon Quick, visit the <a href="https://aws.amazon.com/quick/" target="_blank">Quick website</a>, and <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank">sign up for an account</a> in minutes. Read the <a href="https://docs.aws.amazon.com/quick/latest/userguide/outlook-extension-preview-guide.html" target="_blank">documentation</a> to learn more, and install the Quick extension for Outlook from the <a href="https://aws.amazon.com/quick/download/" target="_blank">Quick download page</a>.</p>
+raw:
+  id: whats-new-v2#launch-tcg66bthrqof8rz8axrazs
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-tcg66bthrqof8rz8axrazs
+  dateCreated: 2026-05-04T18:55:06+0000
+  dateUpdated: 2026-05-04T18:55:06+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Today, AWS announces the preview of the Amazon Quick extension for Microsoft Outlook, which brings generative AI-powered productivity directly into your email and calendar workflows. With the extension, you can use natural language to summarize unread messages, organize your inbox, schedule meetings, and draft in-line responses all without leaving Outlook.</p>
+      <p>The Quick extension for Outlook helps you focus on what matters most by prioritizing emails, searching for specific discussions, and organizing messages into folders or flagging them for follow-up. Using conversational instructions, you can find optimal meeting times with coworkers and schedule meetings. For email threads, you can generate summaries, extract action items, and draft contextual replies that pull in relevant information from your Amazon Quick spaces and knowledge bases. You can also trigger actions in external applications using your configured integrations directly from Outlook.</p>
+      <p>The Amazon Quick extension for Microsoft Outlook is available in preview in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Europe (Ireland), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (London).</p>
+      <p>To get started with Amazon Quick, visit the <a href="https://aws.amazon.com/quick/" target="_blank">Quick website</a>, and <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank">sign up for an account</a> in minutes. Read the <a href="https://docs.aws.amazon.com/quick/latest/userguide/outlook-extension-preview-guide.html" target="_blank">documentation</a> to learn more, and install the Quick extension for Outlook from the <a href="https://aws.amazon.com/quick/download/" target="_blank">Quick download page</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/
+    postDateTime: 2026-05-04T15:27:00Z
+    headline: " Amazon Quick upgrades the extension for Microsoft Outlook (Preview)"
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []

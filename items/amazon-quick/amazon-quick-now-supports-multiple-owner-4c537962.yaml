@@ -1,0 +1,46 @@
+id: amazon-quick-now-supports-multiple-owner-4c537962
+sourceId: amazon-quick
+title: Amazon Quick now supports multiple owners for admin-managed SharePoint
+  and Google Drive knowledge bases
+url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint/
+publishedAt: 2026-04-23T15:59:00.000Z
+fetchedAt: 2026-05-23T13:06:31.759Z
+summary: |-
+  <p>Amazon Quick now enables you to add co-owners to knowledge bases and data source connections for admin-managed Microsoft SharePoint Online and Google Drive integrations. This makes it easier to collaborate across teams and reuse existing connections without re-entering credentials.<br>
+  <br>
+  Knowledge base owners can share their knowledge bases with two roles: Owner (full management access including editing, syncing, sharing, and deleting) and Viewer (query-only access). Co-owner sharing with the Owner role is available exclusively for admin-managed SharePoint and Google Drive knowledge bases. All other knowledge base types support Viewer sharing only. To share, navigate to the actions menu next to any knowledge base or use the Permissions tab.<br>
+  <br>
+  Administrators can also share data source connections, allowing other users to create knowledge bases from the same connection. Data source sharing supports Owner (create knowledge bases and edit connection details) and Viewer (create knowledge bases only) roles. To share a data source, go to Manage account &gt; Manage assets &gt; Data sources and select the connection to share.<br>
+  <br>
+  This feature is available in all AWS Regions where Amazon Quick is available. For more information, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/sharing-kb-datasources.html" target="_blank">Knowledge Base Sharing</a> in the Amazon Quick User Guide.<br>
+  <br>
+  Amazon Quick is available in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), Europe (London), and Europe (Ireland). For more information, visit the <a href="https://aws.amazon.com/quick/" target="_blank">Amazon Quick page</a>.</p>
+raw:
+  id: whats-new-v2#launch-vdtuwpn23ckpztqexvvfzc
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-vdtuwpn23ckpztqexvvfzc
+  dateCreated: 2026-04-23T18:00:59+0000
+  dateUpdated: 2026-04-23T18:01:00+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick now enables you to add co-owners to knowledge bases and data source connections for admin-managed Microsoft SharePoint Online and Google Drive integrations. This makes it easier to collaborate across teams and reuse existing connections without re-entering credentials.<br>
+      <br>
+      Knowledge base owners can share their knowledge bases with two roles: Owner (full management access including editing, syncing, sharing, and deleting) and Viewer (query-only access). Co-owner sharing with the Owner role is available exclusively for admin-managed SharePoint and Google Drive knowledge bases. All other knowledge base types support Viewer sharing only. To share, navigate to the actions menu next to any knowledge base or use the Permissions tab.<br>
+      <br>
+      Administrators can also share data source connections, allowing other users to create knowledge bases from the same connection. Data source sharing supports Owner (create knowledge bases and edit connection details) and Viewer (create knowledge bases only) roles. To share a data source, go to Manage account &gt; Manage assets &gt; Data sources and select the connection to share.<br>
+      <br>
+      This feature is available in all AWS Regions where Amazon Quick is available. For more information, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/sharing-kb-datasources.html" target="_blank">Knowledge Base Sharing</a> in the Amazon Quick User Guide.<br>
+      <br>
+      Amazon Quick is available in US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), Europe (London), and Europe (Ireland). For more information, visit the <a href="https://aws.amazon.com/quick/" target="_blank">Amazon Quick page</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/04/amazon-quick-sharepoint/
+    postDateTime: 2026-04-23T15:59:00Z
+    headline: Amazon Quick now supports multiple owners for admin-managed SharePoint
+      and Google Drive knowledge bases
+matchedKeywords:
+  - Amazon Quick
+status: reviewed
+injectionFlags: []
