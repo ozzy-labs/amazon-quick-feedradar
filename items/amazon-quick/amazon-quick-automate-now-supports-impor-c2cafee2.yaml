@@ -4,7 +4,7 @@ title: Amazon Quick Automate now supports import and export of automations
   across AWS accounts
 url: https://aws.amazon.com/about-aws/whats-new/2026/04/quick-automate-import-export/
 publishedAt: 2026-04-20T20:12:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Amazon Quick Automate now enables you to migrate automation versions across automation groups, AWS accounts, and AWS Regions. Previously, moving automations between environments required time-consuming manual recreation of workflows. This new capability is designed for DevOps teams and organizations managing multi-environment deployments who need to promote tested automations from development to production, deploy across geographic regions, or share proven workflows with other teams.<br>
   <br>
@@ -36,5 +36,14 @@ raw:
       across AWS accounts
 matchedKeywords:
   - Amazon Quick
-status: reviewed
+status: dismissed
 injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0.65
+  reason: 'confidence 0.65 below threshold 0.70 (demoted from "digest"):
+    Incremental feature: import/export of automations across accounts and
+    regions.'
+  agent: claude-code
+  triagedAt: 2026-05-23T16:51:11.661Z
+  feedback: []

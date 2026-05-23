@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Sight expands font customization for visuals
 url: https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization
 publishedAt: 2025-10-13T15:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p><a href="https://aws.amazon.com/quicksight/">Amazon Quick Sight</a> now supports font customization for data labels and axes. Authors can now customize fonts for data labels and axes in supported charts, in addition to the previously supported <a href="https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-font-customization-visuals/">font customization for visual titles, subtitles, and legend, as well as tables and pivot tables headers.</a><br>
   <br>
@@ -38,3 +38,12 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.9
+  reason: Incremental UI formatting option (font customization extended to data
+    labels and axes).
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

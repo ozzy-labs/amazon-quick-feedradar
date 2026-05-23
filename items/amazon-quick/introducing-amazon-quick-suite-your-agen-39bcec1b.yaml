@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: "Introducing Amazon Quick Suite: your agentic AI-powered workspace"
 url: https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-suite-agentic-ai-powered-workspace
 publishedAt: 2025-10-09T16:30:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p>Today, we’re announcing the general availability of <a href="https://aws.amazon.com/quicksuite/" target="_blank">Amazon Quick Suite</a>—a&nbsp;new set of agentic teammates that helps you get the answers you need using all of your business data and move instantly from insights to action. Quick Suite retrieves insights across the public internet and&nbsp;all&nbsp;your documents, including information in popular third party applications, databases, and other places your company keeps important data. Whether you need a single data point, a PhD-level research project, an entire strategy tailored to your context, or anything in between, Quick Suite quickly gets you&nbsp;all the relevant information.</p>
   <p>Quick Suite helps you seamlessly transition from getting answers to taking action in popular applications (like creating or updating Jira tickets, or ServiceNow incidents). Quick Suite can also help you automate tasks—from routine, daily tasks like responding to RFPs and preparing for customer meetings to automating the most complex business processes such as invoice processing and account reconciliation.&nbsp;All of your data is safe and private. Your queries and data are never used to train models, and you can tailor the Quick Suite experience to you.&nbsp;Your AWS administrator can turn on Quick Suite in only a few steps, and your new agentic teammate will be ready to go. New Quick Suite customers receive a 30-day free trial for up to 25 users.&nbsp;</p>
@@ -32,3 +32,10 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: research
+  confidence: 0.95
+  reason: GA launch and rebrand of the new Amazon Quick Suite agentic workspace.
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

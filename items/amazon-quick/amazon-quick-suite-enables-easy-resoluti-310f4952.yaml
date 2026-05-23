@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Suite Enables Easy Resolution of Ambiguous Map Locations
 url: https://aws.amazon.com/about-aws/whats-new/2026/02/quick-ambiguous-locations-resolution
 publishedAt: 2026-02-03T16:00:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p><a href="https://aws.amazon.com/quick/quicksight/" target="_blank">Quick Sight in Amazon Quick Suite</a> now enables authors to resolve or update ambiguous locations directly on map visuals for accurate geographical data visualization. When Quick Suite encounters location names that exist in multiple regions—such as cities like Springfield or Abbeville that appear in multiple U.S. states—users can now explicitly define the correct geographical context through three resolution methods: adding supporting geospatial fields to create location hierarchies, searching for specific locations from Quick Suite's geographical database, or entering exact latitude and longitude coordinates for precise positioning.<br>
   <br>
@@ -34,3 +34,11 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.88
+  reason: Incremental map-visual enhancement for resolving ambiguous locations.
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

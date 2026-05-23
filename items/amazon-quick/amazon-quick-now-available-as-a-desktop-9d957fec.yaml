@@ -4,7 +4,7 @@ title: Amazon Quick now available as a desktop application for macOS and Windows
   (Preview)
 url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/
 publishedAt: 2026-04-28T14:30:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Amazon Quick is now available as a native desktop application for MacOS and Windows in preview. The desktop application extends Quick beyond your browser and utilizes the capabilities on your computer– including direct access to local files, proactive OS-level notifications, and native desktop control. Teams and individuals who want an AI assistant that understands their full work context across files, calendar, communications, and applications can now run Quick directly on their desktop.<br>
   <br>
@@ -40,3 +40,10 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: research
+  confidence: 0.8
+  reason: New native desktop application for macOS/Windows launched in Preview.
+  agent: claude-code
+  triagedAt: 2026-05-23T16:51:11.661Z
+  feedback: []

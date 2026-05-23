@@ -4,7 +4,7 @@ title: Amazon Quick Suite integrates Quick Research with Quick Flows for report
   automation
 url: https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation
 publishedAt: 2025-12-08T15:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p>Amazon Quick Suite now includes Quick Research as a step within Quick Flows. This integration enables teams to generate comprehensive research reports as part of automated, multi-step workflows, transforming research projects into reusable workflows that can be shared across their organization.<br>
   <br>
@@ -40,3 +40,11 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.7
+  reason: Incremental feature composing Quick Research as a step inside Quick Flows.
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

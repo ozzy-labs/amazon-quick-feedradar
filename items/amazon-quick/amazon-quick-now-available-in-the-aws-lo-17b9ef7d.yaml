@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Now Available in the AWS London Region
 url: https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-london-region/
 publishedAt: 2026-03-25T16:47:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: >-
   <p>Amazon Quick is now available in the AWS Europe (London) region
   (eu-west-2). This launch allows customers in the United Kingdom to access the
@@ -77,3 +77,11 @@ matchedKeywords:
   - Amazon Quick
 status: dismissed
 injectionFlags: []
+triage:
+  decision: dismiss
+  confidence: 0.95
+  reason: Region expansion only (London).
+  agent: claude-code
+  triagedAt: 2026-05-23T16:51:11.661Z
+  feedback: []
+dismissedBy: triage_claude-code

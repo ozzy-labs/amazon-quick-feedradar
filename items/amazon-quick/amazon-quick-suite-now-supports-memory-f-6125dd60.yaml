@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Suite now supports memory for chat agents
 url: https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/
 publishedAt: 2025-12-16T08:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p>We are announcing memory for chat agents in Amazon Quick Suite – a feature that allows users to get personalized responses based on their previous conversations. With this feature, Quick Suite remembers the preferences users specify in chat and generate responses that are tailored to them. Users can also view their inferred preferences and remove any memory they don’t want Quick chat agents to use.<br>
   <br>
@@ -34,3 +34,11 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.7
+  reason: Incremental personalization feature adding memory to existing chat agents.
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

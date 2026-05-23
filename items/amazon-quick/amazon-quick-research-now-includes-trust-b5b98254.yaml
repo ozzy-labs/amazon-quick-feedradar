@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Research now includes trusted third-party industry intelligence
 url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-research-third-party-industry-intelligence/
 publishedAt: 2025-11-26T08:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p>Amazon Quick Suite, the AI-powered workspace helping organizations get answers from their enterprise data and move swiftly from insights to action, enhances Quick Research with access to specialized third-party datasets.<br>
   <br>
@@ -37,5 +37,14 @@ raw:
       intelligence "
 matchedKeywords:
   - Amazon Quick
-status: reviewed
+status: dismissed
 injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0.65
+  reason: 'confidence 0.65 below threshold 0.70 (demoted from "digest"): Adds
+    third-party data-provider integrations (S&P Global, FactSet, IDC) to Quick
+    Research.'
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

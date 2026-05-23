@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Sight expands Dashboard Theme Customization
 url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-expands-dashboard-theme-customization
 publishedAt: 2025-11-20T08:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: >-
   <p><a href="https://aws.amazon.com/quicksight/" style="cursor:
   pointer;">Amazon Quick Sight</a> now supports comprehensive theming
@@ -72,3 +72,11 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.85
+  reason: Incremental dashboard theming/customization UI feature.
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

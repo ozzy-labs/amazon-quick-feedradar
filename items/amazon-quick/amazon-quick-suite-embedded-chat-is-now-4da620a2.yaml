@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Suite Embedded Chat is now available
 url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-embedded-chat
 publishedAt: 2025-11-24T15:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p>Today, AWS announces the general availability of <a href="https://aws.amazon.com/quicksuite/" target="_blank">Amazon Quick Suite</a> Embedded Chat, enabling you to embed Quick Suite's conversational AI, which combines structured data and unstructured knowledge in a single conversation - directly into your applications, eliminating the need to build conversational interfaces, orchestration logic, or data access layers from scratch.</p>
   <p>Quick Suite Embedded Chat solves a fundamental problem: users want answers where they work, not in another tool. Whether in a CRM, support console, or analytics portal, they need instant, contextual responses. Most conversational tools excel at either structured data or documents, analytics or knowledge bases, answering questions or performing actions—rarely all of the above. Quick Suite closes this gap. Now, users can reference a KPI, pull details from a file, check customer feedback, and trigger actions in one continuous conversation without leaving the embedded chat.<br>
@@ -40,3 +40,11 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: research
+  confidence: 0.9
+  reason: GA launch of a new Embedded Chat capability for embedding Quick Suite
+    conversational AI.
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

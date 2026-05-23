@@ -4,7 +4,7 @@ title: Amazon Quick now supports permission verification for ACL-enabled
   knowledge bases
 url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/
 publishedAt: 2026-04-23T14:56:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Amazon Quick now provides ACL verification for ACL enabled knowledge bases, enabling administrators to check whether a specific user has access to a specific document. This feature simplifies troubleshooting access issues and helps confirm that sensitive documents are properly restricted, without manually tracing permission inheritance across your data sources.<br>
   <br>
@@ -42,3 +42,12 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.7
+  reason: "Incremental admin tooling: permission verification for ACL-enabled
+    knowledge bases."
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

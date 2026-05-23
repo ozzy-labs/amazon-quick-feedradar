@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Start using Amazon Quick for free in minutes with Free and Plus pricing plans
 url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus/
 publishedAt: 2026-04-28T11:30:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Starting today, new Free and Plus pricing plans for <u><a href="https://aws.com/quick" target="_blank" rel="noopener noreferrer">Amazon Quick</a></u> allow you to <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank" rel="noopener noreferrer"><u>sign up in minutes</u></a> using your personal email address or existing Google, Apple, Github, or Amazon credentials—no AWS account required. A guided onboarding experience helps you find value in less than 5 minutes, with role-specific workflows for sales, marketing, finance, operations, and more.<br>
   <br>
@@ -35,3 +35,10 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: research
+  confidence: 0.95
+  reason: New Free and Plus pricing plans — a pricing/packaging change.
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

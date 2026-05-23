@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Automate announces shared file storage for automations
 url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-automate-shared-file-storage/
 publishedAt: 2026-04-21T06:22:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Amazon Quick Automate now supports in-app file storage, enabling you to seamlessly manage files within your automations without requiring external storage solutions or connectors. This feature provides a centralized location for uploading, downloading, and sharing files across multiple automations within the same automation group, eliminating the friction previously experienced when working with files in automation workflows.<br>
   Previously, providing files as inputs to automations or receiving file outputs required uploading to external services like Amazon S3, OneDrive, or SharePoint, and configuring connectors. With shared file storage, automation builders and business users can now upload files directly through an intuitive drag-and-drop interface and access them immediately across all automations in their automation group.&nbsp;Key use cases include static lookup files that business users can update as needed, such as contact lists or pricing tables; configuration files where business users can manage agent guidelines outside the automation itself; multi-automation workflows where one automation's output feeds into another; and daily or weekly reporting where automations share outputs with users for review.</p>
@@ -28,5 +28,13 @@ raw:
     headline: Amazon Quick Automate announces shared file storage for automations
 matchedKeywords:
   - Amazon Quick
-status: reviewed
+status: dismissed
 injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0.65
+  reason: 'confidence 0.65 below threshold 0.70 (demoted from "digest"):
+    Incremental feature: in-app shared file storage for Quick Automate.'
+  agent: claude-code
+  triagedAt: 2026-05-23T16:51:11.661Z
+  feedback: []

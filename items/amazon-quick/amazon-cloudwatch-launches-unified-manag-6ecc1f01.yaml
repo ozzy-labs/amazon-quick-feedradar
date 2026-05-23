@@ -4,7 +4,7 @@ title: Amazon CloudWatch launches unified management and analytics for
   operational, security, and compliance data
 url: https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-unified-management-analytics
 publishedAt: 2025-12-02T13:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: >-
   <p>Amazon CloudWatch now provides new data management and analytics
   capabilities that allow you to unify operational, security, and compliance
@@ -68,3 +68,11 @@ matchedKeywords:
   - Amazon Quick
 status: dismissed
 injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0.5
+  reason: Primarily a CloudWatch launch; Amazon Quick is named only as a
+    downstream query tool, so fit for this feed is unclear.
+  agent: claude-code
+  triagedAt: 2026-05-23T16:51:11.661Z
+  feedback: []

@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick now supports cross-account access for Amazon Athena data sources
 url: https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-athena/
 publishedAt: 2026-05-08T16:00:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Today, Amazon Quick is announcing cross-account access for Amazon Athena data sources. This launch enables you to query Athena data&nbsp;residing&nbsp;in a different AWS account(s)&nbsp;from your Quick deployment using IAM role chaining, with Athena query costs billed to the account where the data lives.</p>
   <p>With this feature, administrators can create an Athena data source in Quick by specifying a&nbsp;RunAsRole&nbsp;in the Quick account and a&nbsp;ConsumerAccountRoleArn&nbsp;in the target account where Athena resources&nbsp;reside. Quick uses a role chaining mechanism first assuming the&nbsp;RunAsRole, then chaining into the consumer account role to execute queries. This&nbsp;launch&nbsp;supports multiple roles per consumer account(s), enabling fine-grained access segregation across teams within a single account.&nbsp;&nbsp;</p>
@@ -29,5 +29,14 @@ raw:
       sources "
 matchedKeywords:
   - Amazon Quick
-status: reviewed
+status: dismissed
 injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0.62
+  reason: 'confidence 0.62 below threshold 0.70 (demoted from "digest"):
+    Incremental data-source feature: cross-account Athena access via IAM role
+    chaining.'
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

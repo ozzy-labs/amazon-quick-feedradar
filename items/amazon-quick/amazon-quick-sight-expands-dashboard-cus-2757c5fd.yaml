@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Sight expands dashboard customization in tables and pivot tables
 url: https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quicksight-expands-dashboard-customization-tables-pivot-tables
 publishedAt: 2026-01-20T15:00:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Building on our recent launch of <a href="https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-dashboard-tables-pivot-tables/" target="_blank">customizable tables and pivot tables</a>, <a href="https://aws.amazon.com/quicksuite/quicksight/" target="_blank">Amazon Quick Sight </a>now enables readers to add or remove fields, change aggregations, and modify formatting directly in dashboards—all without requiring updates from dashboard authors.<br>
   <br>
@@ -35,3 +35,11 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.85
+  reason: Incremental dashboard UI customization expansion (tables and pivot tables).
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

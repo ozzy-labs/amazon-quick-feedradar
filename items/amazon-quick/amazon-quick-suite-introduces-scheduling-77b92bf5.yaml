@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Suite introduces scheduling for Quick Flows
 url: https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-scheduling-quick-flows/
 publishedAt: 2025-11-25T08:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p>Amazon Quick Flows now supports scheduling, enabling you to automate repetitive workflows without requiring manual intervention. You can now configure Quick Flows to run automatically at specified times or intervals, improving operational efficiency and ensuring critical tasks execute consistently.<br>
   <br>
@@ -42,3 +42,11 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.85
+  reason: Incremental feature adding scheduling to existing Quick Flows.
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

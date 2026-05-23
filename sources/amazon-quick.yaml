@@ -36,17 +36,12 @@ jsonSelectors:
   linkBase: https://aws.amazon.com
 facets:
   year:
-    # Narrowed from the recipe default [2004, 2026]: "Amazon Quick" is a 2025+
-    # rebrand, so sweeping 2004-2023 only wastes requests (zero possible match).
-    # Also keeps the daily CI watch run light (3 year-facets x 1 page each).
-    # NOTE: bump the upper bound each new year (e.g. add 2027) to keep catching
-    # current-year posts — same maintenance the recipe default requires.
     type: range
     param: tags.id
     template: whats-new-v2#year#{}
     range:
-      - 2024
-      - 2026
+      - 2004
+      - current-year
     step: 1
 trustLevel: untrusted
 triagePolicy:

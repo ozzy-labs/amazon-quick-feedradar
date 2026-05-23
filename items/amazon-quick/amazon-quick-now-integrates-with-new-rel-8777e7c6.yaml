@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick now integrates with New Relic for observability-driven AI agents
 url: https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/
 publishedAt: 2026-05-05T16:35:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Amazon Quick, your AI assistant for work,&nbsp;now integrates with New Relic's AI agents, enabling&nbsp;on-call engineers, SREs, and engineering leaders&nbsp;to&nbsp;investigate incidents, generate root cause analysis briefs, and create tracked tasks without leaving their Amazon Quick workspace.</p>
   <p>After connecting to New Relic's remote model context protocol (MCP) server, you can invoke New Relic's AI&nbsp;agents&nbsp;directly from a conversational prompt in Quick&nbsp;–&nbsp;including alert insights, user impact analysis, log analysis, transaction diagnostics, and natural language NRQL queries. In a single chat exchange, you can investigate an incident across your observability data, generate a root cause analysis (RCA) document with evidence links, and send it as an email attachment. Quick Flows can also invoke New Relic AI agents to automate recurring triage runbooks or escalation workflows. Because Quick surfaces responses alongside enterprise knowledge stored in Spaces&nbsp;-&nbsp;such as runbooks, architecture docs, and on-call policies—every answer reflects both live telemetry and organizational context.&nbsp;</p>
@@ -33,3 +33,12 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.9
+  reason: New third-party integration (New Relic AI agents via MCP) with existing
+    Quick workspace.
+  group: integrations
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

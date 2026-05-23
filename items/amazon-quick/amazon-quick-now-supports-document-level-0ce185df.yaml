@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick now supports document-level access controls for ACL support for S3
 url: https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-acl-s3/
 publishedAt: 2026-04-10T15:11:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Amazon Quick now supports document-level access control lists (ACLs) for Amazon S3 knowledge bases, enabling you to manage granular permissions for documents stored in S3. With this feature, you can control which users and groups can access specific documents or folders within your knowledge base, ensuring that sensitive information is only available to authorized personnel.<br>
   <br>
@@ -35,5 +35,14 @@ raw:
       support for S3
 matchedKeywords:
   - Amazon Quick
-status: reviewed
+status: dismissed
 injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0.68
+  reason: 'confidence 0.68 below threshold 0.70 (demoted from "digest"):
+    Incremental access-control feature add (document-level ACLs) for S3
+    knowledge bases.'
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

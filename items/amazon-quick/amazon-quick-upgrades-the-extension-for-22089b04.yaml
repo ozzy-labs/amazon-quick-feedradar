@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick upgrades the extension for Microsoft Outlook (Preview)
 url: https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/
 publishedAt: 2026-05-04T15:27:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Today, AWS announces the preview of the Amazon Quick extension for Microsoft Outlook, which brings generative AI-powered productivity directly into your email and calendar workflows. With the extension, you can use natural language to summarize unread messages, organize your inbox, schedule meetings, and draft in-line responses all without leaving Outlook.</p>
   <p>The Quick extension for Outlook helps you focus on what matters most by prioritizing emails, searching for specific discussions, and organizing messages into folders or flagging them for follow-up. Using conversational instructions, you can find optimal meeting times with coworkers and schedule meetings. For email threads, you can generate summaries, extract action items, and draft contextual replies that pull in relevant information from your Amazon Quick spaces and knowledge bases. You can also trigger actions in external applications using your configured integrations directly from Outlook.</p>
@@ -32,3 +32,10 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: research
+  confidence: 0.85
+  reason: Preview launch of a new Amazon Quick extension for Microsoft Outlook.
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration
 url: https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sheet-tooltips/
 publishedAt: 2026-04-15T15:00:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p><a href="https://aws.amazon.com/quick/quicksight/" target="_blank" rel="noopener noreferrer">Quick Sight in Amazon Quick</a> now supports sheet tooltips, enabling authors to surface rich, contextual detail when viewers hover over data points — without disrupting their analysis flow. Sheet tooltips allow authors to create dedicated tooltip sheets containing visuals, text boxes, and images arranged in a free-form layout. When a viewer hovers over a data point, the tooltip sheet automatically inherits all filters from the source visual and applies an additional filter for the specific data point, delivering an instant, focused breakdown.</p>
   <p>This enhancement helps organizations build more intuitive dashboards that reduce the need for multiple sheets or manual navigation. For example, a bar chart showing sales by product category can surface a trend line of monthly sales, a year-over-year growth KPI, and a text box with the category name — all filtered to whichever category the viewer hovers over. Authors can assign one tooltip sheet to multiple visuals, switch between basic, detailed, and sheet tooltip types at any time, and tables and pivot tables are also supported. Sheet tooltips are available on interactive sheets only.</p>
@@ -31,3 +31,11 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.85
+  reason: "Incremental UI feature: rich contextual sheet tooltips on hover."
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:51:11.661Z
+  feedback: []

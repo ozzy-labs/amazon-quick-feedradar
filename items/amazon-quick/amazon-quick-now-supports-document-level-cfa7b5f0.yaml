@@ -4,7 +4,7 @@ title: Amazon Quick now supports document-level access controls for SharePoint
   knowledge bases
 url: https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sharepoint-access-control/
 publishedAt: 2026-04-23T14:26:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>Amazon Quick now supports document-level access controls (ACLs) for Microsoft SharePoint knowledge bases, enabling organizations to maintain native SharePoint permissions when indexing content. Users with whom knowledge bases are shared can only access documents through Amazon Quick that they have permission to view in SharePoint, ensuring security and compliance with your organization's sharing policies.<br>
   <br>
@@ -38,5 +38,14 @@ raw:
       SharePoint knowledge bases
 matchedKeywords:
   - Amazon Quick
-status: reviewed
+status: dismissed
 injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0.68
+  reason: 'confidence 0.68 below threshold 0.70 (demoted from "digest"):
+    Incremental access-control feature add (document-level ACLs) for SharePoint
+    knowledge bases.'
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

@@ -3,7 +3,7 @@ sourceId: amazon-quick
 title: Amazon Quick Suite browser extension now supports Quick Flows
 url: https://aws.amazon.com/about-aws/whats-new/2025/12/quick-suite-browser-extension-quick-flows/
 publishedAt: 2025-12-16T08:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p>Amazon Quick Suite browser extension now supports Amazon Quick Flows, enabling you to run workflows directly within your web browser, eliminating the need to manually extract information from each web page. You can invoke workflows that you've created or that have been shared with you, and pass web page content as input—all without leaving your browser.<br>
   <br>
@@ -38,3 +38,12 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.75
+  reason: Incremental capability added to existing browser extension (Quick Flows
+    support).
+  group: ui-incremental
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []

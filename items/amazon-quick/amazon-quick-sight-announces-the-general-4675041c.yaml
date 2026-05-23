@@ -4,7 +4,7 @@ title: Amazon Quick Sight announces the general availability of a new data
   preparation experience
 url: https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-sight-general-availability-data-preparation-experience
 publishedAt: 2025-10-23T14:00:00.000Z
-fetchedAt: 2026-05-23T13:06:21.901Z
+fetchedAt: 2026-05-23T16:31:07.036Z
 summary: |-
   <p>Amazon Quick Sight, a capability of Amazon Quick Suite, now offers a visual data preparation experience that helps business users perform advanced data transformations without writing complex code. Users can now clean, transform, and combine data in multi-step workflows—appending tables, aggregating data, executing flexible joins, and other advanced operations that previously required custom programming or SQL commands.<br>
   <br>
@@ -36,3 +36,10 @@ matchedKeywords:
   - Amazon Quick
 status: reviewed
 injectionFlags: []
+triage:
+  decision: research
+  confidence: 0.8
+  reason: GA launch of a new visual data preparation experience.
+  agent: claude-code
+  triagedAt: 2026-05-23T16:53:56.820Z
+  feedback: []

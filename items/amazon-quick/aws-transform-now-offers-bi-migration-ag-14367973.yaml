@@ -4,7 +4,7 @@ title: AWS Transform now offers BI migration agents for Power BI and Tableau to
   Amazon Quick
 url: https://aws.amazon.com/about-aws/whats-new/2026/05/quick-bi-migration/
 publishedAt: 2026-05-01T15:00:00.000Z
-fetchedAt: 2026-05-23T13:06:31.759Z
+fetchedAt: 2026-05-23T16:31:16.104Z
 summary: |-
   <p>AWS Transform&nbsp;customers can&nbsp;now&nbsp;use&nbsp;BI migration agents to&nbsp;convert Tableau and Power BI dashboards to Amazon Quick Sight&nbsp;(BI capability of Amazon Quick)&nbsp;assets,&nbsp;helping&nbsp;reduce&nbsp;migration effort from months to days.&nbsp;These agents are&nbsp;built&nbsp;by&nbsp;<a href="https://wavicledata.com/bi-migration-aws-transform/?utm_campaign=42551559-2026%20Q2%20AWS%20Transform&amp;utm_source=AWS%20What%27s%20New%20Post" target="_blank" rel="noopener noreferrer">Wavicle Data Solutions</a>, an AWS Advanced Consulting Partner,&nbsp;leveraging&nbsp;the&nbsp;AWS Transform&nbsp;initiative to create differentiated transformation solutions by integrating specialized agents, tools, knowledge bases, and workflow with AWS Transform’s agentic AI capabilities.&nbsp;Four agents&nbsp;are available&nbsp;for purchase through AWS Marketplace:&nbsp;one&nbsp;Analyzer&nbsp;agent&nbsp;and&nbsp;one&nbsp;Converter&nbsp;agent for&nbsp;each BI migration source (Power BI&nbsp;and&nbsp;Tableau).</p>
   <p>AWS Transform is a collaborative enterprise IT transformation workbench powered by expert agents, agentic AI systems, and continuous learning that accelerates cloud migration, legacy app modernization, and tech debt reduction.&nbsp;These&nbsp;new BI migration agents are embedded into the AWS Transform workflow and use a chat-based interface to assess your source dashboards for migration readiness, then convert them – rebuilding datasets, calculated fields, visualizations,&nbsp;and&nbsp;filters in&nbsp;Amazon Quick Sight.&nbsp;All processing runs within your AWS account; no data leaves your environment. After conversion, your Amazon Quick administrators assign dashboard ownership to BI authors for validation and publishing. Once migrated, your teams can take advantage of Amazon Quick's AI-powered workflows, including natural-language business questions, automated research, and data-driven actions.</p>
@@ -30,5 +30,14 @@ raw:
       to Amazon Quick    "
 matchedKeywords:
   - Amazon Quick
-status: dismissed
+status: reviewed
 injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.7
+  reason: New partner BI migration agents (Power BI/Tableau to Quick) via
+    Marketplace integration.
+  group: integrations
+  agent: claude-code
+  triagedAt: 2026-05-23T16:55:24.419Z
+  feedback: []
