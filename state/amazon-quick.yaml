@@ -1,5 +1,5 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-05-24T15:36:09.761Z
+lastFetchedAt: 2026-05-24T15:44:20.431Z
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -20958,3 +20958,4 @@ lastSeenIds:
   - amazon-connect-now-provides-the-capabili-e66ba573
   - amazon-ec2-r8i-and-r8i-flex-instances-ar-010238f5
   - aws-config-now-supports-18-new-resource-63a133f1
+  - amazon-aurora-mysql-8-4-is-now-generally-10599b4a
