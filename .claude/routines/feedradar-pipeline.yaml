@@ -41,10 +41,12 @@ notes: |
 name: feedradar-pipeline
 
 # active = registered in Web UI / draft = not yet registered (PR review stage).
-status: draft
+# Registered via RemoteTrigger API (Path B) but enabled:false until the Web UI
+# 'Allow unrestricted branch pushes' toggle is ON; enable it after that.
+status: active
 
 # Web UI routine id (trig_xxxx), issued after registration. Empty while draft.
-routine_id: ""
+routine_id: "trig_014jMj3Shj7kV9sBYBKYdAzL"
 
 # Web UI: Instructions
 # Self-contained for fully autonomous execution (`AskUserQuestion` unavailable).
