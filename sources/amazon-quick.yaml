@@ -8,7 +8,7 @@ tags:
 filters:
   keywords:
     - Amazon Quick
-    - Keyspaces # TEMP: routine の research 経路を実証するためのテスト用キーワード（直後に revert）
+    - Aurora MySQL 8.4 # TEMP: routine の research 経路を実証するためのテスト用キーワード（GA item・直後に revert）
   excludeKeywords: []
   matchMode: word
   matchFields:
