@@ -39,11 +39,12 @@ notes: |
 name: feedradar-pipeline
 
 # active = Web UI に登録済み / draft = 未登録（PR レビュー段階）。
-# 旧 routine は手動削除済み。/routine-setup skill で再登録し routine_id を書き戻す。
-status: draft
+# /routine-setup skill で再登録済み。enabled は Web UI の 'Allow unrestricted
+# branch pushes' トグル ON 後に有効化する。
+status: active
 
 # Web UI の routine id（trig_xxxx）。登録後に発行される。draft の間は空。
-routine_id: ""
+routine_id: "trig_01Xjuew99ekf7ajhZ6F3PuU8"
 
 # Web UI: Instructions
 # 完全自律実行のため自己完結（`AskUserQuestion` は使えない）。
