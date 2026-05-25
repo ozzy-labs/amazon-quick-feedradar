@@ -1,5 +1,5 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-05-25T09:33:09.588Z
+lastFetchedAt: 2026-05-25T09:46:06.320Z
 lastEtag: sha256:bdd027a00b95193de6bc55b385cc8caaafd23841242bfd800b257349386dbfce
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
@@ -20969,3 +20969,4 @@ lastSeenIds:
   - amazon-rds-for-oracle-now-supports-m8i-a-f790f952
   - aws-security-agent-now-supports-full-rep-564d75f7
   - aws-service-catalog-is-now-available-in-3544ec77
+  - amazon-aurora-mysql-8-4-is-now-generally-10599b4a
