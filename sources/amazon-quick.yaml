@@ -25,7 +25,8 @@ pagination:
   pageSize: 100
   pageSizeParam: size
   totalPath: $.metadata.totalHits
-  maxPages: 30
+  # 日次監視は postDateTime desc の最新ページのみで足りる（backfill は完了済み・#333）。
+  maxPages: 5
 jsonSelectors:
   items: $.items[*].item
   title: $.additionalFields.headline
@@ -34,15 +35,8 @@ jsonSelectors:
   summary: $.additionalFields.postBody
   publishedAt: $.additionalFields.postDateTime
   linkBase: https://aws.amazon.com
-facets:
-  year:
-    type: range
-    param: tags.id
-    template: whats-new-v2#year#{}
-    range:
-      - 2004
-      - current-year
-    step: 1
+# facets（年単位の全 sweep）は backfill 専用だったため削除。日次監視は postDateTime desc の
+# 最新ページのみ取得すれば足り、historical 全件の再確認で lastSeenIds が肥大するのを防ぐ（#333）。
 trustLevel: untrusted
 triagePolicy:
   agent: gemini-cli
