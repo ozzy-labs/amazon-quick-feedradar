@@ -8,7 +8,6 @@ tags:
 filters:
   keywords:
     - Amazon Quick
-    - Aurora MySQL 8.4
   excludeKeywords: []
   matchMode: word
   matchFields:
