@@ -39,12 +39,11 @@ notes: |
 name: feedradar-pipeline
 
 # active = Web UI に登録済み / draft = 未登録（PR レビュー段階）。
-# RemoteTrigger API で登録済み。enabled は Web UI の 'Allow unrestricted branch
-# pushes' トグル ON 後に有効化する。
-status: active
+# 旧 routine は手動削除済み。/routine-setup skill で再登録し routine_id を書き戻す。
+status: draft
 
 # Web UI の routine id（trig_xxxx）。登録後に発行される。draft の間は空。
-routine_id: "trig_01MSqURdGpd8FqLW8GCZfRN9"
+routine_id: ""
 
 # Web UI: Instructions
 # 完全自律実行のため自己完結（`AskUserQuestion` は使えない）。
@@ -74,6 +73,10 @@ instructions: |
      mise install
      # radar CLI をグローバルにインストールする（クラウド VM にローカルビルドはない）。
      npm install -g @ozzylabs/feedradar
+     # gh CLI（手順 8 の PR 作成用）。クラウド VM には未プリインストール。API / skill
+     # 登録では environment.setup_script が適用されないため、前提はここ（instructions）に
+     # 単一定義する（bootstrap プロンプトはこの instructions を実行時に読む）。
+     sudo apt-get update -qq && sudo apt-get install -y -qq gh
      ```
 
   2. 新規アイテムを検出する:
@@ -261,9 +264,8 @@ environment:
     #!/usr/bin/env bash
     set -euo pipefail
 
-    # gh CLI（PR 作成）。Routines のクラウド VM（Ubuntu）にはプリインストールされていない。
-    sudo apt-get update -qq
-    sudo apt-get install -y -qq gh
+    # OS 依存の前提インストールは無し。API / skill 登録では setup_script が適用されない
+    # ため、gh は instructions 手順 1 に単一定義した（二重定義を避ける）。
 
 # Web UI: Trigger（配列。schedule / api / github は共存できる）。
 #
