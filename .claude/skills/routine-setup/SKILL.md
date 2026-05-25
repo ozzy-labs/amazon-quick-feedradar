@@ -18,7 +18,8 @@ session** — the OAuth token is injected in-process by the harness. It is NOT a
 `radar` CLI capability, so this skill does not work under Codex / Gemini /
 Copilot. (That is also why feedradar's engine SKILLs, which are 4-agent-common,
 do not cover registration — this is intentionally Claude-specific, which is fine
-because Claude Routines is a Claude product.)
+because Claude Routines is a Claude product.) See ADR-0020 §"register 経路
+(`/routine-setup` skill)" and ADR-0007 Revision (e) for the boundary.
 
 The routine YAML (`.claude/routines/<name>.yaml`, produced by
 `radar routine generate <type> --prompt-mode bootstrap`) stays the source of
@@ -28,9 +29,9 @@ propagate by commit alone — no Web-UI re-paste.
 
 ## Hard limits — these stay manual (Web UI only)
 
-- **`Allow unrestricted branch pushes` toggle**: required for
-  `--output-mode auto-merge`. The create API **rejects it (HTTP 400,
-  `Extra inputs are not permitted`)** — a human must flip it once in the Web UI.
+- **`Allow unrestricted branch pushes` toggle**: required for an auto-merge
+  routine. The create API **rejects it (HTTP 400, `Extra inputs are not
+  permitted`)** — a human must flip it once in the Web UI.
 - **Deleting a routine**: Web UI only.
 
 This skill collapses everything else into one command, leaving the user at most
@@ -53,26 +54,33 @@ This skill collapses everything else into one command, leaving the user at most
    yq -r '.name, .model, .repositories[0], (.triggers[]|select(.type=="scheduled")|.cron + " | " + .timezone), .routine_id, .status, .permissions.allow_unrestricted_git_push' "$F"
    ```
 
-3. **Build the bootstrap prompt** for the API `message.content` (do NOT
-   regenerate the YAML — that would reset `routine_id` / `status`). Construct it
-   inline:
+3. **Fetch the bootstrap prompt for the API `message.content`** — do **NOT**
+   hand-write it here. The generator owns the canonical prompt text; ask it for
+   the exact same body so the skill-registered routine and a Web-UI-pasted
+   routine never drift (epic #363 G3). Derive the routine `<type>` from the YAML
+   path (`watch` / `pipeline`) and pass the same `--name` / `--output` the YAML
+   was generated with:
 
-   ```text
-   あなたはスケジュール実行される `<name>` routine です（リポジトリ <owner/repo>）。
-   完全自律実行で、プロンプトに答える人間はいません。すべての判断を自分で行ってください。
-
-   セットアップ: `gh` が未インストールなら実行する:
-     sudo apt-get update -qq && sudo apt-get install -y -qq gh
-
-   その後、リポルートの `<yaml-path>` を Read し、その top-level `instructions:`
-   ブロックを そのまま忠実に 実行してください（自己完結しています）。
+   ```bash
+   # <type> is `watch` or `pipeline`; --name / --output match the YAML.
+   radar routine generate <type> \
+     --name <name> \
+     --output .claude/routines/<name>.yaml \
+     --prompt-mode bootstrap --emit-bootstrap-prompt
    ```
 
-   Notes baked into this prompt: install `gh` (the cloud VM lacks it), and read
-   the YAML. **Output language follows the workspace `radar.config.yaml`
-   (`locale:`)**, not this prompt — keep a committed `radar.config.yaml` with
-   `locale: ja` (etc.) for non-English reports. Match the prompt language to the
-   YAML's `--lang`.
+   `--emit-bootstrap-prompt` prints **only** the bootstrap prompt body to stdout
+   and writes no YAML (read-only). Capture that stdout verbatim and use it as the
+   create/update body's `message.content`. Do not edit, translate, or append to
+   it.
+
+   **Output language is locale-driven, NOT baked into this prompt.** The
+   bootstrap prompt is intentionally language-neutral (English canonical). The
+   report/output language is driven by the workspace `radar.config.yaml`
+   (`locale:`) plus the host-agent locale output directive carried in the
+   routine payload (#358 / #362) — so keep a committed `radar.config.yaml` with
+   `locale: ja` (etc.) for non-English reports. Do **not** inject any
+   target-language text into the prompt body.
 
 4. **Convert the schedule to UTC and confirm.** The API `cron_expression` is
    **UTC**; the YAML cron is in its `timezone`. Convert and confirm with the user
@@ -91,6 +99,13 @@ This skill collapses everything else into one command, leaving the user at most
    `anthropic_cloud` env with the right network access is required; a "Trusted"
    env will 403 on non-allowlisted hosts.)
 
+   **Setup script (`gh` install) handling — see "Setup script" below.** The
+   create body has **no setup-script field**: the YAML's
+   `environment.setup_script` maps to the chosen environment's Web-UI **Setup
+   script** field, not to the API body. Confirm the selected environment either
+   already runs that setup script (`gh` installed) or rely on the prompt-side
+   fallback documented below.
+
 6. **Create or update** with the `RemoteTrigger` tool, body per the shape below:
    - YAML `routine_id` empty → `action: "create"` with `enabled: false`.
    - `routine_id` set and `action: "get"` returns it → `action: "update"`
@@ -107,18 +122,20 @@ This skill collapses everything else into one command, leaving the user at most
    lines precisely (preserve comments) rather than `yq -i` (which can drop them).
 
 8. **Hand off the one human step.** Print the routine link
-   `https://claude.ai/code/routines/<routine_id>`. For **auto-merge** routines,
-   ask the user to flip **`Allow unrestricted branch pushes` ON**, then
-   `RemoteTrigger {action:"get"}` and confirm
+   `https://claude.ai/code/routines/<routine_id>`. For an **auto-merge** routine
+   (YAML `permissions.allow_unrestricted_git_push: true`), ask the user to flip
+   **`Allow unrestricted branch pushes` ON**, then `RemoteTrigger {action:"get"}`
+   and confirm
    `job_config.ccr.sources[].git_repository.allow_unrestricted_git_push: true`.
-   For `--output-mode pr` routines this toggle is **not** needed (they only open
-   PRs) — skip it.
+   For PR-output routines (the default; `false`) this toggle is **not** needed
+   (they only open PRs) — skip it.
 
 9. **Enable + verify** (unless `--no-verify`): `RemoteTrigger {action:"update",
    body:{"enabled":true}}`, then `{action:"run"}`. Poll the repo (`gh pr list`,
    `git ls-remote --heads origin 'claude/*'`, `origin/main`) for the routine's
-   `claude/pipeline/*` PR + auto-merge, or report the clean no-op state update.
-   Confirm any generated report is in the expected language.
+   `claude/*` PR + (for auto-merge) the merge, or report the clean no-op state
+   update. Confirm any generated report is in the expected language (per the
+   `radar.config.yaml` `locale:`).
 
 ## RemoteTrigger create body shape
 
@@ -149,20 +166,52 @@ For a one-time run, replace `cron_expression` with `run_once_at`
 (RFC3339 UTC, future). Do NOT place `allow_unrestricted_git_push` anywhere in
 this body.
 
+## Setup script (`gh` install) — epic #363 G5
+
+The routine YAML carries `environment.setup_script` (it installs `gh`, absent
+from the Routines cloud VM). The RemoteTrigger create body above has **no
+setup-script field** — `setup_script` is part of the **environment**, registered
+once via the Web-UI **Environment > Setup script** field and referenced by
+`environment_id`, not pushed per-trigger through the API. So there are two
+correct ways to satisfy the `gh` prerequisite; pick one and do not double-define
+it:
+
+1. **Environment-side (preferred):** paste the YAML's `environment.setup_script`
+   into the chosen environment's Web-UI Setup-script field once. Extract it with:
+
+   ```bash
+   yq -r '.environment.setup_script' .claude/routines/<name>.yaml
+   ```
+
+   The environment then provisions `gh` before every run; the bootstrap prompt
+   does not need to install it.
+
+2. **Prompt-side fallback:** if the selected environment cannot run a setup
+   script, the routine must install `gh` at run time. The YAML's
+   `instructions:` block (followed via the bootstrap prompt) is the place for
+   that step — keep the install line in the YAML's instructions, NOT in this
+   skill's prompt text, so the prerequisite stays single-defined in the YAML.
+
+Either way, **do not hand-write a `gh`-install line into the bootstrap prompt**
+in step 3 (the reference prototype did; that duplicated the prerequisite and
+embedded language-specific text). The prompt stays the language-neutral
+single-sourced body from `--emit-bootstrap-prompt`.
+
 ## Notes
 
 - **Complements, does not replace, Claude Code's built-in `schedule` skill.**
   `schedule` is generic; this skill is YAML-driven and encodes feedradar
-  conventions: the bootstrap prompt, the network allowlist from `sources/`, the
-  `--max-items` cost cap, and the `routine_id` write-back.
+  conventions: the bootstrap prompt (fetched from the generator), the network
+  allowlist from `sources/`, the `--max-items` cost cap, and the `routine_id`
+  write-back.
 - **Cost cap**: the routine's blast radius is bounded by `--max-items` baked into
   the YAML `instructions:`. Never raise it just to register a bigger run.
-- **Auto-merge routines** push `claude/pipeline/*` and squash-merge to `main`.
-  Ensure the repo permits that (and `delete_branch_on_merge: true` to avoid
-  orphan branches).
+- **Auto-merge routines** push `claude/*` and squash-merge to `main`. Ensure the
+  repo permits that (and `delete_branch_on_merge: true` to avoid orphan
+  branches).
 - **Language**: `--lang` localizes the generated YAML's prose; report/output
   language is driven by `radar.config.yaml` `locale:` (host-agent payloads carry
-  the locale output directive). Keep both consistent.
+  the locale output directive). The bootstrap prompt itself is language-neutral.
 - If `RemoteTrigger create` returns HTTP 400 mentioning an unexpected input,
   the most likely cause is `allow_unrestricted_git_push` in the body — remove it
   and use the Web-UI toggle (step 8).
