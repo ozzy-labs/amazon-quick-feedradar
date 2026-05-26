@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-05-25T21:09:02.223Z
-lastEtag: sha256:ec0d20a3501a7bbdae0393f33d62e35ad4e5d5e26e5823bdeb9e2e568b87df4c
+lastFetchedAt: 2026-05-26T21:04:36.093Z
+lastEtag: sha256:52311bb9158567215b0bf4574e723bb57e7447657b840dc62c77e72e50c6cf05
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -20970,3 +20970,7 @@ lastSeenIds:
   - aws-security-agent-now-supports-full-rep-564d75f7
   - aws-service-catalog-is-now-available-in-3544ec77
   - amazon-aurora-mysql-8-4-is-now-generally-10599b4a
+  - amazon-rds-now-supports-ena-express-for-5fb0096a
+  - amazon-vpc-ipam-now-supports-tags-on-ipa-549e348e
+  - amazon-sagemaker-unified-studio-adds-int-5907cccf
+  - amazon-gamelift-streams-launches-generat-d353d54b
