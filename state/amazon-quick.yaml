@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-05-26T21:04:36.093Z
-lastEtag: sha256:52311bb9158567215b0bf4574e723bb57e7447657b840dc62c77e72e50c6cf05
+lastFetchedAt: 2026-05-27T21:05:23.845Z
+lastEtag: sha256:e642b5c0bf731d79ec7b51d9a5a8f8181add689b27f40a72cdc7ae342518ac8f
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -20974,3 +20974,11 @@ lastSeenIds:
   - amazon-vpc-ipam-now-supports-tags-on-ipa-549e348e
   - amazon-sagemaker-unified-studio-adds-int-5907cccf
   - amazon-gamelift-streams-launches-generat-d353d54b
+  - amazon-emr-now-supports-apache-spark-4-0-9139a22a
+  - amazon-connect-customer-now-uses-generat-7ec1333f
+  - amazon-sagemaker-hyperpod-slurm-clusters-7f53c725
+  - amazon-ec2-x8i-instances-are-now-availab-c9f7a24d
+  - amazon-ec2-m8i-and-m8i-flex-instances-ar-ea511b3d
+  - amazon-ec2-r8i-and-r8i-flex-instances-ar-a774c47a
+  - amazon-guardduty-malware-protection-for-000c58f8
+  - aws-deadline-cloud-now-supports-browsing-5fda64d7
