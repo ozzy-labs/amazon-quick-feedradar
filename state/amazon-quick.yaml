@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-05-27T21:05:23.845Z
-lastEtag: sha256:e642b5c0bf731d79ec7b51d9a5a8f8181add689b27f40a72cdc7ae342518ac8f
+lastFetchedAt: 2026-05-28T21:05:16.839Z
+lastEtag: sha256:f30b7e63dce5a4aadc219d713235f45c002e9c5299c6e6dc3ef2a7a159692a93
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -20982,3 +20982,21 @@ lastSeenIds:
   - amazon-ec2-r8i-and-r8i-flex-instances-ar-a774c47a
   - amazon-guardduty-malware-protection-for-000c58f8
   - aws-deadline-cloud-now-supports-browsing-5fda64d7
+  - monitor-aws-budgets-directly-in-billing-29baa84b
+  - aws-organizations-emits-cloudtrail-event-8bddd0e0
+  - amazon-connect-customer-expands-generati-ed670cbc
+  - claude-opus-4-8-is-now-available-on-aws-0a850160
+  - dynamodb-streams-now-supports-aws-privat-0632151e
+  - the-next-generation-of-amazon-opensearch-10fd2a78
+  - aws-partner-central-now-supports-deal-si-c0cd0f17
+  - announcing-region-expansion-of-p6-b200-i-b1a3bc0b
+  - announcing-region-expansion-of-p5-48xl-i-9d75095f
+  - announcing-region-expansion-of-p4de-inst-a8f1bc38
+  - amazon-bedrock-expands-support-for-servi-078396ef
+  - aws-elemental-inference-now-supports-sma-9581a9f4
+  - sagemaker-notebook-instances-now-support-05c90604
+  - sagemaker-notebook-instances-now-support-293827c4
+  - aws-glue-large-and-memory-optimized-work-488f4ba8
+  - amazon-aurora-mysql-now-supports-integra-0625fd37
+  - aws-backup-adds-otp-verification-for-mul-7425893a
+  - aws-neuron-2-30-0-now-available-with-nki-163853e7
