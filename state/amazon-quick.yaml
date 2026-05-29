@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-05-28T21:05:16.839Z
-lastEtag: sha256:f30b7e63dce5a4aadc219d713235f45c002e9c5299c6e6dc3ef2a7a159692a93
+lastFetchedAt: 2026-05-29T21:06:08.218Z
+lastEtag: sha256:527bfa5a0e1e031b0c58c80ff690cd2bb958f16caf60fd80c67c8e93c5c0a348
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21000,3 +21000,14 @@ lastSeenIds:
   - amazon-aurora-mysql-now-supports-integra-0625fd37
   - aws-backup-adds-otp-verification-for-mul-7425893a
   - aws-neuron-2-30-0-now-available-with-nki-163853e7
+  - amazon-connect-customer-now-supports-sch-c2103730
+  - aws-shield-advanced-introduces-ddos-atta-3121922b
+  - aws-interconnect-multicloud-now-offers-a-669cb2fd
+  - amazon-rds-for-oracle-now-supports-april-759d048c
+  - oracle-database-aws-is-now-available-in-2b4c42cd
+  - amazon-s3-tables-are-now-available-in-tw-619ed152
+  - aws-iot-core-adds-apis-for-mqtt-connecti-d9fa3a05
+  - aws-announces-general-availability-of-th-69808f74
+  - amazon-workspaces-applications-adds-supp-6723d02b
+  - aws-iot-core-now-supports-direct-messagi-a3f74979
+  - amazon-connect-customer-launches-granula-4386d5bd
