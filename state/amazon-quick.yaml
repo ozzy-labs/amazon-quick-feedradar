@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-05-30T21:05:06.490Z
-lastEtag: sha256:d0322ccaab1dc2df5c507b5ee36722bd33c23bddc773e57386da8cb49f90b3c4
+lastFetchedAt: 2026-06-01T21:05:11.376Z
+lastEtag: sha256:9fe051e78b27309241f0d743c607826eeb345a33ed99c2eb46363e529bcafccc
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21014,3 +21014,15 @@ lastSeenIds:
   - amazon-ses-now-offers-inbox-placement-me-9e7a83d6
   - aws-end-user-messaging-rcs-for-business-cf9d00a9
   - amazon-redshift-serverless-now-offers-4-4315d654
+  - quick-research-now-supports-customer-man-2ec386f2
+  - quick-research-now-supports-customer-man-b2511469
+  - amazon-sagemaker-adds-permissions-bounda-0d5cbbae
+  - amazon-bedrock-agentcore-identity-now-al-4d021fcd
+  - amazon-ec2-m8i-and-m8i-flex-instances-ar-5535b784
+  - amazon-ec2-m8azn-instances-are-now-avail-af4f3e9a
+  - amazon-sagemaker-hyperpod-now-supports-e-4e15aaf6
+  - amazon-sagemaker-hyperpod-now-offers-tro-f225ad81
+  - aws-direct-connect-now-supports-vif-rate-0e337aba
+  - amazon-bedrock-adds-amazon-cloudwatch-me-e7f19c8c
+  - amazon-ses-now-supports-tenant-level-sup-d6b752e9
+  - amazon-connect-s-ai-assistant-is-now-ava-baa1fc9d
