@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-01T21:05:11.376Z
-lastEtag: sha256:9fe051e78b27309241f0d743c607826eeb345a33ed99c2eb46363e529bcafccc
+lastFetchedAt: 2026-06-02T21:08:03.851Z
+lastEtag: sha256:65690898792dd37e7c62ebe4185739f99d7485449733037a813399aaab684c16
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21026,3 +21026,16 @@ lastSeenIds:
   - amazon-bedrock-adds-amazon-cloudwatch-me-e7f19c8c
   - amazon-ses-now-supports-tenant-level-sup-d6b752e9
   - amazon-connect-s-ai-assistant-is-now-ava-baa1fc9d
+  - amazon-quick-now-supports-vpc-connectivi-f3f32e5e
+  - aws-config-now-supports-internal-service-fad724ae
+  - aws-deadline-cloud-now-supports-persiste-d56fbc18
+  - amazon-sagemaker-studio-now-sets-up-in-s-8291d4da
+  - amazon-elasticache-for-valkey-now-suppor-830e2842
+  - aws-cost-and-usage-report-2-0-now-suppor-dea7a07d
+  - amazon-rds-for-sql-server-supports-bring-ec92af9d
+  - aws-healthomics-now-supports-nextflow-ve-433fb474
+  - aws-healthomics-now-supports-nextflow-ve-34ee6a1b
+  - aws-pcs-now-provides-a-production-ready-9b437b3f
+  - gpt-5-5-gpt-5-4-and-codex-from-openai-ar-09eef254
+  - amazon-inspector-launches-improved-agent-4631e169
+  - aws-healthlake-now-supports-cms-interope-27bdf1cb
