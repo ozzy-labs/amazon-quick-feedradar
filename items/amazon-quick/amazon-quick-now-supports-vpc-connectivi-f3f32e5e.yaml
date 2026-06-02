@@ -1,0 +1,54 @@
+id: amazon-quick-now-supports-vpc-connectivi-f3f32e5e
+sourceId: amazon-quick
+title: Amazon Quick now supports VPC connectivity for MCP connections
+url: https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/
+publishedAt: 2026-06-01T17:26:00.000Z
+fetchedAt: 2026-06-02T21:08:03.851Z
+summary: |-
+  <p>Amazon Quick now enables enterprise customers to connect their privately hosted Model Context Protocol (MCP) servers to Quick through Amazon Virtual Private Cloud (VPC). Amazon Quick is an AI assistant that turns questions into answers, answers into actions, and actions into outcomes for you and your entire team. Previously, Quick's MCP support was limited to third-party hosted servers accessible over the public internet. With VPC support, organizations that host MCP servers on private networks for proprietary applications, custom data sources, and internal tools can now securely extend those capabilities to AI workflows in Quick.<br>
+  <br>
+  With VPC connectivity for MCP, you can connect Quick to MCP servers running on Amazon EC2, AWS Fargate, AWS Agentcore, or other compute within your private network without exposing them to the internet. During MCP connector creation, select your VPC connection and provide your MCP server URL. Once connected, your team interacts with private MCP servers through natural language in Quick, with all traffic routed securely through your VPC.<br>
+  <br>
+  VPC support for MCP servers is available in all <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Regions</a> where Amazon Quick is available.<br>
+  <br>
+  Learn more about <a href="https://aws.amazon.com/quick/" target="_blank">Amazon Quick</a> and try for free. To learn more about connecting private MCP servers, visit the <a href="https://docs.aws.amazon.com/quick/latest/userguide/mcp-integration.html" target="_blank">MCP documentation</a> and the <a href="https://docs.aws.amazon.com/quick/latest/userguide/working-with-aws-vpc.html" target="_blank">VPC connectivity guide</a>.<br>
+  <br>
+  </p>
+raw:
+  id: whats-new-v2#launch-ogfdzvxv1bxcctrwqmgf7f
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-ogfdzvxv1bxcctrwqmgf7f
+  dateCreated: 2026-06-01T21:07:31+0000
+  dateUpdated: 2026-06-01T21:07:33+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick now enables enterprise customers to connect their privately hosted Model Context Protocol (MCP) servers to Quick through Amazon Virtual Private Cloud (VPC). Amazon Quick is an AI assistant that turns questions into answers, answers into actions, and actions into outcomes for you and your entire team. Previously, Quick's MCP support was limited to third-party hosted servers accessible over the public internet. With VPC support, organizations that host MCP servers on private networks for proprietary applications, custom data sources, and internal tools can now securely extend those capabilities to AI workflows in Quick.<br>
+      <br>
+      With VPC connectivity for MCP, you can connect Quick to MCP servers running on Amazon EC2, AWS Fargate, AWS Agentcore, or other compute within your private network without exposing them to the internet. During MCP connector creation, select your VPC connection and provide your MCP server URL. Once connected, your team interacts with private MCP servers through natural language in Quick, with all traffic routed securely through your VPC.<br>
+      <br>
+      VPC support for MCP servers is available in all <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Regions</a> where Amazon Quick is available.<br>
+      <br>
+      Learn more about <a href="https://aws.amazon.com/quick/" target="_blank">Amazon Quick</a> and try for free. To learn more about connecting private MCP servers, visit the <a href="https://docs.aws.amazon.com/quick/latest/userguide/mcp-integration.html" target="_blank">MCP documentation</a> and the <a href="https://docs.aws.amazon.com/quick/latest/userguide/working-with-aws-vpc.html" target="_blank">VPC connectivity guide</a>.<br>
+      <br>
+      </p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/
+    postDateTime: 2026-06-01T17:26:00Z
+    headline: Amazon Quick now supports VPC connectivity for MCP connections
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-06-02T21:08:08.934Z
+  feedback: []
