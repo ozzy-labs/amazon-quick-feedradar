@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-02T21:08:03.851Z
-lastEtag: sha256:65690898792dd37e7c62ebe4185739f99d7485449733037a813399aaab684c16
+lastFetchedAt: 2026-06-03T21:05:19.056Z
+lastEtag: sha256:a21fa77e3247a906670ecadfdd085954feb4885dfa374de497b96d79494d7a90
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21039,3 +21039,20 @@ lastSeenIds:
   - gpt-5-5-gpt-5-4-and-codex-from-openai-ar-09eef254
   - amazon-inspector-launches-improved-agent-4631e169
   - aws-healthlake-now-supports-cms-interope-27bdf1cb
+  - amazon-sagemaker-data-agent-now-supports-a14848b8
+  - amazon-sagemaker-unified-studio-now-supp-c54eabec
+  - aws-step-functions-adds-agentcore-powere-8375a175
+  - openai-gpt-5-4-generally-available-on-am-5470480a
+  - arc-region-switch-adds-amazon-aurora-sca-b150ee3e
+  - amazon-keyspaces-for-apache-cassandra-no-2c7f2428
+  - amazon-sagemaker-unified-studio-now-supp-eb542cc9
+  - amazon-sagemaker-ai-launches-multi-turn-3d1e309e
+  - aws-config-now-supports-9-new-resource-t-02858221
+  - amazon-rds-for-db2-launches-support-for-2b484ac2
+  - amazon-eks-and-amazon-eks-distro-now-sup-0a940e16
+  - amazon-location-service-announces-public-6745eb16
+  - amazon-connect-customer-now-optimizes-pl-cabcef39
+  - amazon-connect-customer-now-supports-up-310be405
+  - amazon-connect-customer-now-provides-sch-7d38a9a4
+  - amazon-cloudwatch-now-supports-querying-597935dc
+  - aws-glue-data-catalog-client-for-apache-c8bcd2f5
