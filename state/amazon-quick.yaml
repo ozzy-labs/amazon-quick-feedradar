@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-03T21:05:19.056Z
-lastEtag: sha256:a21fa77e3247a906670ecadfdd085954feb4885dfa374de497b96d79494d7a90
+lastFetchedAt: 2026-06-04T21:05:47.866Z
+lastEtag: sha256:703276f0042a5f5d4552347adcc445ccdedb6cf3367eccf3a8754b5fb76d3a43
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21056,3 +21056,10 @@ lastSeenIds:
   - amazon-connect-customer-now-provides-sch-7d38a9a4
   - amazon-cloudwatch-now-supports-querying-597935dc
   - aws-glue-data-catalog-client-for-apache-c8bcd2f5
+  - amazon-cognito-now-supports-multi-region-0ba59f7f
+  - amazon-mq-is-now-available-in-the-aws-eu-97753b80
+  - amazon-bedrock-launches-a-redesigned-con-7244d2ac
+  - aws-iot-device-management-adds-mqtt-sess-789fd402
+  - aws-compute-optimizer-now-supports-32-da-e6fafd1c
+  - amazon-ecs-managed-instances-now-support-08850694
+  - aws-iot-core-adds-new-logs-to-troublesho-f6ca90b3
