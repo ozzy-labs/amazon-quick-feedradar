@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-04T21:05:47.866Z
-lastEtag: sha256:703276f0042a5f5d4552347adcc445ccdedb6cf3367eccf3a8754b5fb76d3a43
+lastFetchedAt: 2026-06-05T21:05:54.286Z
+lastEtag: sha256:41bd921a09973b5eeb30ed06b813e457d4bd5a7529534f3af1a6ae80842c8f05
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21063,3 +21063,9 @@ lastSeenIds:
   - aws-compute-optimizer-now-supports-32-da-e6fafd1c
   - amazon-ecs-managed-instances-now-support-08850694
   - aws-iot-core-adds-new-logs-to-troublesho-f6ca90b3
+  - amazon-ecs-with-aws-fargate-now-supports-891d3780
+  - the-aws-mcp-server-now-supports-cross-ac-fc8b0a96
+  - amazon-sagemaker-data-agent-integrates-b-7842f14b
+  - aws-databases-on-vercel-now-available-in-66e4a2e7
+  - amazon-eks-capabilities-now-supports-ama-97975e5b
+  - aws-deadline-cloud-now-supports-plugin-s-55b3d200
