@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-05T21:05:54.286Z
-lastEtag: sha256:41bd921a09973b5eeb30ed06b813e457d4bd5a7529534f3af1a6ae80842c8f05
+lastFetchedAt: 2026-06-06T21:03:49.796Z
+lastEtag: sha256:00bf739cd436d6103ffd18f0ef20e3556568b3d8d2a742210c2076e870f8d1e3
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21069,3 +21069,6 @@ lastSeenIds:
   - aws-databases-on-vercel-now-available-in-66e4a2e7
   - amazon-eks-capabilities-now-supports-ama-97975e5b
   - aws-deadline-cloud-now-supports-plugin-s-55b3d200
+  - amazon-bedrock-agentcore-runtime-introdu-1539da88
+  - simplified-permissions-for-amazon-s3-tab-fc2158fc
+  - amazon-opensearch-ui-is-now-available-in-e53977ed
