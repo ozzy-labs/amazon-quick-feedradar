@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-07T21:02:09.267Z
-lastEtag: sha256:2534b9d77f1dd84da788f31b45b50eca0b0ae07345df38e80fe0bfeeaae39f25
+lastFetchedAt: 2026-06-08T21:04:04.285Z
+lastEtag: sha256:483c5c840829e2d87823216894eb06c2878a8252e00a041b01cab13e51653b1b
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21072,3 +21072,9 @@ lastSeenIds:
   - amazon-bedrock-agentcore-runtime-introdu-1539da88
   - simplified-permissions-for-amazon-s3-tab-fc2158fc
   - amazon-opensearch-ui-is-now-available-in-e53977ed
+  - aws-savings-plans-purchase-analyzer-now-a77a6fb9
+  - aws-application-migration-service-is-now-6251445f
+  - amazon-aurora-dsql-now-supports-the-json-34e013a4
+  - aws-now-provides-ai-powered-cost-investi-394771ce
+  - amazon-redshift-reduces-manual-snapshot-5ae5a62b
+  - amazon-rds-for-sql-server-migration-cost-edb104bf
