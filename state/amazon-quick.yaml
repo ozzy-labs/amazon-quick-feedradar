@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-08T21:04:04.285Z
-lastEtag: sha256:483c5c840829e2d87823216894eb06c2878a8252e00a041b01cab13e51653b1b
+lastFetchedAt: 2026-06-09T21:03:21.774Z
+lastEtag: sha256:0521f9b5267084603feef2dda9a9739ee8b7f41f3e75e433e94f6dadd7548aa8
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21078,3 +21078,17 @@ lastSeenIds:
   - aws-now-provides-ai-powered-cost-investi-394771ce
   - amazon-redshift-reduces-manual-snapshot-5ae5a62b
   - amazon-rds-for-sql-server-migration-cost-edb104bf
+  - amazon-s3-access-grants-are-now-availabl-32f1aba2
+  - aws-finops-agent-is-now-available-in-pre-340d9881
+  - aws-announces-claude-fable-5-the-first-g-0d2860b2
+  - run-interactive-workloads-on-amazon-emr-ccd1d45e
+  - aws-cost-explorer-launches-intelligent-c-b9828567
+  - aws-compute-optimizer-now-supports-idle-39d28580
+  - amazon-msk-express-brokers-now-support-a-5165aa3e
+  - amazon-documentdb-now-supports-engine-mi-7802377f
+  - amazon-cloudwatch-logs-insights-adds-23-23ec3b78
+  - postgresql-19-beta-1-is-now-available-in-d52dd538
+  - aws-lambda-managed-instances-expands-to-ab570b9d
+  - amazon-connect-customer-now-offers-ai-ag-6a24e645
+  - amazon-ec2-c8in-instances-are-now-availa-1cf15f3d
+  - amazon-connect-customer-launches-real-ti-de30e724
