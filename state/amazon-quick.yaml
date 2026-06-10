@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-09T21:03:21.774Z
-lastEtag: sha256:0521f9b5267084603feef2dda9a9739ee8b7f41f3e75e433e94f6dadd7548aa8
+lastFetchedAt: 2026-06-10T21:05:40.730Z
+lastEtag: sha256:ba4747209a594ab57d24533fa7f770978af75f585faece55f46c17f95ab78061
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21092,3 +21092,11 @@ lastSeenIds:
   - amazon-connect-customer-now-offers-ai-ag-6a24e645
   - amazon-ec2-c8in-instances-are-now-availa-1cf15f3d
   - amazon-connect-customer-launches-real-ti-de30e724
+  - amazon-ec2-m9g-and-m9gd-general-purpose-f71d56e4
+  - amazon-ec2-p6-b200-instances-are-now-ava-17c13716
+  - aws-cost-and-usage-report-2-0-now-suppor-6a5e4b4b
+  - amazon-fsx-for-openzfs-intelligent-tieri-7a75715f
+  - amazon-sagemaker-unified-studio-notebook-87ddb2f8
+  - announcing-metal-48xl-and-metal-96xl-for-b114eb44
+  - aws-backup-support-for-amazon-eks-is-now-d1a94478
+  - the-aws-command-line-interface-cli-now-s-ac7b71cd
