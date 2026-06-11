@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-10T21:05:40.730Z
-lastEtag: sha256:ba4747209a594ab57d24533fa7f770978af75f585faece55f46c17f95ab78061
+lastFetchedAt: 2026-06-11T21:04:22.000Z
+lastEtag: sha256:4f1ecc03b78c5d82e3b365f8100c391b9711936071930e1c96403609ed69e8c1
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21100,3 +21100,12 @@ lastSeenIds:
   - announcing-metal-48xl-and-metal-96xl-for-b114eb44
   - aws-backup-support-for-amazon-eks-is-now-d1a94478
   - the-aws-command-line-interface-cli-now-s-ac7b71cd
+  - aws-elastic-beanstalk-console-now-integr-6fdd0268
+  - amazon-mwaa-serverless-now-supports-amaz-501e2e1b
+  - amazon-managed-service-for-prometheus-no-73321be5
+  - aws-announces-aws-workload-credentials-p-a6daabba
+  - openai-gpt-5-4-and-gpt-5-5-models-now-av-bb44740a
+  - amazon-opensearch-service-launches-mcp-a-b87b857c
+  - amazon-ecs-managed-daemons-now-support-i-06a5ec6c
+  - gemma-4-models-now-available-on-amazon-b-2dde9309
+  - amazon-virtual-private-cloud-vpc-flow-lo-c9b88fa6
