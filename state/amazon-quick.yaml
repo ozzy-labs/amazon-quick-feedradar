@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-11T21:04:22.000Z
-lastEtag: sha256:4f1ecc03b78c5d82e3b365f8100c391b9711936071930e1c96403609ed69e8c1
+lastFetchedAt: 2026-06-12T21:04:06.066Z
+lastEtag: sha256:a74fbf21e7f221a577adbe7b00953da228f58ea2afbaafcf14861cd789d2f785
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21109,3 +21109,13 @@ lastSeenIds:
   - amazon-ecs-managed-daemons-now-support-i-06a5ec6c
   - gemma-4-models-now-available-on-amazon-b-2dde9309
   - amazon-virtual-private-cloud-vpc-flow-lo-c9b88fa6
+  - amazon-quick-now-integrates-with-snowfla-857b80f5
+  - sagemaker-ai-now-supports-serverless-fin-5a10d90d
+  - amazon-ec2-i7i-instances-now-available-i-df279bc7
+  - amazon-ec2-capacity-blocks-for-ml-is-now-3227639c
+  - amazon-ec2-high-memory-u7i-8tb-instances-4be7faa6
+  - amazon-eks-now-supports-local-clusters-o-7a0d8648
+  - amazon-cloudwatch-application-signals-no-efbee07d
+  - amazon-aurora-now-supports-postgresql-ma-86c4dd21
+  - aws-lake-formation-extends-table-permiss-c1ee7e33
+  - amazon-managed-service-for-prometheus-no-b9f250be
