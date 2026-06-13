@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-12T21:04:06.066Z
-lastEtag: sha256:a74fbf21e7f221a577adbe7b00953da228f58ea2afbaafcf14861cd789d2f785
+lastFetchedAt: 2026-06-13T21:03:33.561Z
+lastEtag: sha256:98e110cb7243b4ec055b752016802e9d295fcaea6db5f32fd2791c82e6f32a09
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21119,3 +21119,4 @@ lastSeenIds:
   - amazon-aurora-now-supports-postgresql-ma-86c4dd21
   - aws-lake-formation-extends-table-permiss-c1ee7e33
   - amazon-managed-service-for-prometheus-no-b9f250be
+  - amazon-lightsail-is-now-available-in-thr-212678be
