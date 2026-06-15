@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-13T21:03:33.561Z
-lastEtag: sha256:98e110cb7243b4ec055b752016802e9d295fcaea6db5f32fd2791c82e6f32a09
+lastFetchedAt: 2026-06-15T21:04:44.292Z
+lastEtag: sha256:4af99e70ba555036d48b8ccf6e00cd4fd3d7dc399583e6f9af82cc86e1352632
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21120,3 +21120,19 @@ lastSeenIds:
   - aws-lake-formation-extends-table-permiss-c1ee7e33
   - amazon-managed-service-for-prometheus-no-b9f250be
   - amazon-lightsail-is-now-available-in-thr-212678be
+  - amazon-bedrock-agentcore-memory-now-supp-2dae7967
+  - amazon-cloudwatch-introduces-log-analyti-b6fd3a4b
+  - amazon-route-53-resolver-dns-firewall-no-a45484c2
+  - amazon-ecs-express-mode-is-now-available-4fbdbb2d
+  - aws-launches-cost-explorer-historical-da-bbf3384a
+  - aws-lambda-managed-instances-now-support-70f412ab
+  - aws-devops-agent-expands-with-custom-sre-0fd8fc4e
+  - amazon-ec2-c8i-instances-are-now-availab-18dbe2ec
+  - amazon-ec2-c7i-instances-are-now-availab-010da00b
+  - aws-waf-announces-ai-traffic-monetizatio-c6d6efb4
+  - amazon-cloudwatch-now-supports-cross-acc-1a95f333
+  - amazon-cloudwatch-query-studio-is-now-ge-17f44780
+  - amazon-rds-for-mariadb-supports-long-ter-355d401e
+  - amazon-rds-for-mysql-announces-extended-b97054cf
+  - amazon-rds-for-mariadb-now-supports-comm-a32186db
+  - amazon-cloudwatch-introduces-native-open-a8c0790b
