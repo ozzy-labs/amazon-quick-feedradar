@@ -1,0 +1,91 @@
+id: amazon-quick-expands-integrations-with-n-ec83ff53
+sourceId: amazon-quick
+title: Amazon Quick expands integrations with new connectors for Adobe, Figma,
+  WhatsApp, and more
+url: https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-adobe-figma-whatsapp/
+publishedAt: 2026-06-16T15:20:00.000Z
+fetchedAt: 2026-06-17T21:03:52.328Z
+summary: >-
+  <p>Amazon Quick now connects to 16 additional tools, allowing teams to act on
+  insights from their data, analytics, design, and communication apps without
+  switching context. New connectors include Adobe, Cisco Video Messaging, Cisco
+  Webex Meetings, Dun &amp; Bradstreet, Figma, Google Chat, HG Insights,
+  Microsoft OneNote, Moody’s, Shopify, Smartsheet, Snowflake, Visier, WhatsApp,
+  Zapier, and ZoomInfo.</p>
+
+  <p>With this expansion, Quick now integrates across productivity, design,
+  analytics, data infrastructure, financial intelligence, commerce, and
+  communication covering the tools teams already rely on and making it easier to
+  build workflows that combine multiple tools in a single conversation. For
+  example, a revenue team can enrich account data from Dun &amp; Bradstreet,
+  cross-reference it against a Snowflake dataset, and track outreach tasks in
+  Smartsheet without leaving Quick. Teams can add new tools to their workspace
+  in minutes and immediately start incorporating them into Quick Flows, Chat,
+  and Spaces alongside their existing integrations.</p>
+
+  <p>These integrations are available in all <a
+  href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html"
+  target="_blank">AWS Regions</a> where Amazon Quick is available.</p>
+
+  <p>Visit the Amazon Quick website to learn more and <a
+  href="https://aws.amazon.com/quick/" target="_blank">start your Quick free
+  trial</a>. To learn more about Quick integrations, visit the <a
+  href="https://aws.amazon.com/quick/integrations/" target="_blank">integrations
+  page</a>.&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-apxqukybabvd3e6nuldzhu
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-apxqukybabvd3e6nuldzhu
+  dateCreated: 2026-06-17T18:30:18+0000
+  dateUpdated: 2026-06-17T18:31:19+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: >
+      <p>Amazon Quick now connects to 16 additional tools, allowing teams to act
+      on insights from their data, analytics, design, and communication apps
+      without switching context. New connectors include Adobe, Cisco Video
+      Messaging, Cisco Webex Meetings, Dun &amp; Bradstreet, Figma, Google Chat,
+      HG Insights, Microsoft OneNote, Moody’s, Shopify, Smartsheet, Snowflake,
+      Visier, WhatsApp, Zapier, and ZoomInfo.</p>
+
+      <p>With this expansion, Quick now integrates across productivity, design,
+      analytics, data infrastructure, financial intelligence, commerce, and
+      communication covering the tools teams already rely on and making it
+      easier to build workflows that combine multiple tools in a single
+      conversation. For example, a revenue team can enrich account data from Dun
+      &amp; Bradstreet, cross-reference it against a Snowflake dataset, and
+      track outreach tasks in Smartsheet without leaving Quick. Teams can add
+      new tools to their workspace in minutes and immediately start
+      incorporating them into Quick Flows, Chat, and Spaces alongside their
+      existing integrations.</p>
+
+      <p>These integrations are available in all <a
+      href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html"
+      target="_blank">AWS Regions</a> where Amazon Quick is available.</p>
+
+      <p>Visit the Amazon Quick website to learn more and <a
+      href="https://aws.amazon.com/quick/" target="_blank">start your Quick free
+      trial</a>. To learn more about Quick integrations, visit the <a
+      href="https://aws.amazon.com/quick/integrations/"
+      target="_blank">integrations page</a>.&nbsp;</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/06/amazon-quick-adobe-figma-whatsapp/
+    postDateTime: 2026-06-16T15:20:00Z
+    headline: "Amazon Quick expands integrations with new connectors for Adobe,
+      Figma, WhatsApp, and more "
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-06-17T21:04:00.776Z
+  feedback: []

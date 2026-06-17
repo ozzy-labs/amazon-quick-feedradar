@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-16T21:03:41.720Z
-lastEtag: sha256:c6e7e7fbd03a3d06c879669a79d9f454be62182e5165c4e6281e947322a8c5a9
+lastFetchedAt: 2026-06-17T21:03:52.328Z
+lastEtag: sha256:4dd1df49ae9e78c54a7e299238d155f2e6cb9db30507e3b78b7a47d4867a89c6
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21156,3 +21156,31 @@ lastSeenIds:
   - amazon-fsx-for-openzfs-now-supports-on-d-f49bf066
   - aws-partner-central-now-provides-lead-en-14157e3b
   - free-network-bandwidth-amazon-gamelift-s-fa3b6e0a
+  - amazon-quick-announces-autonomous-agents-7950ede5
+  - amazon-quick-expands-integrations-with-n-ec83ff53
+  - aws-glue-interactive-sessions-now-suppor-fecdfb1a
+  - aws-healthomics-now-streams-workflow-eng-0fe47c12
+  - aws-devops-agent-adds-release-management-45265553
+  - amazon-rds-for-postgresql-mysql-and-mari-fbd02c26
+  - amazon-aurora-and-rds-for-mysql-expand-e-bd6a24cc
+  - aws-outposts-racks-now-support-bmn-cx3a-38605b46
+  - amazon-bedrock-agentcore-introduces-new-bff5500e
+  - agentcore-harness-in-now-generally-avail-fcbd49bf
+  - amazon-bedrock-agentcore-now-supports-be-b478044f
+  - aws-glue-data-catalog-now-supports-busin-cbb2c4ea
+  - introducing-aws-continuum-for-security-a-a1cd3698
+  - oracle-database-aws-now-supports-oracle-10454d14
+  - amazon-bedrock-managed-knowledge-base-is-0ef7c559
+  - aws-security-agent-announces-support-for-969b8637
+  - aws-security-agent-adds-kiro-power-claud-0102e0a4
+  - amazon-bedrock-guardrails-announces-a-ne-2ed417b0
+  - aws-transform-now-supports-model-to-mode-e2a8b01f
+  - amazon-s3-vectors-now-supports-up-to-10-71141870
+  - amazon-bedrock-guardrails-adds-automated-8f330e96
+  - announcing-web-search-on-amazon-bedrock-2802ad36
+  - amazon-rds-for-sql-server-now-supports-x-55baad04
+  - amazon-s3-vectors-reduces-query-charges-a19162da
+  - amazon-s3-adds-annotations-to-provide-ai-c7cbe45d
+  - aws-launches-a-new-continuous-modernizat-6cf3d5b0
+  - amazon-fsx-for-lustre-intelligent-tierin-4039adf8
+  - amazon-ec2-future-dated-capacity-reserva-ec313e5a
