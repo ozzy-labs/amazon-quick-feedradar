@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-17T21:03:52.328Z
-lastEtag: sha256:4dd1df49ae9e78c54a7e299238d155f2e6cb9db30507e3b78b7a47d4867a89c6
+lastFetchedAt: 2026-06-18T21:02:54.725Z
+lastEtag: sha256:21de48eb3f47e17e13ada12b76e78397f7f49ac65f867d9655864d54c696c57b
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21184,3 +21184,11 @@ lastSeenIds:
   - aws-launches-a-new-continuous-modernizat-6cf3d5b0
   - amazon-fsx-for-lustre-intelligent-tierin-4039adf8
   - amazon-ec2-future-dated-capacity-reserva-ec313e5a
+  - amazon-mq-for-rabbitmq-now-supports-priv-b35a4fec
+  - nested-virtualization-is-now-available-o-7bba02f8
+  - amazon-connect-customer-launches-the-abi-28cdf676
+  - all-minilm-l12-v2-for-semantic-search-an-e81e42f3
+  - ministral-3-14b-instruct-for-multimodal-05fa7186
+  - amazon-sagemaker-ai-announces-new-observ-99ff4320
+  - agentcore-harness-is-now-generally-avail-fcbd49bf
+  - aws-secrets-manager-introduces-safe-secr-072043b4
