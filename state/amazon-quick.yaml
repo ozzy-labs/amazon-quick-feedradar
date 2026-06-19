@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-18T21:02:54.725Z
-lastEtag: sha256:21de48eb3f47e17e13ada12b76e78397f7f49ac65f867d9655864d54c696c57b
+lastFetchedAt: 2026-06-19T21:03:01.159Z
+lastEtag: sha256:ee7d6dd25a986fb5fa067e0ba6597333aac22f88776d9ee3ed357cfbd72c7b74
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21192,3 +21192,14 @@ lastSeenIds:
   - amazon-sagemaker-ai-announces-new-observ-99ff4320
   - agentcore-harness-is-now-generally-avail-fcbd49bf
   - aws-secrets-manager-introduces-safe-secr-072043b4
+  - announcing-the-general-availability-of-a-80cf42ce
+  - amazon-cloudwatch-synthetics-now-support-a84a3521
+  - amazon-msk-express-brokers-now-support-i-2475e756
+  - amazon-ecs-announces-faster-service-auto-09a4fc26
+  - amazon-ec2-g7-instances-are-now-generall-ee7f6cd3
+  - aws-compute-optimizer-enhances-ebs-volum-91f4a601
+  - amazon-eks-now-supports-customer-routed-b795ce74
+  - amazon-sns-now-supports-sending-sms-in-t-fb044693
+  - amazon-gamelift-servers-adds-new-contain-c3219830
+  - amazon-workspaces-personal-supports-ubun-e9367857
+  - amazon-rds-for-sql-server-increases-the-21cab375
