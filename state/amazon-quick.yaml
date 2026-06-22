@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-21T21:03:23.908Z
-lastEtag: sha256:bd6b4ae6426908dfae7c1ec07ab6a2b31e825db2dd3ab922ed06c94e7301d2aa
+lastFetchedAt: 2026-06-22T21:03:01.636Z
+lastEtag: sha256:f64eaee681c5e126bf6531fcbda121c7508c2346895d80cb6d031dac885221d9
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21203,3 +21203,7 @@ lastSeenIds:
   - amazon-gamelift-servers-adds-new-contain-c3219830
   - amazon-workspaces-personal-supports-ubun-e9367857
   - amazon-rds-for-sql-server-increases-the-21cab375
+  - aws-network-firewall-updates-default-dro-874516a0
+  - aws-batch-now-supports-customer-ordered-218509ed
+  - aws-iam-identity-center-now-supports-sep-af1fe5bc
+  - aws-parallel-computing-service-supports-7c6fb227
