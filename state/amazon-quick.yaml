@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-22T21:03:01.636Z
-lastEtag: sha256:f64eaee681c5e126bf6531fcbda121c7508c2346895d80cb6d031dac885221d9
+lastFetchedAt: 2026-06-23T21:03:12.649Z
+lastEtag: sha256:fc058703701043839e3b695c86b20879c9031cd0874009abecb8c8463af85f22
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21207,3 +21207,16 @@ lastSeenIds:
   - aws-batch-now-supports-customer-ordered-218509ed
   - aws-iam-identity-center-now-supports-sep-af1fe5bc
   - aws-parallel-computing-service-supports-7c6fb227
+  - amazon-cloudwatch-logs-supports-managed-aae5c1c7
+  - sagemaker-notebook-instances-now-support-4fcd1ead
+  - amazon-bedrock-agentcore-memory-now-supp-a26d5b56
+  - aws-healthomics-now-supports-ephemeral-s-75f61ad9
+  - automated-reasoning-checks-in-amazon-bed-79889663
+  - amazon-opensearch-service-now-offers-ai-60bb3c63
+  - amazon-sagemaker-studio-notebooks-now-su-97790ec2
+  - aws-healthomics-now-supports-nextflow-pr-7c19150f
+  - aws-introduces-lambda-microvms-for-isola-fe21a725
+  - aws-transform-for-migrations-now-support-d16e2bbd
+  - amazon-msk-now-offers-ai-agent-skills-to-1f08d561
+  - msk-replicator-now-supports-mutual-tls-m-906ef840
+  - introducing-self-service-lifecycle-manag-6797a4ea
