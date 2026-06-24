@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-23T21:03:12.649Z
-lastEtag: sha256:fc058703701043839e3b695c86b20879c9031cd0874009abecb8c8463af85f22
+lastFetchedAt: 2026-06-24T21:03:02.546Z
+lastEtag: sha256:7023bd67fb2c192278ba5e4350aa34ed7e30a2d334bf4e4ab11ad2fc906944a4
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21220,3 +21220,13 @@ lastSeenIds:
   - amazon-msk-now-offers-ai-agent-skills-to-1f08d561
   - msk-replicator-now-supports-mutual-tls-m-906ef840
   - introducing-self-service-lifecycle-manag-6797a4ea
+  - amazon-ec2-announces-ami-watermarks-for-f83adbf2
+  - amazon-emr-serverless-now-supports-live-7eb313c7
+  - aws-iot-device-sdk-for-swift-is-now-gene-8cecd0e9
+  - amazon-neptune-now-supports-aws-cloudfor-44da9a46
+  - amazon-cloudwatch-now-supports-tags-on-d-21680016
+  - amazon-ec2-high-memory-u7in-24tb-instanc-263bb03c
+  - amazon-guardduty-ai-powered-investigatio-b91004ab
+  - amazon-cognito-now-supports-customer-man-6f542768
+  - amazon-cloudwatch-launches-otel-containe-ed51726f
+  - claude-tag-is-now-available-in-beta-via-42fec01c
