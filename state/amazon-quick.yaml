@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-24T21:03:02.546Z
-lastEtag: sha256:7023bd67fb2c192278ba5e4350aa34ed7e30a2d334bf4e4ab11ad2fc906944a4
+lastFetchedAt: 2026-06-25T21:03:27.035Z
+lastEtag: sha256:2bb52881fd51ffd72c60e4fc7c014b78d53644909206f2114b10322962090399
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21230,3 +21230,11 @@ lastSeenIds:
   - amazon-cognito-now-supports-customer-man-6f542768
   - amazon-cloudwatch-launches-otel-containe-ed51726f
   - claude-tag-is-now-available-in-beta-via-42fec01c
+  - aws-network-firewall-now-supports-manage-07bc8ec0
+  - kiro-achieves-fedramp-high-and-dod-il-4-beb6795d
+  - amazon-redshift-adds-reserved-instance-u-4b9cb7ef
+  - aws-govcloud-us-now-offers-us-based-us-c-2531ac2d
+  - aws-backup-enhances-amazon-s3-backup-cop-f08d6ebc
+  - amazon-rds-now-supports-the-latest-gdr-u-a7230506
+  - amazon-opensearch-ingestion-now-availabl-97df9dd1
+  - amazon-route-53-global-resolver-now-supp-df4ccbbe
