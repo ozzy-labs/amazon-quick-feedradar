@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-25T21:03:27.035Z
-lastEtag: sha256:2bb52881fd51ffd72c60e4fc7c014b78d53644909206f2114b10322962090399
+lastFetchedAt: 2026-06-26T21:03:22.182Z
+lastEtag: sha256:9cde5de4ba4a325a6909c54e2b4c3f63b3d6a3b1c2098e38c1e4f937f8ec2014
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21238,3 +21238,10 @@ lastSeenIds:
   - amazon-rds-now-supports-the-latest-gdr-u-a7230506
   - amazon-opensearch-ingestion-now-availabl-97df9dd1
   - amazon-route-53-global-resolver-now-supp-df4ccbbe
+  - amazon-ec2-r8g-instances-now-available-i-fd058d20
+  - amazon-ec2-c7a-instances-are-now-availab-f9222afc
+  - amazon-ec2-m8a-instances-now-available-i-1487a948
+  - openai-gpt-openai-gpt-oss-and-nvidia-nem-f59469cd
+  - amazon-ec2-c8in-instances-are-now-availa-a424ca57
+  - amazon-rds-custom-now-supports-the-lates-9ec476cb
+  - amazon-connect-customer-launches-agentic-22dea9bb
