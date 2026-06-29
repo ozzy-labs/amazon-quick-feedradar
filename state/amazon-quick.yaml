@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-27T21:02:44.616Z
-lastEtag: sha256:c87cc9441133cedb2986ca5900090ae5da4db1bfa58040b824042c869c73edf6
+lastFetchedAt: 2026-06-29T21:03:07.766Z
+lastEtag: sha256:4241a123d9ca84fce8acb610a2f2ffe14141d65923b728c93f79d82c4595581a
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21245,3 +21245,5 @@ lastSeenIds:
   - amazon-ec2-c8in-instances-are-now-availa-a424ca57
   - amazon-rds-custom-now-supports-the-lates-9ec476cb
   - amazon-connect-customer-launches-agentic-22dea9bb
+  - amazon-mwaa-serverless-now-supports-shar-e569af80
+  - amazon-s3-server-access-logs-now-deliver-8e815412
