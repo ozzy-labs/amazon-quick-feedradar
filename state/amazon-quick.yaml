@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-29T21:03:07.766Z
-lastEtag: sha256:4241a123d9ca84fce8acb610a2f2ffe14141d65923b728c93f79d82c4595581a
+lastFetchedAt: 2026-06-30T21:03:02.834Z
+lastEtag: sha256:e873c94ea56a8f2dcbf510d1478cff104d8848bcdd8797a46f8ab2f9ab805a8f
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21247,3 +21247,21 @@ lastSeenIds:
   - amazon-connect-customer-launches-agentic-22dea9bb
   - amazon-mwaa-serverless-now-supports-shar-e569af80
   - amazon-s3-server-access-logs-now-deliver-8e815412
+  - amazon-rds-enhances-iam-database-authent-2aadbda3
+  - aws-parallel-computing-service-supports-3aa4bc04
+  - amazon-elasticache-t4g-nodes-now-availab-ef006ce1
+  - amazon-neptune-announces-dual-stack-supp-9ac8bf34
+  - aws-end-user-messaging-rcs-now-supports-589df1ce
+  - amazon-time-sync-service-adds-support-fo-ca85e83c
+  - announcing-general-availability-of-amazo-a08a86ce
+  - announcing-capability-insights-for-aws-a-4f31609b
+  - amazon-sagemaker-ai-cuts-generative-ai-i-775ba82a
+  - aws-security-hub-cspm-launches-ai-securi-fe4ebd6f
+  - iam-identity-center-now-enables-programm-9be6dd91
+  - claude-sonnet-5-now-available-on-aws-e1718738
+  - amazon-sagemaker-ai-now-supports-serverl-311e4c98
+  - claude-opus-4-8-is-now-available-in-aws-1ea71444
+  - openai-gpt-5-4-and-nvidia-nemotron-3-sup-3bd5ca07
+  - aws-service-availability-updates-7e96f606
+  - aws-waf-adds-support-for-amazon-bedrock-e5915a8e
+  - amazon-elasticache-now-supports-valkey-9-9c39d10e
