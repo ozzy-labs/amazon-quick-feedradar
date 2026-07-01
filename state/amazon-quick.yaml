@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-06-30T21:03:02.834Z
-lastEtag: sha256:e873c94ea56a8f2dcbf510d1478cff104d8848bcdd8797a46f8ab2f9ab805a8f
+lastFetchedAt: 2026-07-01T21:04:45.376Z
+lastEtag: sha256:c72a4b966c802727d917d17816b37af04315438ef5981fd2f142364199df210d
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21265,3 +21265,24 @@ lastSeenIds:
   - aws-service-availability-updates-7e96f606
   - aws-waf-adds-support-for-amazon-bedrock-e5915a8e
   - amazon-elasticache-now-supports-valkey-9-9c39d10e
+  - aws-artifact-now-includes-assurance-assi-c7daf92b
+  - aws-partner-central-now-supports-aws-mar-7b71c00a
+  - amazon-rds-announces-cross-region-automa-0697eae0
+  - amazon-bedrock-agentcore-now-available-i-83ea37f8
+  - amazon-guardduty-adds-sensitive-file-mod-a0bcf5cd
+  - aws-appconfig-launches-managed-experimen-c4ec36aa
+  - amazon-eks-now-supports-kubernetes-versi-61611c20
+  - amazon-managed-service-for-prometheus-ac-43dda9c7
+  - aws-security-agent-now-available-in-asia-4b17bb2d
+  - amazon-opensearch-service-optimized-for-167c03ec
+  - amazon-cloudwatch-logs-enriches-log-even-8ac41fb1
+  - aws-cloudformation-and-cdk-accelerate-de-fd88cca8
+  - aws-cloudformation-and-cdk-express-mode-42176bd1
+  - amazon-ec2-auto-scaling-now-supports-res-b4fe97b3
+  - aws-network-firewall-now-supports-contai-0da1d581
+  - claude-sonnet-5-is-now-available-on-aws-e1718738
+  - aws-announces-aws-interconnect-last-mile-b5be39a2
+  - amazon-ec2-c9g-and-c9gd-compute-optimize-140f298b
+  - amazon-gamelift-servers-announces-ddos-p-77987f84
+  - amazon-cloudwatch-pipelines-now-supports-3ec1ea21
+  - aws-clean-rooms-now-supports-intermediat-07bb90ac
