@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-01T21:04:45.376Z
-lastEtag: sha256:c72a4b966c802727d917d17816b37af04315438ef5981fd2f142364199df210d
+lastFetchedAt: 2026-07-02T21:04:58.035Z
+lastEtag: sha256:aff602fb7927057608c6f70507450d9e7382e09601424b15318d562d1a6bb543
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21286,3 +21286,13 @@ lastSeenIds:
   - amazon-gamelift-servers-announces-ddos-p-77987f84
   - amazon-cloudwatch-pipelines-now-supports-3ec1ea21
   - aws-clean-rooms-now-supports-intermediat-07bb90ac
+  - amazon-ec2-dedicated-hosts-now-support-a-620d8e83
+  - aws-config-now-supports-8-new-resource-t-8f3cfb70
+  - amazon-bedrock-agentcore-increases-defau-7ed03246
+  - amazon-cloudwatch-supports-creating-alar-439e6002
+  - amazon-ecs-now-provides-real-time-deploy-099d0d82
+  - amazon-ecs-now-supports-configurable-dep-6be44bcf
+  - amazon-ecs-express-mode-now-supports-cus-e2ba1a37
+  - amazon-rds-for-db2-now-supports-self-man-3004ed0a
+  - amazon-connect-customer-now-supports-rul-fcf59374
+  - amazon-connect-customer-now-supports-ass-021e6fd5
