@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-02T21:04:58.035Z
-lastEtag: sha256:aff602fb7927057608c6f70507450d9e7382e09601424b15318d562d1a6bb543
+lastFetchedAt: 2026-07-03T21:05:09.082Z
+lastEtag: sha256:57a1d8450d70f2603c1ecc1799399b5b7f00efe801d86362a48195237c3389cb
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21296,3 +21296,6 @@ lastSeenIds:
   - amazon-rds-for-db2-now-supports-self-man-3004ed0a
   - amazon-connect-customer-now-supports-rul-fcf59374
   - amazon-connect-customer-now-supports-ass-021e6fd5
+  - amazon-sagemaker-unified-studio-now-supp-c5f9eb20
+  - amazon-ec2-x8i-instances-are-now-availab-64a88ee7
+  - amazon-sagemaker-hyperpod-now-supports-a-1dd545cd
