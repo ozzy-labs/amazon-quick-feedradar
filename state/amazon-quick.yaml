@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-03T21:05:09.082Z
-lastEtag: sha256:57a1d8450d70f2603c1ecc1799399b5b7f00efe801d86362a48195237c3389cb
+lastFetchedAt: 2026-07-06T21:05:10.436Z
+lastEtag: sha256:4ce837878c33dc0f5f0f946fcebf2370c7999f44df0e3d699f477298f105ff5b
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21299,3 +21299,9 @@ lastSeenIds:
   - amazon-sagemaker-unified-studio-now-supp-c5f9eb20
   - amazon-ec2-x8i-instances-are-now-availab-64a88ee7
   - amazon-sagemaker-hyperpod-now-supports-a-1dd545cd
+  - amazon-evs-vcf-9-0-and-9-1-support-4837b188
+  - aws-certificate-manager-now-supports-the-daeab004
+  - cloudwatch-application-signals-now-autom-cc61ef9f
+  - aws-codepipeline-now-available-in-asia-p-506124e1
+  - aws-secrets-manager-adds-managed-externa-122c2154
+  - cloudwatch-application-signals-now-suppo-6419227c
