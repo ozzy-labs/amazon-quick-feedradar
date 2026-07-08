@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-06T21:05:10.436Z
-lastEtag: sha256:4ce837878c33dc0f5f0f946fcebf2370c7999f44df0e3d699f477298f105ff5b
+lastFetchedAt: 2026-07-08T00:22:16.964Z
+lastEtag: sha256:53b8f30bf29f2bbe1b74083ec615aaa40cdddc943a799f0162b24fb2b04eb7f8
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21305,3 +21305,18 @@ lastSeenIds:
   - aws-codepipeline-now-available-in-asia-p-506124e1
   - aws-secrets-manager-adds-managed-externa-122c2154
   - cloudwatch-application-signals-now-suppo-6419227c
+  - amazon-gamelift-streams-introduces-secur-07150f74
+  - amazon-s3-vectors-is-now-available-in-aw-a38ed3dc
+  - aws-security-hub-extends-unified-securit-faf8b389
+  - amazon-ecs-managed-instances-reduces-gpu-82771828
+  - amazon-emr-serverless-now-supports-large-97cc7e8b
+  - amazon-ec2-c8ine-instances-are-now-avail-c63becc7
+  - amazon-sagemaker-now-supports-data-linea-ba26186c
+  - amazon-redshift-rg-instances-now-availab-93a7fe88
+  - amazon-rds-for-oracle-now-supports-oracl-8ab97bf8
+  - amazon-eks-auto-mode-reduces-gpu-managem-c68e4bd8
+  - aws-security-hub-adds-impact-analysis-fo-673c584b
+  - amazon-sagemaker-hyperpod-now-supports-d-431fd0b9
+  - amazon-cognito-now-supports-self-service-9cb4d2a7
+  - amazon-sagemaker-studio-now-integrates-w-76ef0df0
+  - aws-introduces-declarative-controls-for-b95272ee
