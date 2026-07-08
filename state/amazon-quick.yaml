@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-08T00:22:16.964Z
-lastEtag: sha256:53b8f30bf29f2bbe1b74083ec615aaa40cdddc943a799f0162b24fb2b04eb7f8
+lastFetchedAt: 2026-07-08T21:04:50.693Z
+lastEtag: sha256:cf59d3b7d428c0ee94d70bbf8ad052e36aaf2cdbe45e6884bf61bc5e59039600
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21320,3 +21320,11 @@ lastSeenIds:
   - amazon-cognito-now-supports-self-service-9cb4d2a7
   - amazon-sagemaker-studio-now-integrates-w-76ef0df0
   - aws-introduces-declarative-controls-for-b95272ee
+  - aws-security-hub-now-offers-network-scan-4b4915a2
+  - amazon-redshift-rg-instances-now-availab-0e6def45
+  - amazon-connect-customer-now-supports-for-bb410020
+  - amazon-ec2-high-memory-u7i-instances-now-8a2f4666
+  - amazon-s3-express-one-zone-is-now-availa-30171374
+  - aws-systems-manager-simplifies-azure-vm-62561d4e
+  - amazon-sagemaker-unified-studio-now-supp-10803066
+  - aws-codebuild-now-supports-amazon-linux-ea643a94
