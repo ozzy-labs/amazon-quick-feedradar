@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-08T21:04:50.693Z
-lastEtag: sha256:cf59d3b7d428c0ee94d70bbf8ad052e36aaf2cdbe45e6884bf61bc5e59039600
+lastFetchedAt: 2026-07-09T21:05:41.733Z
+lastEtag: sha256:8849e39358f11bb5f29248c1c5c773d5cda2d705fe4f28fa85f85c2512235485
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21328,3 +21328,10 @@ lastSeenIds:
   - aws-systems-manager-simplifies-azure-vm-62561d4e
   - amazon-sagemaker-unified-studio-now-supp-10803066
   - aws-codebuild-now-supports-amazon-linux-ea643a94
+  - aws-client-vpn-extends-availability-to-f-0a0cbc09
+  - amazon-sagemaker-unified-studio-adds-cus-96fade4d
+  - amazon-sagemaker-feature-store-now-suppo-ddafe00b
+  - aws-builder-center-now-offers-free-sandb-1209a3c0
+  - amazon-sagemaker-unified-studio-workflow-2b28f87f
+  - amazon-aurora-dsql-change-data-capture-c-3cb2a110
+  - aws-neuron-2-31-0-now-available-with-nki-461a9b7f
