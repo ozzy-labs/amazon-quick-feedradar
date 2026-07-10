@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-09T21:05:41.733Z
-lastEtag: sha256:8849e39358f11bb5f29248c1c5c773d5cda2d705fe4f28fa85f85c2512235485
+lastFetchedAt: 2026-07-10T21:05:15.393Z
+lastEtag: sha256:7de756890161cbf487d87d2c36685e9545e15f01313994494fc4d6c05ffad54b
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21335,3 +21335,19 @@ lastSeenIds:
   - amazon-sagemaker-unified-studio-workflow-2b28f87f
   - amazon-aurora-dsql-change-data-capture-c-3cb2a110
   - aws-neuron-2-31-0-now-available-with-nki-461a9b7f
+  - amazon-ec2-network-ebs-instances-now-ava-a9f9313f
+  - amazon-emr-on-eks-now-supports-apache-sp-a34d84a3
+  - amazon-location-service-enhances-places-0f2c736e
+  - amazon-ec2-g7-instances-are-now-availabl-c42c3a20
+  - aws-dms-schema-conversion-now-supports-o-3548b9a8
+  - amazon-ec2-i7ie-instances-now-available-a4aa12b7
+  - amazon-documentdb-with-mongodb-compatibi-d48c4001
+  - aws-dms-schema-conversion-now-supports-a-6013066f
+  - aws-organizations-now-applies-account-de-a1c48520
+  - oauth-support-for-the-aws-mcp-server-dde6c2b3
+  - amazon-ec2-i8g-instances-now-available-i-3148d3c8
+  - amazon-ec2-now-supports-using-an-ebs-vol-c1a76064
+  - amazon-timestream-for-influxdb-now-publi-4c4e5681
+  - amazon-sagemaker-hyperpod-now-supports-d-eae4cac3
+  - amazon-msk-replicator-now-supports-repli-518f9a3f
+  - aws-config-now-supports-191-additional-m-08c46863
