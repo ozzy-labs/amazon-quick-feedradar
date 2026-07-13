@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-13T05:13:53.846Z
-lastEtag: sha256:f449ddf8b81bf1a66f91603c79a25f83b5d8de51f6204ff858dba77bc4acdd14
+lastFetchedAt: 2026-07-13T21:04:56.970Z
+lastEtag: sha256:82ca3be8094b62c49858e73ba3b7539a573393b53542a5deb2df701434b4287e
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21352,3 +21352,8 @@ lastSeenIds:
   - amazon-msk-replicator-now-supports-repli-518f9a3f
   - aws-config-now-supports-191-additional-m-08c46863
   - amazon-sagemaker-hyperpod-now-supports-a-f10bd89b
+  - amazon-documentdb-with-mongodb-compatibi-4f9891ed
+  - gemma-4-e2b-it-for-is-now-available-in-a-ab8764db
+  - openai-privacy-filter-for-pii-detection-894dd9a9
+  - voxtral-mini-4b-realtime-for-real-time-s-4d69e65b
+  - qwen3-embedding-and-reranking-models-for-77efe085
