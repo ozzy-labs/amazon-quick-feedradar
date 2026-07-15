@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-14T21:05:21.416Z
-lastEtag: sha256:d9ea5a82c34c0e57bb0bb9834a57955b5efded2b065507ba219f79683c700e84
+lastFetchedAt: 2026-07-15T21:04:59.610Z
+lastEtag: sha256:c8cf5de5c6177f53e06bb377fe6b5023ee917230f8ba7e962aa606d8da2f0dfd
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21373,3 +21373,20 @@ lastSeenIds:
   - amazon-ec2-c8id-m8id-and-r8id-instances-d9be0aaf
   - amazon-ec2-m8gd-and-r8gd-instances-are-n-630171b2
   - amazon-ec2-m8gd-and-r8gd-instances-are-n-e568e1af
+  - amazon-cloudwatch-logs-announces-intelli-aae484c4
+  - amazon-mq-now-supports-configurable-stor-e138cf14
+  - amazon-rds-and-aurora-now-support-r8g-an-3223df3d
+  - amazon-rds-and-aurora-expand-r8gd-and-m8-90c265a7
+  - amazon-msk-express-brokers-adds-support-d3bf13ee
+  - amazon-rds-now-supports-up-to-four-stora-7989758b
+  - amazon-opensearch-service-now-supports-t-3f0182fc
+  - amazon-rds-for-db2-is-now-available-in-a-70ae1cd6
+  - aws-lambda-announces-self-managed-code-s-8c8fc52a
+  - aws-elastic-disaster-recovery-reduces-re-27626ed8
+  - aws-elastic-disaster-recovery-now-suppor-ecfe593f
+  - amazon-cloudwatch-announces-lookup-proce-bcffdd9c
+  - amazon-ec2-m8in-m8idn-m8ib-m8idb-instanc-a08c48e7
+  - aws-lambda-console-provides-a-one-click-8d67d317
+  - amazon-managed-service-for-apache-flink-8539def1
+  - amazon-redshift-serverless-now-preserves-26c310fa
+  - aws-partner-central-introduces-partner-l-e76e3b01
