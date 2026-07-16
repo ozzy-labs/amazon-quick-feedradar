@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-15T21:04:59.610Z
-lastEtag: sha256:c8cf5de5c6177f53e06bb377fe6b5023ee917230f8ba7e962aa606d8da2f0dfd
+lastFetchedAt: 2026-07-16T21:04:46.347Z
+lastEtag: sha256:acb1c32cfdf5d63cb0ee8ccb958cba32686922350886ed35e733c9f67de8657e
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21390,3 +21390,15 @@ lastSeenIds:
   - amazon-managed-service-for-apache-flink-8539def1
   - amazon-redshift-serverless-now-preserves-26c310fa
   - aws-partner-central-introduces-partner-l-e76e3b01
+  - amazon-ec2-now-surfaces-the-public-ssm-p-b907b33d
+  - amazon-s3-event-notifications-now-includ-9dc300c2
+  - postgresql-19-beta-2-is-now-available-in-ab58bd52
+  - aws-sustainability-service-now-includes-99b918bb
+  - amazon-ec2-high-memory-u7in-24tb-instanc-b6441546
+  - amazon-redshift-adds-rg-large-and-rg-12x-6313511d
+  - aws-control-tower-account-factory-for-te-a92761d4
+  - amazon-cloudwatch-logs-insights-adds-25-6ad2037a
+  - amazon-ec2-g7e-instances-now-available-i-a06f2d4e
+  - amazon-cognito-now-supports-importing-us-1b342cc8
+  - aws-glue-sap-odata-connector-and-zero-et-38159b44
+  - connect-customer-outbound-campaigns-now-33f19575
