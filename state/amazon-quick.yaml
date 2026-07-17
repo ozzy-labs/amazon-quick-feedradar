@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-16T21:04:46.347Z
-lastEtag: sha256:acb1c32cfdf5d63cb0ee8ccb958cba32686922350886ed35e733c9f67de8657e
+lastFetchedAt: 2026-07-17T21:05:17.201Z
+lastEtag: sha256:939dbc261c9effa5f3e104b0b0eaaf08df21c94ec71c1bea0509cc1b46377787
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21402,3 +21402,10 @@ lastSeenIds:
   - amazon-cognito-now-supports-importing-us-1b342cc8
   - aws-glue-sap-odata-connector-and-zero-et-38159b44
   - connect-customer-outbound-campaigns-now-33f19575
+  - amazon-opensearch-ui-now-supports-one-cl-e28577d5
+  - amazon-managed-grafana-achieves-fedramp-8b7c88a5
+  - track-cost-efficiency-trends-directly-in-6e3a78ed
+  - amazon-s3-removes-30-day-minimum-for-tra-f87cf063
+  - aws-backup-extends-logically-air-gapped-afa154cf
+  - aws-backup-extends-restore-testing-suppo-dce4c567
+  - amazon-aurora-dsql-is-now-in-scope-for-f-99d3ce43
