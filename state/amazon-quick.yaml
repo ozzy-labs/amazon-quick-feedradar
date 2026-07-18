@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-17T21:05:17.201Z
-lastEtag: sha256:939dbc261c9effa5f3e104b0b0eaaf08df21c94ec71c1bea0509cc1b46377787
+lastFetchedAt: 2026-07-18T21:04:56.097Z
+lastEtag: sha256:35ea4c4cdd39d05232a03671623c6ac8a86cf24fc03993b785daba7628bfb5cb
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21409,3 +21409,5 @@ lastSeenIds:
   - aws-backup-extends-logically-air-gapped-afa154cf
   - aws-backup-extends-restore-testing-suppo-dce4c567
   - amazon-aurora-dsql-is-now-in-scope-for-f-99d3ce43
+  - amazon-gamelift-streams-now-supports-iam-a8646bca
+  - amazon-sagemaker-hyperpod-now-supports-p-d7353809
