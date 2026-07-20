@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-18T21:04:56.097Z
-lastEtag: sha256:35ea4c4cdd39d05232a03671623c6ac8a86cf24fc03993b785daba7628bfb5cb
+lastFetchedAt: 2026-07-20T21:05:57.121Z
+lastEtag: sha256:7f1d74de1111c417638d304064ecb31ddce50dc8c41f52db1fb86127bc4cf6de
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21411,3 +21411,13 @@ lastSeenIds:
   - amazon-aurora-dsql-is-now-in-scope-for-f-99d3ce43
   - amazon-gamelift-streams-now-supports-iam-a8646bca
   - amazon-sagemaker-hyperpod-now-supports-p-d7353809
+  - amazon-ec2-r8i-and-r8i-flex-instances-ar-7d8cc067
+  - selectively-log-network-activity-events-4ff34e2f
+  - amazon-connect-delivers-more-natural-age-fee3e6f4
+  - amazon-ec2-i8ge-instances-are-now-availa-4ea98b42
+  - amazon-managed-service-for-apache-flink-932d676b
+  - amazon-workspaces-applications-now-suppo-f3072509
+  - announcing-the-general-availability-of-a-13188ad2
+  - amazon-cloudwatch-announces-coding-agent-565a08d7
+  - introducing-knfsd-file-cache-now-in-prev-47a58f4f
+  - amazon-cloudwatch-synthetics-now-support-bde7e821
