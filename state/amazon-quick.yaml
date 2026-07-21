@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-20T21:05:57.121Z
-lastEtag: sha256:7f1d74de1111c417638d304064ecb31ddce50dc8c41f52db1fb86127bc4cf6de
+lastFetchedAt: 2026-07-21T21:06:03.822Z
+lastEtag: sha256:d229bd2cb9e1ac6533f921aa4a89a4e1fa9e53d675876dbb3350afa808a91576
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21421,3 +21421,11 @@ lastSeenIds:
   - amazon-cloudwatch-announces-coding-agent-565a08d7
   - introducing-knfsd-file-cache-now-in-prev-47a58f4f
   - amazon-cloudwatch-synthetics-now-support-bde7e821
+  - amazon-ses-introduces-pricing-plans-7f8dd3e5
+  - amazon-ecs-now-provides-action-logs-for-8f033812
+  - amazon-managed-service-for-prometheus-su-b3d67abb
+  - amazon-rds-now-supports-the-latest-cu-an-bd621719
+  - amazon-rds-for-sql-server-now-supports-m-d58b9c10
+  - aws-data-exports-now-provides-standardiz-2f384c73
+  - amazon-connect-customer-launches-metrics-0345e120
+  - amazon-sagemaker-unified-studio-adds-cus-85289383
