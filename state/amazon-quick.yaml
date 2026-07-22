@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-21T21:06:03.822Z
-lastEtag: sha256:d229bd2cb9e1ac6533f921aa4a89a4e1fa9e53d675876dbb3350afa808a91576
+lastFetchedAt: 2026-07-22T22:20:23.841Z
+lastEtag: sha256:1246db9056284efad595d82605fa0ebc2c58c7aac661a8daccb482f1dfd84695
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21429,3 +21429,21 @@ lastSeenIds:
   - aws-data-exports-now-provides-standardiz-2f384c73
   - amazon-connect-customer-launches-metrics-0345e120
   - amazon-sagemaker-unified-studio-adds-cus-85289383
+  - amazon-ec2-c7a-instances-are-now-availab-eba88be0
+  - amazon-ec2-m8a-instances-now-available-i-77bfa8d1
+  - aws-network-load-balancer-now-supports-l-5f3a62e4
+  - aws-entity-resolution-now-supports-advan-ec2fc7d4
+  - aws-lambda-durable-functions-now-support-3145fac6
+  - amazon-corretto-july-2026-quarterly-upda-f3f50fd3
+  - aws-organizations-increases-rcp-quota-to-79984ea5
+  - amazon-eks-now-supports-efa-and-placemen-94fdc740
+  - aws-secrets-manager-now-publishes-secret-1dcf8555
+  - aws-direct-connect-announces-100g-expans-3f644d76
+  - aws-elastic-disaster-recovery-is-now-ava-221de491
+  - amazon-ec2-r6in-and-r6idn-instances-are-fc7031ba
+  - amazon-ec2-m6in-and-m6idn-instances-are-b4222dd7
+  - amazon-ec2-c6in-instances-are-now-availa-e43dc2ae
+  - amazon-sagemaker-unified-studio-now-supp-9c0c959e
+  - amazon-ecs-advanced-deployment-strategie-9e74e7ea
+  - aws-marketplace-now-supports-self-servic-626bf676
+  - aws-partner-central-agents-expand-fundin-710b103b
