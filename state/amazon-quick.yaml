@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-22T22:20:23.841Z
-lastEtag: sha256:1246db9056284efad595d82605fa0ebc2c58c7aac661a8daccb482f1dfd84695
+lastFetchedAt: 2026-07-23T21:05:34.741Z
+lastEtag: sha256:bb395c5ea889cd948ea419fc3ea39f232a6e50ad7f7ae0cf5fa351bc2a8d3b45
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21447,3 +21447,13 @@ lastSeenIds:
   - amazon-ecs-advanced-deployment-strategie-9e74e7ea
   - aws-marketplace-now-supports-self-servic-626bf676
   - aws-partner-central-agents-expand-fundin-710b103b
+  - aws-now-supports-automatic-credit-memo-a-7c77c74b
+  - amazon-rds-for-mysql-supports-mysql-9-7-d722a704
+  - amazon-bedrock-agentcore-now-delivers-un-02bb46ff
+  - amazon-evs-is-now-available-in-additiona-66d268aa
+  - claude-sonnet-5-is-now-available-on-amaz-bd22aa2f
+  - announcing-region-expansion-of-g7e-insta-66262f1f
+  - announcing-region-expansion-of-g6-instan-8731e801
+  - amazon-ec2-m8id-instances-are-now-availa-e1636385
+  - amazon-sagemaker-ai-inference-now-suppor-ba4aeef5
+  - aws-healthomics-now-available-in-two-add-4bfc98a9
