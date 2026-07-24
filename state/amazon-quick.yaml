@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-23T21:05:34.741Z
-lastEtag: sha256:bb395c5ea889cd948ea419fc3ea39f232a6e50ad7f7ae0cf5fa351bc2a8d3b45
+lastFetchedAt: 2026-07-24T21:05:56.026Z
+lastEtag: sha256:6a299da4796b4d7cdba7cde1993f589c1b3c1ee159e8207faefcc964f1fc6a20
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21457,3 +21457,14 @@ lastSeenIds:
   - amazon-ec2-m8id-instances-are-now-availa-e1636385
   - amazon-sagemaker-ai-inference-now-suppor-ba4aeef5
   - aws-healthomics-now-available-in-two-add-4bfc98a9
+  - aws-lambda-now-publishes-logs-for-lambda-ade49ea6
+  - amazon-ses-simplifies-sending-emails-ove-c9d68f35
+  - claude-opus-5-is-now-available-on-aws-4ff14327
+  - opus-4-8-sonnet-5-and-user-activity-moni-dbfe771d
+  - aws-announces-aws-bench-an-open-source-b-303eab49
+  - amazon-ecs-service-connect-now-supports-928b0035
+  - aws-lambda-durable-execution-sdk-for-net-7792832c
+  - amazon-cloudwatch-logs-now-supports-appl-92496af5
+  - amazon-ec2-i8ge-instances-are-now-genera-b674f6a9
+  - aws-wickr-announces-data-retention-servi-1089aa77
+  - amazon-ec2-high-memory-u7i-instances-now-58fd0249
