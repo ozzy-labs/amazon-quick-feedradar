@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-24T21:05:56.026Z
-lastEtag: sha256:6a299da4796b4d7cdba7cde1993f589c1b3c1ee159e8207faefcc964f1fc6a20
+lastFetchedAt: 2026-07-25T21:06:01.722Z
+lastEtag: sha256:9cd85d64f820434f6138d00dba3d1f8c9eabe8c7949201bea6ed129a8e2689af
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21468,3 +21468,7 @@ lastSeenIds:
   - amazon-ec2-i8ge-instances-are-now-genera-b674f6a9
   - aws-wickr-announces-data-retention-servi-1089aa77
   - amazon-ec2-high-memory-u7i-instances-now-58fd0249
+  - amazon-connect-now-supports-audio-optimi-1386814c
+  - amazon-mwaa-now-supports-apache-airflow-d292b281
+  - amazon-ec2-dedicated-hosts-now-support-h-5d8aaf3e
+  - amazon-kinesis-data-streams-now-supports-564223e0
