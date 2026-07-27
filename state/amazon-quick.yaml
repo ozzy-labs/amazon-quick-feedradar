@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-26T21:05:02.751Z
-lastEtag: sha256:7a5da88348feb75ea0fdc96b62d8d30d57fe32c8647413e8f39fef42ab5e6cef
+lastFetchedAt: 2026-07-27T21:06:29.135Z
+lastEtag: sha256:db6dce99d75d3ff68dab320b93a7ffb16743a11b0778875224ee64d2065a168b
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21472,3 +21472,7 @@ lastSeenIds:
   - amazon-mwaa-now-supports-apache-airflow-d292b281
   - amazon-ec2-dedicated-hosts-now-support-h-5d8aaf3e
   - amazon-kinesis-data-streams-now-supports-564223e0
+  - amazon-gamelift-streams-now-supports-cus-3d4eab5c
+  - aws-security-hub-mcp-app-brings-exposure-e4187c37
+  - aws-elemental-mediatailor-adds-configura-378ab8be
+  - aws-clean-rooms-supports-larger-worker-t-e75ebfcf
