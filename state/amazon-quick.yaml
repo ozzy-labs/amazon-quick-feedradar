@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-27T21:06:29.135Z
-lastEtag: sha256:db6dce99d75d3ff68dab320b93a7ffb16743a11b0778875224ee64d2065a168b
+lastFetchedAt: 2026-07-28T21:06:37.222Z
+lastEtag: sha256:e0c2d8c28ecf81fa6b999d3ec852ad9e9221828e928df271017b8db2aa27a6ab
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21476,3 +21476,15 @@ lastSeenIds:
   - aws-security-hub-mcp-app-brings-exposure-e4187c37
   - aws-elemental-mediatailor-adds-configura-378ab8be
   - aws-clean-rooms-supports-larger-worker-t-e75ebfcf
+  - amazon-eks-provisioned-control-plane-now-394be653
+  - second-generation-aws-outposts-racks-now-ce771137
+  - aws-console-home-now-supports-the-cost-a-41b6dce3
+  - aws-datasync-enhanced-mode-now-supports-fe8ba7f1
+  - aws-datasync-enhanced-mode-adds-hdfs-azu-76d0739f
+  - amazon-s3-tables-now-support-the-variant-694f502f
+  - amazon-neptune-now-supports-tag-based-ac-3ba3f932
+  - aws-glue-data-quality-now-supports-anoma-012772ef
+  - aws-glue-data-quality-now-supports-distr-3d8c205b
+  - amazon-eks-now-supports-aws-privatelink-da3137b3
+  - amazon-rds-for-sql-server-now-supports-r-b2f16020
+  - amazon-redshift-serverless-now-offers-al-4a97c901
