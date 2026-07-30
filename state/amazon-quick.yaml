@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-29T21:05:10.384Z
-lastEtag: sha256:266e65eb738a07ce10a4a8b6f402e7324ba22ff78795c804be6e373e0ba9f058
+lastFetchedAt: 2026-07-30T21:06:10.152Z
+lastEtag: sha256:2f128eb57c05b0c7007c9d49912cb9291516ac95317e6f5e8f48cb45fa696b22
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21492,3 +21492,17 @@ lastSeenIds:
   - aws-announces-aws-interconnect-multiclou-c49d2ef2
   - amazon-efs-now-supports-cross-account-re-eb780b68
   - aws-iam-identity-center-extends-multi-re-5535c49b
+  - amazon-bedrock-announces-up-to-80-lower-9cb92122
+  - aws-announces-general-availability-of-po-1d7b9b72
+  - amazon-msk-express-brokers-now-delivers-abf49311
+  - amazon-msk-express-brokers-now-deliver-d-093ea39e
+  - grok-4-3-from-xai-is-now-available-on-am-1ef94971
+  - gemma-4-models-are-now-available-on-amaz-518a56b3
+  - aws-managed-microsoft-ad-now-supports-st-37e6008f
+  - amazon-opensearch-service-now-supports-o-f44bbe56
+  - amazon-ec2-auto-scaling-now-supports-ins-4fa5e83f
+  - aws-glue-announces-vpc-support-filter-pu-0a22f925
+  - aws-waf-adds-pre-parse-text-transformati-f21f44c8
+  - amazon-connect-customer-now-automaticall-9dbafe15
+  - aws-healthlake-identifies-and-links-dupl-1892ce79
+  - aws-parallel-computing-service-now-suppo-0ae2acfd
