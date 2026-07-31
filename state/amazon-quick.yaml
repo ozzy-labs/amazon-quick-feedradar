@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-30T21:06:10.152Z
-lastEtag: sha256:2f128eb57c05b0c7007c9d49912cb9291516ac95317e6f5e8f48cb45fa696b22
+lastFetchedAt: 2026-07-31T21:05:01.000Z
+lastEtag: sha256:6c5038d663b531d44bf0adc1f6d466f27493f637d3cc049d04c8177105daab79
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21506,3 +21506,12 @@ lastSeenIds:
   - amazon-connect-customer-now-automaticall-9dbafe15
   - aws-healthlake-identifies-and-links-dupl-1892ce79
   - aws-parallel-computing-service-now-suppo-0ae2acfd
+  - amazon-aurora-dsql-adds-multi-region-clu-81688875
+  - amazon-cloudwatch-announces-managed-prom-01725fcc
+  - aws-codedeploy-now-available-in-five-add-69595019
+  - amazon-ec2-c7i-flex-instances-now-availa-7710bfae
+  - amazon-ec2-c7i-instances-now-available-i-5bf4ead4
+  - amazon-sagemaker-unified-studio-brings-r-45eceb2a
+  - aws-direct-connect-now-supports-bgp-rout-a5552d1b
+  - amazon-redshift-rg-large-and-12xlarge-in-7a75dadb
+  - iam-policy-simulator-moves-to-the-iam-co-70cfb4b1
