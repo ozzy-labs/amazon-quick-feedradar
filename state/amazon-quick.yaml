@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-07-31T21:05:01.000Z
-lastEtag: sha256:6c5038d663b531d44bf0adc1f6d466f27493f637d3cc049d04c8177105daab79
+lastFetchedAt: 2026-08-01T21:04:58.320Z
+lastEtag: sha256:fb7611d10d7a440842e747501dc3a3f64f9a30dc136787e541782e6380436fe3
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21515,3 +21515,6 @@ lastSeenIds:
   - aws-direct-connect-now-supports-bgp-rout-a5552d1b
   - amazon-redshift-rg-large-and-12xlarge-in-7a75dadb
   - iam-policy-simulator-moves-to-the-iam-co-70cfb4b1
+  - amazon-rds-for-oracle-now-offers-reserve-30b3b615
+  - aws-lambda-now-supports-java-8-11-and-17-f9da86ac
+  - amazon-location-service-adds-search-near-daa79641
