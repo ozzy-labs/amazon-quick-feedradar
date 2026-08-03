@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-02T21:06:09.206Z
-lastEtag: sha256:8938ff38c212004e34409aa637be68c4c683b39c8e24fa7354f7109cb23490c0
+lastFetchedAt: 2026-08-03T21:07:46.856Z
+lastEtag: sha256:6951f42edcbe165d17e984748cce830a29f1d489976a8bde834e56de7b23404c
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21518,3 +21518,13 @@ lastSeenIds:
   - amazon-rds-for-oracle-now-offers-reserve-30b3b615
   - aws-lambda-now-supports-java-8-11-and-17-f9da86ac
   - amazon-location-service-adds-search-near-daa79641
+  - aws-healthomics-now-supports-task-level-ca91e928
+  - aws-resilience-hub-now-provides-recommen-1e1eb627
+  - amazon-ec2-i7i-instances-now-available-i-20f71a71
+  - amazon-sagemaker-ai-serverless-model-cus-141b8566
+  - aws-transform-for-full-stack-windows-mod-1dddccac
+  - aws-waf-now-supports-miggo-security-mana-86c95f26
+  - amazon-ecr-now-supports-image-layers-up-6adb0b6f
+  - aws-config-now-supports-15-new-resource-8e5bda69
+  - amazon-sagemaker-unified-studio-now-supp-88289627
+  - amazon-web-services-now-introduces-conte-6cc57501
