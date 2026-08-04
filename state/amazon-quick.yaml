@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-03T21:07:46.856Z
-lastEtag: sha256:6951f42edcbe165d17e984748cce830a29f1d489976a8bde834e56de7b23404c
+lastFetchedAt: 2026-08-04T21:05:25.514Z
+lastEtag: sha256:5b843eed399eab621a9f1d145c155429fd723609901b425f2be117b57d62a981
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21528,3 +21528,16 @@ lastSeenIds:
   - aws-config-now-supports-15-new-resource-8e5bda69
   - amazon-sagemaker-unified-studio-now-supp-88289627
   - amazon-web-services-now-introduces-conte-6cc57501
+  - amazon-bedrock-launches-web-search-for-o-377bd56c
+  - run-interactive-workloads-on-amazon-emr-b18e329b
+  - aws-security-hub-extended-adds-supply-ch-7f48f542
+  - amazon-ec2-c8g-instances-now-available-i-1659456f
+  - aws-application-and-network-load-balance-9dcdf2b4
+  - amazon-ec2-i8g-instances-now-available-i-2b481e7b
+  - amazon-rds-for-sql-server-now-support-by-a2d6099d
+  - amazon-rds-for-sql-server-supports-devel-68c09864
+  - aws-transform-continuous-modernization-i-1715e840
+  - openai-gpt-5-6-sol-terra-and-luna-now-su-e8390949
+  - amazon-gamelift-streams-now-supports-sha-faffe7f5
+  - aws-organizations-now-provides-maximum-a-38923cb9
+  - aws-lambda-provisioned-mode-for-amazon-s-8ffd00bc
