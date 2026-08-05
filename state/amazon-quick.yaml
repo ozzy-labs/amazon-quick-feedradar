@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-04T21:05:25.514Z
-lastEtag: sha256:5b843eed399eab621a9f1d145c155429fd723609901b425f2be117b57d62a981
+lastFetchedAt: 2026-08-05T21:07:20.571Z
+lastEtag: sha256:dae745b367e8697921da4adebe55dbbab226032777d6ab0a2db90cc58729339a
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21541,3 +21541,13 @@ lastSeenIds:
   - amazon-gamelift-streams-now-supports-sha-faffe7f5
   - aws-organizations-now-provides-maximum-a-38923cb9
   - aws-lambda-provisioned-mode-for-amazon-s-8ffd00bc
+  - amazon-keyspaces-for-apache-cassandra-is-83863dde
+  - aws-marketplace-adds-ai-insights-so-buye-0aade33e
+  - amazon-dynamodb-now-supports-real-time-v-d17a8d2c
+  - aws-iam-identity-center-makes-managment-14490cf8
+  - amazon-aurora-serverless-now-scales-fast-041967f7
+  - preview-announcement-re-introducing-forw-c7ed031a
+  - amazon-connect-customer-now-lets-you-exp-1f647725
+  - amazon-s3-vectors-is-now-available-in-th-79aaf9c9
+  - amazon-connect-customer-now-supports-cap-33423b78
+  - rds-sql-server-now-supports-publishing-s-93029f95
