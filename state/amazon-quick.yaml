@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-01T21:04:58.320Z
-lastEtag: sha256:fb7611d10d7a440842e747501dc3a3f64f9a30dc136787e541782e6380436fe3
+lastFetchedAt: 2026-08-06T21:07:25.408Z
+lastEtag: sha256:8ceaa62f1d57968cffb9cae89c592e8fcdb059797d588346f0921d66f92ab986
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21518,3 +21518,49 @@ lastSeenIds:
   - amazon-rds-for-oracle-now-offers-reserve-30b3b615
   - aws-lambda-now-supports-java-8-11-and-17-f9da86ac
   - amazon-location-service-adds-search-near-daa79641
+  - aws-healthomics-now-supports-task-level-ca91e928
+  - aws-resilience-hub-now-provides-recommen-1e1eb627
+  - amazon-ec2-i7i-instances-now-available-i-20f71a71
+  - amazon-sagemaker-ai-serverless-model-cus-141b8566
+  - aws-transform-for-full-stack-windows-mod-1dddccac
+  - aws-waf-now-supports-miggo-security-mana-86c95f26
+  - amazon-ecr-now-supports-image-layers-up-6adb0b6f
+  - aws-config-now-supports-15-new-resource-8e5bda69
+  - amazon-sagemaker-unified-studio-now-supp-88289627
+  - amazon-web-services-now-introduces-conte-6cc57501
+  - amazon-bedrock-launches-web-search-for-o-377bd56c
+  - run-interactive-workloads-on-amazon-emr-b18e329b
+  - aws-security-hub-extended-adds-supply-ch-7f48f542
+  - amazon-ec2-c8g-instances-now-available-i-1659456f
+  - aws-application-and-network-load-balance-9dcdf2b4
+  - amazon-ec2-i8g-instances-now-available-i-2b481e7b
+  - amazon-rds-for-sql-server-now-support-by-a2d6099d
+  - amazon-rds-for-sql-server-supports-devel-68c09864
+  - aws-transform-continuous-modernization-i-1715e840
+  - openai-gpt-5-6-sol-terra-and-luna-now-su-e8390949
+  - amazon-gamelift-streams-now-supports-sha-faffe7f5
+  - aws-organizations-now-provides-maximum-a-38923cb9
+  - aws-lambda-provisioned-mode-for-amazon-s-8ffd00bc
+  - amazon-keyspaces-for-apache-cassandra-is-83863dde
+  - aws-marketplace-adds-ai-insights-so-buye-0aade33e
+  - amazon-dynamodb-now-supports-real-time-v-d17a8d2c
+  - aws-iam-identity-center-makes-managment-14490cf8
+  - amazon-aurora-serverless-now-scales-fast-041967f7
+  - preview-announcement-re-introducing-forw-c7ed031a
+  - amazon-connect-customer-now-lets-you-exp-1f647725
+  - amazon-s3-vectors-is-now-available-in-th-79aaf9c9
+  - amazon-connect-customer-now-supports-cap-33423b78
+  - rds-sql-server-now-supports-publishing-s-93029f95
+  - amazon-quick-supports-multi-dataset-anal-db90c501
+  - aws-glue-schema-registry-is-now-availabl-f4cfb17b
+  - aws-transform-for-migrations-automates-p-7d7e2c19
+  - aws-security-agent-now-supports-email-ba-31e7aa1b
+  - amazon-rds-now-provides-visibility-into-64c59772
+  - amazon-workspaces-now-publishes-enhanced-4ca848e2
+  - amazon-workspaces-applications-now-publi-5c815880
+  - announcing-temporal-policies-and-rate-li-21b844af
+  - aws-lambda-announces-scalable-network-ba-1e5d7691
+  - aws-glue-data-quality-makes-etl-anomaly-4b37a18a
+  - aws-glue-data-catalog-now-supports-metad-be0538f3
+  - aws-iam-identity-center-makes-management-14490cf8
+  - amazon-sagemaker-studio-notebooks-now-su-ed41a2c2
