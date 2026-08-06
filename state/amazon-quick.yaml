@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-05T21:07:20.571Z
-lastEtag: sha256:dae745b367e8697921da4adebe55dbbab226032777d6ab0a2db90cc58729339a
+lastFetchedAt: 2026-08-06T21:07:25.408Z
+lastEtag: sha256:8ceaa62f1d57968cffb9cae89c592e8fcdb059797d588346f0921d66f92ab986
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21551,3 +21551,16 @@ lastSeenIds:
   - amazon-s3-vectors-is-now-available-in-th-79aaf9c9
   - amazon-connect-customer-now-supports-cap-33423b78
   - rds-sql-server-now-supports-publishing-s-93029f95
+  - amazon-quick-supports-multi-dataset-anal-db90c501
+  - aws-glue-schema-registry-is-now-availabl-f4cfb17b
+  - aws-transform-for-migrations-automates-p-7d7e2c19
+  - aws-security-agent-now-supports-email-ba-31e7aa1b
+  - amazon-rds-now-provides-visibility-into-64c59772
+  - amazon-workspaces-now-publishes-enhanced-4ca848e2
+  - amazon-workspaces-applications-now-publi-5c815880
+  - announcing-temporal-policies-and-rate-li-21b844af
+  - aws-lambda-announces-scalable-network-ba-1e5d7691
+  - aws-glue-data-quality-makes-etl-anomaly-4b37a18a
+  - aws-glue-data-catalog-now-supports-metad-be0538f3
+  - aws-iam-identity-center-makes-management-14490cf8
+  - amazon-sagemaker-studio-notebooks-now-su-ed41a2c2
