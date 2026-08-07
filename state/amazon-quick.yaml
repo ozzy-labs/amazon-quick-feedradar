@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-06T21:07:25.408Z
-lastEtag: sha256:8ceaa62f1d57968cffb9cae89c592e8fcdb059797d588346f0921d66f92ab986
+lastFetchedAt: 2026-08-07T21:07:09.295Z
+lastEtag: sha256:4fd2eaad87336cf3e73cb644ed91d1731421a4403b8ab4c540534ab6fed5bf59
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21564,3 +21564,23 @@ lastSeenIds:
   - aws-glue-data-catalog-now-supports-metad-be0538f3
   - aws-iam-identity-center-makes-management-14490cf8
   - amazon-sagemaker-studio-notebooks-now-su-ed41a2c2
+  - amazon-timestream-for-influxdb-now-suppo-155e081e
+  - amazon-cognito-now-available-as-a-skill-f9ca52b5
+  - aws-iam-identity-center-supports-one-cli-edac03c5
+  - amazon-bedrock-agentcore-adds-memory-pol-6069a1bd
+  - amazon-gamelift-servers-now-supports-21-08859197
+  - amazon-opensearch-service-announces-addi-e6b9be2a
+  - aws-parallel-computing-service-is-now-in-c6c0f8cb
+  - amazon-ecs-now-supports-fractional-gpu-s-cbe063f1
+  - aws-lambda-console-extends-console-to-id-4271b04c
+  - aws-waf-now-supports-a-salt-security-man-a89f1c79
+  - amazon-ec2-g7-instances-are-now-availabl-4e056860
+  - agentcore-runtime-instances-are-now-gene-db50f2de
+  - amazon-elasticache-now-supports-graviton-fe600651
+  - amazon-opensearch-ui-now-supports-networ-0a2326bb
+  - aws-marketplace-now-lets-sellers-configu-98072bfc
+  - amazon-msk-now-delivers-kafka-authorizer-d1e9cc9f
+  - aws-backup-for-amazon-s3-now-supports-di-e046406a
+  - aws-backup-extends-logically-air-gapped-2c21762a
+  - amazon-ses-now-helps-identify-automated-b00042f7
+  - amazon-ec2-m8g-instances-now-available-i-2e8dcc83
