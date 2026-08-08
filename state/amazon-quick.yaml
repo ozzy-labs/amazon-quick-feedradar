@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-07T21:07:09.295Z
-lastEtag: sha256:4fd2eaad87336cf3e73cb644ed91d1731421a4403b8ab4c540534ab6fed5bf59
+lastFetchedAt: 2026-08-08T21:05:54.265Z
+lastEtag: sha256:68d140e5f81651014761446a60946d9aa10213f1fa66b1ee2ce5ab89f80efee3
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21584,3 +21584,6 @@ lastSeenIds:
   - aws-backup-extends-logically-air-gapped-2c21762a
   - amazon-ses-now-helps-identify-automated-b00042f7
   - amazon-ec2-m8g-instances-now-available-i-2e8dcc83
+  - amazon-ec2-r8i-and-r8i-flex-instances-ar-d60042e5
+  - amazon-vpc-ipam-now-supports-bgp-route-p-ff1e3193
+  - amazon-connect-customer-adds-one-click-d-41976a82
