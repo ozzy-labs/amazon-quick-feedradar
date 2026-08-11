@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-10T21:08:37.861Z
-lastEtag: sha256:da1e5954fb224df1345acc4430277004e6580bc4fcf8744d497842d66b31aed8
+lastFetchedAt: 2026-08-11T21:07:38.589Z
+lastEtag: sha256:ebc751ecdfb634965ed8e24e213067c3268604731e65ae969a91e6f12f12d481
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21590,3 +21590,19 @@ lastSeenIds:
   - amazon-ec2-introduces-application-status-2a745b22
   - amazon-opensearch-serverless-now-support-c3e83f1b
   - aws-elastic-disaster-recovery-now-preser-8c50ada5
+  - amazon-bedrock-expands-iam-principal-cos-503b1e66
+  - locateanything-3b-qwen-agentworld-35b-a3-3f77c0d6
+  - nvidia-nemotron-3-5-lightning-model-is-n-8d82063d
+  - aws-glue-adds-one-click-access-to-sagema-6665699a
+  - aws-secrets-manager-adds-managed-externa-029053c0
+  - amazon-connect-customer-launches-perform-c7661ef8
+  - aws-clean-rooms-supports-exporting-priva-3c554cd1
+  - amazon-rds-for-mariadb-now-supports-mari-c27566d1
+  - flux-2-small-decoder-and-gemma-4-12b-it-9f728f80
+  - langcache-embed-v3-small-mellum2-12b-a2-85acdbcc
+  - glm-5-2-fp8-nvidia-nemotron-nano-12b-v2-3250e3d3
+  - amazon-ec2-high-memory-u7i-instances-now-bd9a0a45
+  - amazon-gamelift-streams-now-offers-servi-5b864777
+  - aws-identity-and-access-management-strea-5ad31cb5
+  - amazon-cloudwatch-alarms-now-supports-wa-3db3cc09
+  - amazon-connect-customer-now-provides-sch-ee0e893c
