@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-11T21:07:38.589Z
-lastEtag: sha256:ebc751ecdfb634965ed8e24e213067c3268604731e65ae969a91e6f12f12d481
+lastFetchedAt: 2026-08-12T21:07:21.534Z
+lastEtag: sha256:5beb281af3215780e11cbe34c28162627a9d62804a80c530b8bd7278b1f0017b
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21606,3 +21606,8 @@ lastSeenIds:
   - aws-identity-and-access-management-strea-5ad31cb5
   - amazon-cloudwatch-alarms-now-supports-wa-3db3cc09
   - amazon-connect-customer-now-provides-sch-ee0e893c
+  - amazon-quick-agentic-ai-capabilities-are-1da2323a
+  - amazon-eks-now-supports-advanced-kuberne-f8295b46
+  - amazon-connect-customer-supports-manual-754faaf3
+  - amazon-ec2-r8a-instances-are-now-availab-8df1e876
+  - aws-marketplace-now-supports-category-ba-d60a0a4a
