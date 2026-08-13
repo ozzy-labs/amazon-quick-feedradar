@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-12T21:07:21.534Z
-lastEtag: sha256:5beb281af3215780e11cbe34c28162627a9d62804a80c530b8bd7278b1f0017b
+lastFetchedAt: 2026-08-13T21:13:43.429Z
+lastEtag: sha256:032f164575be38c963147a9b77de231ccd96d1638e106a698b54ed0805e690ab
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21611,3 +21611,12 @@ lastSeenIds:
   - amazon-connect-customer-supports-manual-754faaf3
   - amazon-ec2-r8a-instances-are-now-availab-8df1e876
   - aws-marketplace-now-supports-category-ba-d60a0a4a
+  - amazon-quick-microsoft-365-extensions-ar-0b27375c
+  - amazon-quick-adds-deny-by-default-for-cu-01e87218
+  - amazon-quick-now-supports-data-loss-prev-a86e316e
+  - claude-opus-5-is-now-available-in-aws-go-62a35d9a
+  - spot-placement-score-now-includes-local-1d3691e5
+  - daybreak-red-and-daybreak-blue-from-open-712b8ef1
+  - amazon-s3-adds-additional-policy-details-1b3b8bf6
+  - aws-global-view-now-offers-an-interactiv-aaffe61c
+  - aws-iam-now-provides-role-manager-to-set-7ff8c9f2

@@ -1,0 +1,42 @@
+id: amazon-quick-now-supports-data-loss-prev-a86e316e
+sourceId: amazon-quick
+title: Amazon Quick now supports data loss prevention with Microsoft Purview
+url: https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/
+publishedAt: 2026-08-12T17:09:00.000Z
+fetchedAt: 2026-08-13T21:13:43.429Z
+summary: |-
+  <p>Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channels. With this integration, IT administrators and security teams can apply their existing Purview sensitivity labels to automatically control how files are handled in Quick capabilities such as chat, spaces, and knowledge bases.</p>
+  <p>Administrators can configure enforcement actions (block, warn, or allow) for each sensitivity label, giving organizations granular control over sensitive file sharing across Quick. For example, a financial services company can block files labeled &quot;Highly Confidential&quot; from being uploaded to shared spaces while allowing &quot;Internal&quot; files with a warning notification. With this integration, customers can extend their existing Microsoft Purview governance policies into Quick without additional tools.</p>
+  <p>This feature is available in <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html">all AWS Regions where Amazon Quick agentic capabilities are supported</a>. For more information, see the <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Region table</a>. To learn more, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/data-loss-prevention.html" target="_blank" rel="noopener noreferrer">Data loss prevention</a> in the <i>Amazon Quick User Guide</i>.&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-2yz6qm9lxeudndd7lzsijx
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-2yz6qm9lxeudndd7lzsijx
+  dateCreated: 2026-08-12T17:29:02+0000
+  dateUpdated: 2026-08-12T22:25:37+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p>Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channels. With this integration, IT administrators and security teams can apply their existing Purview sensitivity labels to automatically control how files are handled in Quick capabilities such as chat, spaces, and knowledge bases.</p>
+      <p>Administrators can configure enforcement actions (block, warn, or allow) for each sensitivity label, giving organizations granular control over sensitive file sharing across Quick. For example, a financial services company can block files labeled &quot;Highly Confidential&quot; from being uploaded to shared spaces while allowing &quot;Internal&quot; files with a warning notification. With this integration, customers can extend their existing Microsoft Purview governance policies into Quick without additional tools.</p>
+      <p>This feature is available in <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html">all AWS Regions where Amazon Quick agentic capabilities are supported</a>. For more information, see the <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Region table</a>. To learn more, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/data-loss-prevention.html" target="_blank" rel="noopener noreferrer">Data loss prevention</a> in the <i>Amazon Quick User Guide</i>.&nbsp;</p>
+    headlineUrl: /whats-new/2026/08/amazon-quick-dlp-purview/
+    postDateTime: 2026-08-12T17:09:00Z
+    headline: Amazon Quick now supports data loss prevention with Microsoft Purview
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-08-13T21:13:50.475Z
+  feedback: []
