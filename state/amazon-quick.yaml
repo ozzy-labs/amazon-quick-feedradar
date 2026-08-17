@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-16T21:07:09.010Z
-lastEtag: sha256:bd119f100181cc250543abc908aa805e1e52eab6139e4fe8c6e754aae7ba8b43
+lastFetchedAt: 2026-08-17T21:06:53.225Z
+lastEtag: sha256:325919a75bbfe2e520efbfc4f4f7b8aff51ff04ebd414a0e385fb4a07c0b8a17
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21630,3 +21630,13 @@ lastSeenIds:
   - aws-certificate-manager-supports-switchi-dd03da17
   - aws-clean-rooms-supports-minimum-aggrega-21b101aa
   - amazon-nova-multimodal-embeddings-is-now-bdb50b93
+  - amazon-quick-microsoft-365-extensions-ar-0e669ae4
+  - amazon-quick-now-supports-per-user-resou-15ca9ecb
+  - amazon-quick-now-supports-data-loss-prev-168f8c07
+  - amazon-quick-now-supports-approval-polic-12bd3a28
+  - amazon-bedrock-expands-api-support-and-i-3d94d6b8
+  - amazon-ec2-auto-scaling-now-supports-bat-7b155476
+  - amazon-ec2-r8i-and-r8i-flex-instances-ar-76d66797
+  - amazon-opensearch-service-now-supports-a-a0f0cff6
+  - aws-cloudshell-now-includes-a-built-in-v-977c414b
+  - aws-deadline-cloud-now-supports-ebs-pers-98d3a9a9
