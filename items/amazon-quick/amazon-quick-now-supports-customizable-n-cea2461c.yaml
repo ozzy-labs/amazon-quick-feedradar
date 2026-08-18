@@ -1,0 +1,42 @@
+id: amazon-quick-now-supports-customizable-n-cea2461c
+sourceId: amazon-quick
+title: Amazon Quick now supports customizable no data messages for visuals
+url: https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quick-custom-no-data-message/
+publishedAt: 2026-08-14T15:00:00.000Z
+fetchedAt: 2026-08-18T21:06:56.751Z
+summary: |-
+  <p>Amazon Quick announces support for no data message customization, enabling authors to replace the default &quot;No data to display&quot; message with a tailored message when a visual returns no data. Authors can configure a custom title, subtitle, and hyperlink that give readers immediate context about why no data is shown and what steps to take next.</p>
+  <p>All text fields support parameters, so the message can dynamically reflect the reader's current filter selections. The hyperlink supports http://, https://, and mailto: URL schemas, and both the title and subtitle can be toggled on or off independently.</p>
+  <p>This feature is available now in all <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html" target="_blank" rel="noopener noreferrer">AWS Regions where Amazon Quick is offered</a>. To learn more, visit <a href="https://docs.aws.amazon.com/quick/latest/userguide/analysis-settings.html" target="_blank" rel="noopener noreferrer">Analysis Settings</a> in the Amazon Quick User Guide.</p>
+raw:
+  id: whats-new-v2#launch-gcnbawhqvbehyn5plmy4yq
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-gcnbawhqvbehyn5plmy4yq
+  dateCreated: 2026-08-17T18:26:51+0000
+  dateUpdated: 2026-08-17T21:31:21+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick announces support for no data message customization, enabling authors to replace the default &quot;No data to display&quot; message with a tailored message when a visual returns no data. Authors can configure a custom title, subtitle, and hyperlink that give readers immediate context about why no data is shown and what steps to take next.</p>
+      <p>All text fields support parameters, so the message can dynamically reflect the reader's current filter selections. The hyperlink supports http://, https://, and mailto: URL schemas, and both the title and subtitle can be toggled on or off independently.</p>
+      <p>This feature is available now in all <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html" target="_blank" rel="noopener noreferrer">AWS Regions where Amazon Quick is offered</a>. To learn more, visit <a href="https://docs.aws.amazon.com/quick/latest/userguide/analysis-settings.html" target="_blank" rel="noopener noreferrer">Analysis Settings</a> in the Amazon Quick User Guide.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2025/08/amazon-quick-custom-no-data-message/
+    postDateTime: 2026-08-14T15:00:00Z
+    headline: Amazon Quick now supports customizable no data messages for visuals
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-08-18T21:07:02.513Z
+  feedback: []

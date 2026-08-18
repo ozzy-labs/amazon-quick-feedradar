@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-17T21:06:53.225Z
-lastEtag: sha256:325919a75bbfe2e520efbfc4f4f7b8aff51ff04ebd414a0e385fb4a07c0b8a17
+lastFetchedAt: 2026-08-18T21:06:56.751Z
+lastEtag: sha256:2153d17d9ae7c874c6591cfc73b2cb463031af9ed3464ff8985fbdbc6fe52e5e
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21640,3 +21640,14 @@ lastSeenIds:
   - amazon-opensearch-service-now-supports-a-a0f0cff6
   - aws-cloudshell-now-includes-a-built-in-v-977c414b
   - aws-deadline-cloud-now-supports-ebs-pers-98d3a9a9
+  - amazon-quick-now-supports-customizable-n-cea2461c
+  - agentcore-payments-is-now-generally-avai-08e1cc9f
+  - amazon-sagemaker-unified-studio-now-supp-ced757ff
+  - amazon-mwaa-serverless-now-supports-pyth-41996152
+  - iam-policy-autopilot-now-supports-terraf-192e15b9
+  - postgresql-19-beta-3-is-now-available-in-d307a41e
+  - amazon-ecr-now-supports-25-replication-r-03142893
+  - amazon-msk-now-supports-configuring-cust-951d1dbd
+  - amazon-connect-customer-dashboards-now-s-0ca44dd5
+  - aws-network-firewall-now-supports-statef-51bc042f
+  - aws-console-to-code-adds-26-services-and-7d7ba4fb
