@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-18T21:06:56.751Z
-lastEtag: sha256:2153d17d9ae7c874c6591cfc73b2cb463031af9ed3464ff8985fbdbc6fe52e5e
+lastFetchedAt: 2026-08-19T21:06:59.454Z
+lastEtag: sha256:79cd96f5e6b9bfce5c55048b32361f43fb89c8ae9211ea8c307d53d653721fbf
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21651,3 +21651,19 @@ lastSeenIds:
   - amazon-connect-customer-dashboards-now-s-0ca44dd5
   - aws-network-firewall-now-supports-statef-51bc042f
   - aws-console-to-code-adds-26-services-and-7d7ba4fb
+  - amazon-quick-adds-deny-by-default-for-cu-6de1862d
+  - amazon-sagemaker-notebooks-now-support-t-fc552036
+  - aws-cost-anomaly-detection-supports-thir-17db8374
+  - amazon-opensearch-ingestion-is-now-avail-595a4ba2
+  - aws-announces-a-new-availability-zone-in-897c4f89
+  - amazon-workspaces-applications-now-offer-04a0fd98
+  - aws-storage-gateway-now-supports-fips-co-24b93afb
+  - amazon-ec2-r8a-instances-are-now-availab-e09bda45
+  - amazon-bedrock-now-supports-spacexai-gro-9b1dd4ad
+  - amazon-bedrock-now-supports-openai-model-124059ec
+  - aws-iam-identity-federation-to-external-6cdb0332
+  - amazon-corretto-august-2026-critical-sec-f4df8af1
+  - amazon-ec2-r8i-instances-are-now-availab-81347972
+  - amazon-ec2-high-memory-u7i-instances-now-b62ad353
+  - amazon-workspaces-now-supports-nested-vi-a1b07d4a
+  - amazon-s3-metadata-and-annotations-are-n-8f2c7235
