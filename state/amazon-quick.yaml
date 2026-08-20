@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-19T21:06:59.454Z
-lastEtag: sha256:79cd96f5e6b9bfce5c55048b32361f43fb89c8ae9211ea8c307d53d653721fbf
+lastFetchedAt: 2026-08-20T21:06:36.225Z
+lastEtag: sha256:6da41fc3f1fff82c6845e21c8b777aba8a7bd9328b55e0617b2faed6354e2bb7
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21667,3 +21667,21 @@ lastSeenIds:
   - amazon-ec2-high-memory-u7i-instances-now-b62ad353
   - amazon-workspaces-now-supports-nested-vi-a1b07d4a
   - amazon-s3-metadata-and-annotations-are-n-8f2c7235
+  - aws-partner-central-agents-mcp-server-no-0bf0d594
+  - amazon-eks-now-supports-certificate-auth-d0224ce7
+  - amazon-cloudfront-now-supports-origin-ac-baa32325
+  - generative-ai-inference-recommendation-f-0994f18d
+  - aws-direct-connect-introduces-inbound-pr-c8a455da
+  - aws-marketplace-now-supports-category-ba-db2aa344
+  - launching-external-web-access-for-web-se-8f6de26b
+  - web-search-in-amazon-bedrock-agentcore-a-7931fa0b
+  - amazon-ec2-enables-ami-creation-with-loc-d669ac78
+  - amazon-cloudwatch-log-centralization-now-da99d1c6
+  - amazon-dynamodb-streams-now-supports-att-9d95dfe5
+  - amazon-cloudwatch-pipelines-adds-geoip-r-de0f924f
+  - aws-elemental-mediaconnect-router-now-su-ecd9ee86
+  - aws-marketplace-launches-support-for-ama-e09cba9e
+  - aws-lambda-microvms-is-now-available-in-9e1b94e4
+  - aws-iam-now-supports-20-managed-policies-a827b87d
+  - amazon-location-service-now-supports-poi-28138eed
+  - amazon-msk-now-supports-in-place-migrati-5c2f2dae
