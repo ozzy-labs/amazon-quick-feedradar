@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-20T21:06:36.225Z
-lastEtag: sha256:6da41fc3f1fff82c6845e21c8b777aba8a7bd9328b55e0617b2faed6354e2bb7
+lastFetchedAt: 2026-08-21T21:07:22.571Z
+lastEtag: sha256:b794ff7163724bf1bf5e5a31f47cbeb869f1250b26b526f15a5cf2c092e4e353
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21685,3 +21685,14 @@ lastSeenIds:
   - aws-iam-now-supports-20-managed-policies-a827b87d
   - amazon-location-service-now-supports-poi-28138eed
   - amazon-msk-now-supports-in-place-migrati-5c2f2dae
+  - amazon-connect-customer-now-lets-manager-f4c09b27
+  - aws-deadline-cloud-now-tracks-automatic-a734d799
+  - aws-glue-6-0-delivers-30-price-reduction-71afc45c
+  - amazon-ses-now-supports-open-and-click-t-dfcb7292
+  - aws-announces-the-general-availability-o-09b5bcea
+  - amazon-timestream-for-influxdb-now-suppo-ff6e516e
+  - amazon-ec2-c8gd-m8gd-and-r8gd-instances-3c6c9a0e
+  - amazon-ec2-p6-b300-instances-are-now-ava-f09ed61a
+  - arc-region-switch-adds-amazon-rds-switch-3b14be0a
+  - amazon-redshift-introduces-long-term-sys-20ffb859
+  - aws-security-agent-now-part-of-aws-conti-c61d36d8
