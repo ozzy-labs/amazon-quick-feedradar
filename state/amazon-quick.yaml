@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-23T21:05:32.423Z
-lastEtag: sha256:b232c70f12b8879fda5c5ca9350b4e14b4b8a9ca7b74cf2663755f4643075780
+lastFetchedAt: 2026-08-24T21:05:44.926Z
+lastEtag: sha256:152a39777d4761f7a6e02f0bdfa436ef57c538af16673766508db12b24713f54
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21699,3 +21699,12 @@ lastSeenIds:
   - amazon-bedrock-announces-reduced-pricing-1c292232
   - amazon-eks-capability-for-argo-cd-now-su-d6054f86
   - amazon-aurora-dsql-now-supports-amazon-c-7d5b2890
+  - sagemaker-mlflow-now-supports-customer-m-5d8645cd
+  - amazon-aurora-now-supports-postgresql-18-1f243a64
+  - amazon-sagemaker-hyperpod-enhances-suppo-adaed8cf
+  - amazon-connect-customer-now-supports-inf-8c22ff1a
+  - aws-parallelcluster-3-16-adds-an-on-node-43262fb4
+  - openai-gpt-5-6-terra-and-luna-now-availa-576295e1
+  - amazon-rds-for-mysql-now-supports-new-mi-146dc02c
+  - amazon-redshift-now-supports-concurrency-3621e29b
+  - amazon-bedrock-agentcore-memory-now-supp-c62f86ef
