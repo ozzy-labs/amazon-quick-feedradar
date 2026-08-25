@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-24T21:05:44.926Z
-lastEtag: sha256:152a39777d4761f7a6e02f0bdfa436ef57c538af16673766508db12b24713f54
+lastFetchedAt: 2026-08-25T21:06:51.635Z
+lastEtag: sha256:21f60532624a8e04d616df84474d85586d96bdef954e99aa4b89797d3cd8f134
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21708,3 +21708,15 @@ lastSeenIds:
   - amazon-rds-for-mysql-now-supports-new-mi-146dc02c
   - amazon-redshift-now-supports-concurrency-3621e29b
   - amazon-bedrock-agentcore-memory-now-supp-c62f86ef
+  - aws-batch-now-supports-amazon-ecs-manage-55422246
+  - amazon-connect-customer-now-lets-you-upd-c7d5214c
+  - amazon-rds-for-postgresql-supports-minor-0746857f
+  - iam-roles-anywhere-now-provides-a-java-p-d92f5819
+  - aws-lambda-introduces-managed-runtimes-i-780ce92d
+  - amazon-rds-for-oracle-now-supports-july-a484a78b
+  - aws-secrets-manager-adds-managed-externa-121b72e3
+  - aws-lambda-functions-now-support-full-ia-89b315c5
+  - amazon-ecs-now-automatically-detects-and-16fb43c6
+  - amazon-eks-now-supports-multiple-externa-0865cbaa
+  - msk-replicator-now-supports-oauth-2-0-sa-bce1922a
+  - aws-neuron-2-32-introduces-expanded-nki-8cee3b62
