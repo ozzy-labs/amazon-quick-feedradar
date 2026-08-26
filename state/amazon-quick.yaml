@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-25T21:06:51.635Z
-lastEtag: sha256:21f60532624a8e04d616df84474d85586d96bdef954e99aa4b89797d3cd8f134
+lastFetchedAt: 2026-08-26T21:05:34.632Z
+lastEtag: sha256:63281e9c194983fd39d0d3d2cd75a9f0793674c73e823b9d147e05370fd0022d
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21720,3 +21720,16 @@ lastSeenIds:
   - amazon-eks-now-supports-multiple-externa-0865cbaa
   - msk-replicator-now-supports-oauth-2-0-sa-bce1922a
   - aws-neuron-2-32-introduces-expanded-nki-8cee3b62
+  - amazon-connect-customer-now-supports-unp-0cde8206
+  - mountpoint-for-amazon-s3-adds-memory-usa-b6ec6d33
+  - amazon-connect-customer-now-supports-poi-2c6ab70f
+  - aws-backup-adds-cross-region-backup-copy-3197696f
+  - amazon-ec2-r8id-instances-are-now-availa-089f7b76
+  - amazon-ec2-c8id-and-m8id-instances-are-n-2f82567d
+  - aws-iot-core-now-supports-native-influxd-7022960e
+  - capacity-reservation-resource-groups-now-d6a1635d
+  - aws-lambda-microvms-now-supports-aws-pri-f7ef6e56
+  - amazon-ec2-m8i-and-m8i-flex-instances-ar-de28912c
+  - amazon-rds-now-supports-the-latest-cu-fo-a74e943f
+  - amazon-gamelift-servers-enhanced-ddos-pr-f8bc71b0
+  - aws-glue-now-supports-catalog-federation-8cee688b
