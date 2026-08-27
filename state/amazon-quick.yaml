@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-26T21:05:34.632Z
-lastEtag: sha256:63281e9c194983fd39d0d3d2cd75a9f0793674c73e823b9d147e05370fd0022d
+lastFetchedAt: 2026-08-27T21:06:45.036Z
+lastEtag: sha256:9c5361ce0ece0f414c794a1403f05d1195b1c6a6fe6f438d6992206b5f0fee6a
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21733,3 +21733,11 @@ lastSeenIds:
   - amazon-rds-now-supports-the-latest-cu-fo-a74e943f
   - amazon-gamelift-servers-enhanced-ddos-pr-f8bc71b0
   - aws-glue-now-supports-catalog-federation-8cee688b
+  - amazon-redshift-integrates-with-agent-to-371d47a3
+  - amazon-ec2-x8i-instances-are-now-availab-f6b5e351
+  - aws-elastic-disaster-recovery-introduces-2a2ca642
+  - amazon-connect-customer-expands-conversa-38645e32
+  - amazon-connect-customer-now-automaticall-05c5cfc5
+  - amazon-fsx-for-netapp-ontap-now-supports-5fa92136
+  - amazon-cognito-adds-admin-api-operation-bef2f421
+  - aws-glue-5-1-is-now-available-in-aws-eur-0ad26660
