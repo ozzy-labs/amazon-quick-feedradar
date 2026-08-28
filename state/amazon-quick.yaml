@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-27T21:06:45.036Z
-lastEtag: sha256:9c5361ce0ece0f414c794a1403f05d1195b1c6a6fe6f438d6992206b5f0fee6a
+lastFetchedAt: 2026-08-28T21:07:58.373Z
+lastEtag: sha256:8aa70f0f726d13102951e02c2c396999697e800cf5fe9c915fcc42bb98d913fb
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21741,3 +21741,15 @@ lastSeenIds:
   - amazon-fsx-for-netapp-ontap-now-supports-5fa92136
   - amazon-cognito-adds-admin-api-operation-bef2f421
   - aws-glue-5-1-is-now-available-in-aws-eur-0ad26660
+  - aws-transform-now-in-scope-for-fedramp-c-70692aca
+  - amazon-ec2-p6-b300-instances-are-now-ava-7e8cb584
+  - amazon-aurora-mysql-3-13-compatible-with-11596505
+  - amazon-cloudwatch-agent-adds-support-for-2f69eb0a
+  - spacexai-grok-4-6-now-available-on-amazo-4792957f
+  - cosmos3-edge-cosmos3-nano-and-cosmos3-su-4be3083b
+  - muse-glimmer-30b-and-qwen-3-8-27b-models-217e9f3a
+  - amazon-redshift-streaming-can-now-ingest-c3057b3b
+  - amazon-bedrock-agentcore-expands-to-two-355a3a0d
+  - aws-backup-adds-cross-region-and-cross-a-65f4bb03
+  - amazon-evs-now-supports-i7i-metal-48xl-a-4c613e3c
+  - amazon-aurora-dsql-now-supports-foreign-4073ce1e
