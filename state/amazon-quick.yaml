@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-28T21:07:58.373Z
-lastEtag: sha256:8aa70f0f726d13102951e02c2c396999697e800cf5fe9c915fcc42bb98d913fb
+lastFetchedAt: 2026-08-29T21:04:37.796Z
+lastEtag: sha256:a101936ce114d0adb1757e7ecea6e7b5c3a537ab50e8ad6138bdeb3dcef7f9c8
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21753,3 +21753,6 @@ lastSeenIds:
   - aws-backup-adds-cross-region-and-cross-a-65f4bb03
   - amazon-evs-now-supports-i7i-metal-48xl-a-4c613e3c
   - amazon-aurora-dsql-now-supports-foreign-4073ce1e
+  - amazon-ec2-c8gn-instances-are-now-availa-52c3386b
+  - amazon-bedrock-agentcore-memory-now-supp-331aa4dc
+  - amazon-bedrock-agentcore-memory-now-supp-4b3a7b59
