@@ -1,0 +1,43 @@
+id: aws-agent-registry-for-centralized-agent-6bdc598d
+sourceId: amazon-quick
+title: AWS Agent Registry for centralized agent discovery and governance is now
+  generally available
+url: https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available
+publishedAt: 2026-08-31T15:21:00.000Z
+fetchedAt: 2026-08-31T21:06:54.633Z
+summary: |-
+  <p>AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within your organization. Teams get complete visibility into their AI landscape, so they can discover existing capabilities instead of rebuilding from scratch. Access it through the AWS Agent Registry console, AWS CLI, or AWS SDK. You can also discover and use registry resources from Amazon Bedrock AgentCore, Amazon Quick, and Kiro IDE, so teams can find the right agents and tools without switching context. The console pairs semantic and keyword search with a dedicated browse experience for exploring registries and records. The registry is also exposed as an MCP server that builders can query directly from their IDEs.</p>
+  <p>In addition to the capabilities launched in preview (manual and URL-based record creation, approval workflows, semantic and keyword search, and AWS CloudTrail audit trails), Registry now adds new enterprise features. Teams can provision and manage registries as code using AWS CloudFormation, Terraform, and the AWS CDK, and apply tags to registries and records for organization, cost allocation, and access control. Using AWS Resource Access Manager (AWS RAM), customers can share registries across accounts and create organization-wide registries. Registry can also auto-detect agents on AgentCore runtime and AgentCore gateways across the entire organization into a central registry, keeping records current without manual authoring. A new integration with Amazon Quick lets customers discover custom connectors from the registry directly on the Quick Connectors page.</p>
+  <p>AWS Agent Registry is available in five AWS Regions: US West (Oregon), Asia Pacific (Tokyo), Asia Pacific (Sydney), Europe (Ireland), and US East (N. Virginia). Learn more about the registry through <a href="https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/">the blog</a>, and deep dive using the <a href="https://docs.aws.amazon.com/agent-registry/">documentation</a>.</p>
+raw:
+  id: whats-new-v2#launch-cdahkphkfllrdfquhavb6n
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-cdahkphkfllrdfquhavb6n
+  dateCreated: 2026-08-29T15:26:55+0000
+  dateUpdated: 2026-08-31T19:27:49+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p>AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within your organization. Teams get complete visibility into their AI landscape, so they can discover existing capabilities instead of rebuilding from scratch. Access it through the AWS Agent Registry console, AWS CLI, or AWS SDK. You can also discover and use registry resources from Amazon Bedrock AgentCore, Amazon Quick, and Kiro IDE, so teams can find the right agents and tools without switching context. The console pairs semantic and keyword search with a dedicated browse experience for exploring registries and records. The registry is also exposed as an MCP server that builders can query directly from their IDEs.</p>
+      <p>In addition to the capabilities launched in preview (manual and URL-based record creation, approval workflows, semantic and keyword search, and AWS CloudTrail audit trails), Registry now adds new enterprise features. Teams can provision and manage registries as code using AWS CloudFormation, Terraform, and the AWS CDK, and apply tags to registries and records for organization, cost allocation, and access control. Using AWS Resource Access Manager (AWS RAM), customers can share registries across accounts and create organization-wide registries. Registry can also auto-detect agents on AgentCore runtime and AgentCore gateways across the entire organization into a central registry, keeping records current without manual authoring. A new integration with Amazon Quick lets customers discover custom connectors from the registry directly on the Quick Connectors page.</p>
+      <p>AWS Agent Registry is available in five AWS Regions: US West (Oregon), Asia Pacific (Tokyo), Asia Pacific (Sydney), Europe (Ireland), and US East (N. Virginia). Learn more about the registry through <a href="https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/">the blog</a>, and deep dive using the <a href="https://docs.aws.amazon.com/agent-registry/">documentation</a>.</p>
+    headlineUrl: /about-aws/whats-new/2026/08/aws-agent-registry-generally-available
+    postDateTime: 2026-08-31T15:21:00Z
+    headline: AWS Agent Registry for centralized agent discovery and governance is
+      now generally available
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-08-31T21:07:06.680Z
+  feedback: []

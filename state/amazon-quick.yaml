@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-30T21:04:39.690Z
-lastEtag: sha256:68edfbdb811fd981c9d2108fcb577a44db9b547a3521833eccb31d177423b12d
+lastFetchedAt: 2026-08-31T21:06:54.633Z
+lastEtag: sha256:c1dd9bb2c0dc8ba992e0c74faaf1b88574211bcd2435ff501ff9a20081575400
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21756,3 +21756,16 @@ lastSeenIds:
   - amazon-ec2-c8gn-instances-are-now-availa-52c3386b
   - amazon-bedrock-agentcore-memory-now-supp-331aa4dc
   - amazon-bedrock-agentcore-memory-now-supp-4b3a7b59
+  - aws-agent-registry-for-centralized-agent-6bdc598d
+  - amazon-timestream-for-influxdb-is-now-av-191f41f9
+  - amazon-redshift-now-supports-apache-iceb-42ad7b19
+  - amazon-ec2-r9g-and-r9gd-memory-optimized-a3c2e4d0
+  - amazon-cognito-now-supports-machine-to-m-27b7f528
+  - aws-lambda-recursive-loop-detection-is-n-9463985e
+  - amazon-aurora-serverless-is-now-availabl-319c3a65
+  - amazon-opensearch-service-adds-new-clust-7ebe1984
+  - aws-announces-aws-interconnect-multiclou-5e21db35
+  - aws-workload-credentials-provider-is-now-210316f2
+  - automated-security-response-on-aws-adds-26426c42
+  - aws-elastic-beanstalk-now-supports-activ-6bff7b73
+  - amazon-emr-on-eks-now-supports-job-run-c-69d2ae08
