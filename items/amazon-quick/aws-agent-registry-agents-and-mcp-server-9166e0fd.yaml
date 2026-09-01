@@ -1,0 +1,46 @@
+id: aws-agent-registry-agents-and-mcp-server-9166e0fd
+sourceId: amazon-quick
+title: AWS Agent Registry agents and MCP servers now available in Amazon Quick
+url: https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/
+publishedAt: 2026-08-31T21:05:00.000Z
+fetchedAt: 2026-09-01T21:07:34.093Z
+summary: |-
+  <p>Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent Registry directly within Amazon Quick. AWS Agent Registry supports MCP servers and agents, which users can now search and browse directly within Amazon Quick. After finding the agent or MCP server they need, users can enable it with a few clicks. Connection details are already populated from the registry. Once enabled, these resources can be shared with teams for use across chat, agents, apps, flows, and deep research.&nbsp;</p>
+  <p>This integration bridges the gap between technical teams who build agents with Amazon Bedrock AgentCore and business users who work in Amazon Quick. Organizations no longer need to manually configure connections to agents and tools that already exist in their AWS Agent Registry. Business users get access through their familiar Amazon Quick workspace without duplicate effort.&nbsp;</p>
+  <p>Amazon Quick integration with AWS Agent Registry is available in all AWS Regions where both Amazon Quick and Amazon Bedrock AgentCore are available. This includes US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (Ireland).&nbsp;</p>
+  <p>To get started, open the Amazon Quick admin console and go to Manage account, Permissions, AWS Agent Registry to connect your registry. To learn more, see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/aws-agent-registry-integration.html" target="_blank" rel="noopener noreferrer">Amazon Quick Integrations documentation</a> and the <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/registry.html" target="_blank" rel="noopener noreferrer">AWS Agent Registry documentation</a>.</p>
+raw:
+  id: whats-new-v2#633dabb6-90c2-4294-8938-73636f625087
+  locale: en_US
+  directoryId: whats-new-v2
+  name: 633dabb6-90c2-4294-8938-73636f625087
+  dateCreated: 2026-08-31T21:30:28+0000
+  dateUpdated: 2026-08-31T23:01:12+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent Registry directly within Amazon Quick. AWS Agent Registry supports MCP servers and agents, which users can now search and browse directly within Amazon Quick. After finding the agent or MCP server they need, users can enable it with a few clicks. Connection details are already populated from the registry. Once enabled, these resources can be shared with teams for use across chat, agents, apps, flows, and deep research.&nbsp;</p>
+      <p>This integration bridges the gap between technical teams who build agents with Amazon Bedrock AgentCore and business users who work in Amazon Quick. Organizations no longer need to manually configure connections to agents and tools that already exist in their AWS Agent Registry. Business users get access through their familiar Amazon Quick workspace without duplicate effort.&nbsp;</p>
+      <p>Amazon Quick integration with AWS Agent Registry is available in all AWS Regions where both Amazon Quick and Amazon Bedrock AgentCore are available. This includes US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (Ireland).&nbsp;</p>
+      <p>To get started, open the Amazon Quick admin console and go to Manage account, Permissions, AWS Agent Registry to connect your registry. To learn more, see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/aws-agent-registry-integration.html" target="_blank" rel="noopener noreferrer">Amazon Quick Integrations documentation</a> and the <a href="https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/registry.html" target="_blank" rel="noopener noreferrer">AWS Agent Registry documentation</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/
+    postDateTime: 2026-08-31T21:05:00Z
+    headline: AWS Agent Registry agents and MCP servers now available in Amazon Quick
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: reviewed
+injectionFlags: []
+triage:
+  decision: digest
+  confidence: 0.85
+  reason: Amazon Quick が AWS Agent Registry と新規連携し、レジストリの agent/MCP server を Quick
+    から検索・有効化できるようになった integration ローンチ。
+  group: integrations
+  agent: gemini-cli
+  triagedAt: 2026-09-01T21:10:15.038Z
+  feedback: []
