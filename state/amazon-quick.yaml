@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-08-31T21:06:54.633Z
-lastEtag: sha256:c1dd9bb2c0dc8ba992e0c74faaf1b88574211bcd2435ff501ff9a20081575400
+lastFetchedAt: 2026-09-01T21:07:34.093Z
+lastEtag: sha256:58ced204a83790810962f69ea8bd1402e0b167ac2239c76738aca4ae510e17fa
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21769,3 +21769,19 @@ lastSeenIds:
   - automated-security-response-on-aws-adds-26426c42
   - aws-elastic-beanstalk-now-supports-activ-6bff7b73
   - amazon-emr-on-eks-now-supports-job-run-c-69d2ae08
+  - aws-agent-registry-agents-and-mcp-server-9166e0fd
+  - amazon-cloudwatch-database-insights-now-11359f66
+  - amazon-connect-customer-dashboards-now-s-436027bd
+  - amazon-mwaa-supports-apache-airflow-vers-f0f7ae51
+  - claude-fable-5-1-anthropic-s-new-frontie-cf95c7d7
+  - amazon-cloudwatch-now-supports-warm-up-p-02af0535
+  - amazon-rds-custom-now-supports-the-lates-d7329e0c
+  - amazon-documentdb-now-supports-direct-ma-2650baf9
+  - partner-revenue-measurement-expands-serv-2b127e20
+  - aws-elemental-mediatailor-introduces-in-a4821802
+  - amazon-redshift-now-supports-aws-iam-ide-e7c3cdd4
+  - amazon-connect-global-resiliency-now-sup-826b8676
+  - amazon-msk-connect-now-supports-restarti-117be210
+  - amazon-workspaces-applications-is-now-av-9a21260b
+  - amazon-kinesis-data-streams-announces-da-65db6b65
+  - amazon-kinesis-data-streams-announces-st-d6ac6252
