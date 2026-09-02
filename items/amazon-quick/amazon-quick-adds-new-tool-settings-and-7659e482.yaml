@@ -1,0 +1,78 @@
+id: amazon-quick-adds-new-tool-settings-and-7659e482
+sourceId: amazon-quick
+title: Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync
+  support for connectors
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/
+publishedAt: 2026-09-02T16:54:00.000Z
+fetchedAt: 2026-09-02T21:06:05.772Z
+summary: >-
+  <p>Amazon Quick connectors let users leverage tools and services such as
+  Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into
+  their workflows across chat, agents, apps, flows, and deep research. Today,
+  Amazon Quick introduces new tool settings and MCP sync support that give
+  admins and connector owners more control over how connectors are deployed and
+  kept up to date.</p>
+
+  <p>Connector owners and admins can now selectively enable or disable
+  individual tools within a connector to ensure only approved tools are
+  available to end users. Additionally, new tool permission settings let
+  connector owners decide which tools require consent before proceeding or give
+  end users the flexibility to decide for themselves. Lastly, MCP sync keeps
+  connectors current as external MCP servers add new tools, update descriptions,
+  and evolve their capabilities, ensuring users always have the latest
+  information to get their work done.</p>
+
+  <p>These features are available in all AWS Regions where Amazon Quick is
+  available. To learn more, visit the <a
+  href="https://docs.aws.amazon.com/quicksight/latest/user/welcome.html"
+  target="_blank">Amazon Quick User Guide</a>.</p>
+raw:
+  id: whats-new-v2#launch-3bmattfabbd6wb8mqheykg
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-3bmattfabbd6wb8mqheykg
+  dateCreated: 2026-09-02T17:08:22+0000
+  dateUpdated: 2026-09-02T17:08:22+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: >
+      <p>Amazon Quick connectors let users leverage tools and services such as
+      Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into
+      their workflows across chat, agents, apps, flows, and deep research.
+      Today, Amazon Quick introduces new tool settings and MCP sync support that
+      give admins and connector owners more control over how connectors are
+      deployed and kept up to date.</p>
+
+      <p>Connector owners and admins can now selectively enable or disable
+      individual tools within a connector to ensure only approved tools are
+      available to end users. Additionally, new tool permission settings let
+      connector owners decide which tools require consent before proceeding or
+      give end users the flexibility to decide for themselves. Lastly, MCP sync
+      keeps connectors current as external MCP servers add new tools, update
+      descriptions, and evolve their capabilities, ensuring users always have
+      the latest information to get their work done.</p>
+
+      <p>These features are available in all AWS Regions where Amazon Quick is
+      available. To learn more, visit the <a
+      href="https://docs.aws.amazon.com/quicksight/latest/user/welcome.html"
+      target="_blank">Amazon Quick User Guide</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/
+    postDateTime: 2026-09-02T16:54:00Z
+    headline: Amazon Quick adds new tool settings and Model Context Protocol (MCP)
+      sync support for connectors
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-09-02T21:06:10.788Z
+  feedback: []
