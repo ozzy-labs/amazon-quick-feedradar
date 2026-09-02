@@ -1,0 +1,44 @@
+id: amazon-quick-now-lets-you-build-custom-a-05f47422
+sourceId: amazon-quick
+title: Amazon Quick now lets you build custom apps with natural language  -
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/
+publishedAt: 2026-09-01T21:37:00.000Z
+fetchedAt: 2026-09-02T21:06:05.772Z
+summary: |-
+  <p>Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, customer dashboards, and training portals in minutes instead of months. Whether you're a product manager, finance lead, HR partner, or ops analyst, you can now turn ideas into fully functional apps without writing any code. Tell Quick what you need, and it builds a live, connected application with real-time data from your existing business systems.</p>
+  <p>Quick connects directly to the tools and data your business already uses, including Salesforce, Jira, Asana, ServiceNow, Microsoft 365, Google Workspace, databases, and data warehouses. Your apps stay current automatically as underlying data changes, and every connection respects your organization's existing identity, authorization, and access control policies. Once built, you can publish and share apps instantly with specific users or your entire organization. Need to make a change like adding AI, updating the visual style, or connecting to another system? Just describe what you want and Quick handles it.</p>
+  <p>During preview, customers used Quick to replace spreadsheets and disconnected tools with purpose-built applications. New York Life built an e-learning portal for their Institutional Life team that consolidates onboarding, training, and compliance courses into a single experience. The Amazon Quick team tracks pipeline, customer requests, and adoption metrics in a weekly leadership review app that replaced manual data pulls from four different systems.</p>
+  <p>Building apps in Quick is available to Plus, Professional, and Enterprise customers starting September 1, 2026. To learn more, visit the <a href="https://docs.aws.amazon.com/quick/latest/userguide/using-amazon-quick-apps.html">Apps in Quick getting-started guide</a>.</p>
+raw:
+  id: whats-new-v2#launch-2qhmyvbyzucfy8bex4awel
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-2qhmyvbyzucfy8bex4awel
+  dateCreated: 2026-09-01T21:48:59+0000
+  dateUpdated: 2026-09-01T21:48:59+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, customer dashboards, and training portals in minutes instead of months. Whether you're a product manager, finance lead, HR partner, or ops analyst, you can now turn ideas into fully functional apps without writing any code. Tell Quick what you need, and it builds a live, connected application with real-time data from your existing business systems.</p>
+      <p>Quick connects directly to the tools and data your business already uses, including Salesforce, Jira, Asana, ServiceNow, Microsoft 365, Google Workspace, databases, and data warehouses. Your apps stay current automatically as underlying data changes, and every connection respects your organization's existing identity, authorization, and access control policies. Once built, you can publish and share apps instantly with specific users or your entire organization. Need to make a change like adding AI, updating the visual style, or connecting to another system? Just describe what you want and Quick handles it.</p>
+      <p>During preview, customers used Quick to replace spreadsheets and disconnected tools with purpose-built applications. New York Life built an e-learning portal for their Institutional Life team that consolidates onboarding, training, and compliance courses into a single experience. The Amazon Quick team tracks pipeline, customer requests, and adoption metrics in a weekly leadership review app that replaced manual data pulls from four different systems.</p>
+      <p>Building apps in Quick is available to Plus, Professional, and Enterprise customers starting September 1, 2026. To learn more, visit the <a href="https://docs.aws.amazon.com/quick/latest/userguide/using-amazon-quick-apps.html">Apps in Quick getting-started guide</a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/
+    postDateTime: 2026-09-01T21:37:00Z
+    headline: "Amazon Quick now lets you build custom apps with natural language  - "
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-09-02T21:06:10.788Z
+  feedback: []

@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-01T21:07:34.093Z
-lastEtag: sha256:58ced204a83790810962f69ea8bd1402e0b167ac2239c76738aca4ae510e17fa
+lastFetchedAt: 2026-09-02T21:06:05.772Z
+lastEtag: sha256:39c6af8d9a75534c35890bc69ff04d6ad26d8f5ce97212eb1ed3ff7dbbe91fae
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21785,3 +21785,19 @@ lastSeenIds:
   - amazon-workspaces-applications-is-now-av-9a21260b
   - amazon-kinesis-data-streams-announces-da-65db6b65
   - amazon-kinesis-data-streams-announces-st-d6ac6252
+  - amazon-quick-adds-new-tool-settings-and-7659e482
+  - amazon-quick-now-lets-you-build-custom-a-05f47422
+  - web-search-on-amazon-bedrock-is-now-avai-d8d0c471
+  - amazon-connect-customer-expands-automate-a02e7c3a
+  - amazon-connect-customer-announces-genera-ea39f197
+  - second-generation-aws-outposts-racks-now-250b52d7
+  - aws-config-now-supports-60-new-resource-9512f830
+  - aws-user-experience-customization-uxc-is-7fbe6747
+  - aws-lambda-now-supports-snapstart-for-co-3319292e
+  - amazon-rds-for-sql-server-supports-addit-60840337
+  - aws-deadline-cloud-now-supports-sharing-9728e35f
+  - amazon-kinesis-data-streams-now-supports-1577ff9c
+  - aws-marketplace-reduces-listing-fee-for-337262a6
+  - aws-backup-now-supports-protecting-more-650b54bd
+  - aws-marketplace-now-supports-auto-renewa-d1dbe8dc
+  - claude-fable-5-1-anthropic-s-new-frontie-5ee34bda
