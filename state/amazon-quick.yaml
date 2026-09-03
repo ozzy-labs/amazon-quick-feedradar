@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-02T21:06:05.772Z
-lastEtag: sha256:39c6af8d9a75534c35890bc69ff04d6ad26d8f5ce97212eb1ed3ff7dbbe91fae
+lastFetchedAt: 2026-09-03T21:05:55.098Z
+lastEtag: sha256:0ae33739ee6bffb27e438b93d4e65bdd21e76b2716881726eafdde69617ee61c
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21801,3 +21801,16 @@ lastSeenIds:
   - aws-backup-now-supports-protecting-more-650b54bd
   - aws-marketplace-now-supports-auto-renewa-d1dbe8dc
   - claude-fable-5-1-anthropic-s-new-frontie-5ee34bda
+  - introducing-amazon-quick-max-5x-the-usag-00cf03fb
+  - amazon-cloudfront-announces-api-support-41e8e63f
+  - aws-gateway-load-balancer-now-supports-t-70d619b6
+  - amazon-workspaces-applications-adds-supp-5858da1d
+  - amazon-redshift-rg-large-instances-now-s-30bf40d3
+  - amazon-aurora-mysql-now-supports-multi-s-94dd6543
+  - amazon-sagemaker-unified-studio-workflow-07982f06
+  - amazon-mwaa-adds-built-in-monitoring-wit-ef94da57
+  - amazon-linux-2027-is-now-available-in-pu-d1ef4665
+  - amazon-ses-now-supports-s-mime-email-sig-85f03e81
+  - amazon-s3-now-supports-privatelink-for-f-309e4e21
+  - aws-transform-announces-general-availabi-56561c89
+  - amazon-sagemaker-unified-studio-ci-cd-ad-af43d90c
