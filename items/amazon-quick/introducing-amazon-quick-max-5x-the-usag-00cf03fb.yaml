@@ -1,0 +1,44 @@
+id: introducing-amazon-quick-max-5x-the-usag-00cf03fb
+sourceId: amazon-quick
+title: "Introducing Amazon Quick Max: 5x the usage for power users who want the
+  most out of Quick"
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/
+publishedAt: 2026-09-03T17:17:00.000Z
+fetchedAt: 2026-09-03T21:05:55.098Z
+summary: |-
+  <p><a href="https://aws.com/quick" target="_blank"><u>Amazon Quick</u></a> now offers Quick Max, a new plan for power users who want to get the absolute most out of Quick. With 5x the usage and 5x the storage of Plus, Max gives you the room to do more: more agents, more workflows, more of whatever makes Quick yours.&nbsp;</p>
+  <p>With Max, you can run large, concurrent workloads without interruption—all month long. It delivers more value per dollar the more you use it and is available with both monthly and annual billing options. &nbsp;</p>
+  <p>New to Amazon Quick? You can <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank"><u>sign up for free in minutes</u></a>. Already on Plus? Click your name at the bottom of the left navigation bar, then select &quot;Upgrade plan&quot; to switch to Max. To compare all available plans—Free, Plus, and Max—visit the <a href="https://aws.amazon.com/quick/pricing/" target="_blank"><u>Amazon Quick pricing page</u></a>.&nbsp;</p>
+raw:
+  id: whats-new-v2#launch-id-2d860682-1e85-4d63-9ea4-a534a2185d5a
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-id--2d860682-1e85-4d63-9ea4-a534a2185d5a
+  dateCreated: 2026-09-03T18:01:27+0000
+  dateUpdated: 2026-09-03T18:01:27+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p><a href="https://aws.com/quick" target="_blank"><u>Amazon Quick</u></a> now offers Quick Max, a new plan for power users who want to get the absolute most out of Quick. With 5x the usage and 5x the storage of Plus, Max gives you the room to do more: more agents, more workflows, more of whatever makes Quick yours.&nbsp;</p>
+      <p>With Max, you can run large, concurrent workloads without interruption—all month long. It delivers more value per dollar the more you use it and is available with both monthly and annual billing options. &nbsp;</p>
+      <p>New to Amazon Quick? You can <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost#/validation" target="_blank"><u>sign up for free in minutes</u></a>. Already on Plus? Click your name at the bottom of the left navigation bar, then select &quot;Upgrade plan&quot; to switch to Max. To compare all available plans—Free, Plus, and Max—visit the <a href="https://aws.amazon.com/quick/pricing/" target="_blank"><u>Amazon Quick pricing page</u></a>.&nbsp;</p>
+    headlineUrl: /about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/
+    postDateTime: 2026-09-03T17:17:00Z
+    headline: "Introducing Amazon Quick Max: 5x the usage for power users who want
+      the most out of Quick"
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-09-03T21:05:59.530Z
+  feedback: []
