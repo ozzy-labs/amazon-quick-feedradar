@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-03T21:05:55.098Z
-lastEtag: sha256:0ae33739ee6bffb27e438b93d4e65bdd21e76b2716881726eafdde69617ee61c
+lastFetchedAt: 2026-09-04T21:05:09.949Z
+lastEtag: sha256:691939924d2348e51b51a2f595b9dce533d9be5825174c1e1144ff5d828b8fe6
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21814,3 +21814,15 @@ lastSeenIds:
   - amazon-s3-now-supports-privatelink-for-f-309e4e21
   - aws-transform-announces-general-availabi-56561c89
   - amazon-sagemaker-unified-studio-ci-cd-ad-af43d90c
+  - amazon-ec2-now-supports-specifying-compa-f9bf988c
+  - aws-mcp-server-adds-a-serverless-capabil-bc46facc
+  - amazon-ec2-c8g-instances-now-available-i-d5fbf4cb
+  - aws-transfer-family-sftp-connectors-now-413539cb
+  - amazon-ec2-c9g-and-c9gd-instances-are-no-91faacf4
+  - amazon-ecs-managed-daemons-now-support-n-718b61bf
+  - amazon-ec2-m9g-and-m9gd-instances-are-no-005fb19a
+  - amazon-ec2-p6-b200-instances-are-now-ava-80562cc2
+  - amazon-ec2-p6-b300-instances-are-now-ava-0d9ab67a
+  - amazon-aurora-mysql-8-4-8-compatible-wit-64859407
+  - amazon-memorydb-now-supports-aws-private-adafdcb3
+  - amazon-bedrock-agentcore-identity-now-of-3f10e76a
