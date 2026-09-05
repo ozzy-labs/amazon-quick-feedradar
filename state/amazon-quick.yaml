@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-04T21:05:09.949Z
-lastEtag: sha256:691939924d2348e51b51a2f595b9dce533d9be5825174c1e1144ff5d828b8fe6
+lastFetchedAt: 2026-09-05T21:04:51.537Z
+lastEtag: sha256:4ac11e7c1bd9efc493ad1bf8c3ea00bf37b9090f6e8ff62023998aec1d78283c
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21826,3 +21826,8 @@ lastSeenIds:
   - amazon-aurora-mysql-8-4-8-compatible-wit-64859407
   - amazon-memorydb-now-supports-aws-private-adafdcb3
   - amazon-bedrock-agentcore-identity-now-of-3f10e76a
+  - amazon-bedrock-managed-knowledge-base-in-d4a4c936
+  - amazon-bedrock-managed-knowledge-base-no-40f23076
+  - amazon-bedrock-managed-knowledge-base-no-30506482
+  - amazon-ecs-introduces-early-success-crit-cb69c461
+  - amazon-sagemaker-ai-batch-transform-now-20969697
