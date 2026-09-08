@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-05T21:04:51.537Z
-lastEtag: sha256:4ac11e7c1bd9efc493ad1bf8c3ea00bf37b9090f6e8ff62023998aec1d78283c
+lastFetchedAt: 2026-09-08T21:06:25.673Z
+lastEtag: sha256:b6e2694b79f62a1e00d46bb76731a1b33003bd69a13dbbf39c210f1af6ba54ed
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21831,3 +21831,12 @@ lastSeenIds:
   - amazon-bedrock-managed-knowledge-base-no-30506482
   - amazon-ecs-introduces-early-success-crit-cb69c461
   - amazon-sagemaker-ai-batch-transform-now-20969697
+  - aws-builder-id-adds-recovery-options-and-b90988a6
+  - amazon-rds-for-mariadb-now-supports-comm-a70ae73a
+  - amazon-bedrock-agentcore-memory-now-supp-2636bbd1
+  - aws-healthomics-introduces-resource-fall-a068e126
+  - dynamic-image-transformation-for-amazon-c67b1925
+  - amazon-rds-now-supports-the-latest-cu-an-125c0993
+  - amazon-mwaa-serverless-is-now-available-b9fd5ea9
+  - amazon-guardduty-adds-optional-threat-de-57c173a3
+  - aws-cloudformation-now-supports-contract-eb1f8718

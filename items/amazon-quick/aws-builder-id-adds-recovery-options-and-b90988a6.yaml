@@ -1,0 +1,43 @@
+id: aws-builder-id-adds-recovery-options-and-b90988a6
+sourceId: amazon-quick
+title: AWS Builder ID adds recovery options and multi-factor authentication for
+  third-party logins
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/
+publishedAt: 2026-09-08T08:00:00.000Z
+fetchedAt: 2026-09-08T21:06:25.673Z
+summary: |-
+  <p>AWS Builder ID, your personal profile for accessing AWS applications including AWS Builder Center, AWS Training and Certification, Amazon Quick and Kiro, now offers new ways to protect and recover your profile. You can add a recovery email and use new self-service options to regain access if you're locked out. You can also register multi-factor authentication (MFA) devices for any sign-in method, including third-party logins such as Google or Apple.</p>
+  <p>With these enhancements, you have more self-service options to recover your AWS Builder ID. Adding a recovery email provides a second verification factor that makes self-service recovery possible for more scenarios without the need to contact AWS Support. You can reset a forgotten password using a link sent to your primary or recovery email. If you lose access to your MFA device, you can regain access by verifying both your primary and recovery emails. If you use Google, Apple, GitHub or Amazon to sign in to Builder ID, you can now register MFA devices directly in AWS Builder ID, bringing the same strong account protection previously available to email and password users, and you can permanently switch your sign-in method to an email address and password if you lose access to the third-party account.</p>
+  <p>To learn more about AWS Builder ID and how to set up account recovery and MFA, visit the <a href="https://docs.aws.amazon.com/signin/latest/userguide/sign-in-builder-id.html">AWS Builder ID documentation</a>.</p>
+raw:
+  id: whats-new-v2#launch-builderid-recovery-mfa-sep2026
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-builderid-recovery-mfa-sep2026
+  dateCreated: 2026-09-08T17:14:31+0000
+  dateUpdated: 2026-09-08T17:14:31+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p>AWS Builder ID, your personal profile for accessing AWS applications including AWS Builder Center, AWS Training and Certification, Amazon Quick and Kiro, now offers new ways to protect and recover your profile. You can add a recovery email and use new self-service options to regain access if you're locked out. You can also register multi-factor authentication (MFA) devices for any sign-in method, including third-party logins such as Google or Apple.</p>
+      <p>With these enhancements, you have more self-service options to recover your AWS Builder ID. Adding a recovery email provides a second verification factor that makes self-service recovery possible for more scenarios without the need to contact AWS Support. You can reset a forgotten password using a link sent to your primary or recovery email. If you lose access to your MFA device, you can regain access by verifying both your primary and recovery emails. If you use Google, Apple, GitHub or Amazon to sign in to Builder ID, you can now register MFA devices directly in AWS Builder ID, bringing the same strong account protection previously available to email and password users, and you can permanently switch your sign-in method to an email address and password if you lose access to the third-party account.</p>
+      <p>To learn more about AWS Builder ID and how to set up account recovery and MFA, visit the <a href="https://docs.aws.amazon.com/signin/latest/userguide/sign-in-builder-id.html">AWS Builder ID documentation</a>.</p>
+    headlineUrl: /about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/
+    postDateTime: 2026-09-08T08:00:00Z
+    headline: AWS Builder ID adds recovery options and multi-factor authentication
+      for third-party logins
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-09-08T21:06:50.545Z
+  feedback: []
