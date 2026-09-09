@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-08T21:06:25.673Z
-lastEtag: sha256:b6e2694b79f62a1e00d46bb76731a1b33003bd69a13dbbf39c210f1af6ba54ed
+lastFetchedAt: 2026-09-09T21:05:07.400Z
+lastEtag: sha256:6fd9e9f91819c04e36d791fb8b43aa10e74954fd4630773edae32a7d2b939f66
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21840,3 +21840,17 @@ lastSeenIds:
   - amazon-mwaa-serverless-is-now-available-b9fd5ea9
   - amazon-guardduty-adds-optional-threat-de-57c173a3
   - aws-cloudformation-now-supports-contract-eb1f8718
+  - aws-transform-for-net-modernization-is-n-0f636ba3
+  - aws-lambda-now-supports-graviton5-powere-a81d09c8
+  - aws-lambda-now-supports-90-minute-functi-0864aac0
+  - amazon-bedrock-managed-knowledge-base-ad-9ecf799c
+  - amazon-bedrock-managed-knowledge-base-no-7b9eb6ac
+  - aws-systems-manager-now-diagnoses-more-i-2de89887
+  - openai-gpt-6-astra-is-now-generally-avai-ecb253ba
+  - amazon-timestream-for-influxdb-3-now-sup-bfbaf997
+  - amazon-sagemaker-feature-store-now-suppo-6ac13c86
+  - aws-transform-is-now-available-in-aws-go-f0fc31c4
+  - amazon-api-gateway-now-supports-mutual-t-313d1fbe
+  - amazon-emr-extends-support-at-no-additio-6cbf409e
+  - aws-announces-nx-plugin-for-aws-for-scaf-f4b5d528
+  - amazon-s3-object-lock-now-supports-varia-18738027
