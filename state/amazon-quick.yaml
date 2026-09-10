@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-09T21:05:07.400Z
-lastEtag: sha256:6fd9e9f91819c04e36d791fb8b43aa10e74954fd4630773edae32a7d2b939f66
+lastFetchedAt: 2026-09-10T21:05:37.368Z
+lastEtag: sha256:54659a03b6387426afa271861eca376194fcd44502c3dc126d77956071e54053
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21854,3 +21854,27 @@ lastSeenIds:
   - amazon-emr-extends-support-at-no-additio-6cbf409e
   - aws-announces-nx-plugin-for-aws-for-scaf-f4b5d528
   - amazon-s3-object-lock-now-supports-varia-18738027
+  - amazon-quick-adds-always-on-agents-a-sha-19e5d489
+  - amazon-quick-activity-feed-now-available-cba36cb4
+  - amazon-quick-desktop-app-is-now-generall-8caf2c99
+  - aws-lambda-recursive-loop-detection-is-n-3395348d
+  - amazon-api-gateway-now-supports-1-mb-exe-01e8c3f5
+  - aws-lambda-durable-functions-integrates-2b9efbe4
+  - amazon-mq-now-supports-rabbitmq-4-3-4c0383a7
+  - announcing-second-generation-single-rack-05c97ecf
+  - amazon-opensearch-serverless-is-now-avai-6846acde
+  - amazon-ecs-expands-iam-condition-key-sup-aeba347c
+  - amazon-redshift-rg-instances-now-availab-cb41e961
+  - amazon-cloudwatch-now-supports-network-h-46139c2e
+  - aws-elemental-inference-now-generates-co-f81ca31d
+  - aws-elemental-mediatailor-now-offers-yie-1e3a357f
+  - aws-elemental-medialive-adds-support-for-6f01d658
+  - aws-elemental-mediatailor-now-supports-l-b04c38d1
+  - aws-elemental-introduces-dynamic-multivi-ba1023d7
+  - aws-storage-gateway-now-supports-fips-co-1463b658
+  - amazon-evs-is-now-available-in-more-regi-d14ed690
+  - amazon-connect-customer-now-lets-you-set-38d61cd3
+  - amazon-ebs-volume-clones-now-supports-co-abd2fba3
+  - aws-private-ca-eks-add-on-and-connector-ef9667ba
+  - aws-entity-resolution-adds-record-level-8788227a
+  - amazon-connect-customer-profiles-now-sen-4f0911dc

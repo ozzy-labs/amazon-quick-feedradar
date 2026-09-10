@@ -1,0 +1,44 @@
+id: amazon-quick-desktop-app-is-now-generall-8caf2c99
+sourceId: amazon-quick
+title: Amazon Quick desktop app is now generally available on macOS and Windows
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-desktop-app-generally-available-macos-windows/
+publishedAt: 2026-09-09T15:23:00.000Z
+fetchedAt: 2026-09-10T21:05:37.368Z
+summary: |-
+  <p>The Amazon Quick desktop app is now generally available on macOS and Windows. The desktop app brings the full power of Amazon Quick to your computer, working directly with your local files and staying connected to your calendar, email, and business apps in the background. Quick keeps your conversations, context, and agents synchronized across the desktop and mobile applications, so work you start on one surface carries over to the other, enabling you to work wherever you want.&nbsp;</p>
+  <p>Additionally, with this release, Amazon Quick agents run continuously in the background, even after you close your computer, so long-running work keeps making progress while you're away. Start an agent before you leave the office, provide additional inputs from the mobile app during your commute home, and then review the final output when you arrive. Quick offers production-grade stability, maintains AWS SLA commitments, and offers the governance and administrative controls for deployments at enterprise scale.&nbsp;</p>
+  <p>The Amazon Quick desktop app is available in 7 regions, US East (N. Virginia), Asia Pacific (Sydney), US West (Oregon), Europe (Ireland), Europe (London), Asia Pacific (Tokyo), and Europe (Frankfurt)&nbsp;</p>
+  <p>Existing Quick users can download the desktop app from <a href="https://aws.amazon.com/quick/download/" target="_blank"><u>here</u></a>. The Quick mobile application is available for free from the <a href="https://apps.apple.com/us/app/amazon-quick/id1148226615" target="_blank"><u>Apple App Store</u></a> and <a href="https://play.google.com/store/apps/details?id=com.amazonaws.quicksight.mobile&amp;hl=en_US" target="_blank"><u>Google Play Store</u></a>.</p>
+raw:
+  id: whats-new-v2#launch-88dpbj9ms7sg2v5tnizldn
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-88dpbj9ms7sg2v5tnizldn
+  dateCreated: 2026-09-10T18:18:24+0000
+  dateUpdated: 2026-09-10T18:18:25+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>The Amazon Quick desktop app is now generally available on macOS and Windows. The desktop app brings the full power of Amazon Quick to your computer, working directly with your local files and staying connected to your calendar, email, and business apps in the background. Quick keeps your conversations, context, and agents synchronized across the desktop and mobile applications, so work you start on one surface carries over to the other, enabling you to work wherever you want.&nbsp;</p>
+      <p>Additionally, with this release, Amazon Quick agents run continuously in the background, even after you close your computer, so long-running work keeps making progress while you're away. Start an agent before you leave the office, provide additional inputs from the mobile app during your commute home, and then review the final output when you arrive. Quick offers production-grade stability, maintains AWS SLA commitments, and offers the governance and administrative controls for deployments at enterprise scale.&nbsp;</p>
+      <p>The Amazon Quick desktop app is available in 7 regions, US East (N. Virginia), Asia Pacific (Sydney), US West (Oregon), Europe (Ireland), Europe (London), Asia Pacific (Tokyo), and Europe (Frankfurt)&nbsp;</p>
+      <p>Existing Quick users can download the desktop app from <a href="https://aws.amazon.com/quick/download/" target="_blank"><u>here</u></a>. The Quick mobile application is available for free from the <a href="https://apps.apple.com/us/app/amazon-quick/id1148226615" target="_blank"><u>Apple App Store</u></a> and <a href="https://play.google.com/store/apps/details?id=com.amazonaws.quicksight.mobile&amp;hl=en_US" target="_blank"><u>Google Play Store</u></a>.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/09/amazon-quick-desktop-app-generally-available-macos-windows/
+    postDateTime: 2026-09-09T15:23:00Z
+    headline: Amazon Quick desktop app is now generally available on macOS and Windows 
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-09-10T21:05:46.368Z
+  feedback: []
