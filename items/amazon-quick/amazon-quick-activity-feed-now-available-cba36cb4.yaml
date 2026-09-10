@@ -1,0 +1,48 @@
+id: amazon-quick-activity-feed-now-available-cba36cb4
+sourceId: amazon-quick
+title: Amazon Quick activity feed now available on iOS and Android mobile devices
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-activity-feed-available-ios-android-mobile-devices/
+publishedAt: 2026-09-09T15:39:00.000Z
+fetchedAt: 2026-09-10T21:05:37.368Z
+summary: |-
+  <p>The Amazon Quick activity feed is now available on the Amazon Quick mobile app for iOS and Android, keeping you connected to your most important work from anywhere.&nbsp;</p>
+  <p>The activity feed is your single, prioritized view of everything that needs your attention across your enterprise communications and tools, so you don't have to check each one separately. Items requiring your attention populate the top of your feed, and instead of switching between apps, you can take action directly from within Quick.&nbsp; Never miss something time-sensitive, even when you're away from your desk. Your decide which notifications are important and which are noise. Over time, Quick learns your priorities and surfaces only the things that matter.&nbsp;</p>
+  <p>You can also ask Quick to post anything to your feed through a routine, pulling from any connected data source. For example, you can tell Quick “every morning at 7:30, tell me which customer meetings I have that day and give me 3 bullet points to prep”.&nbsp;&nbsp;</p>
+  <p>Additionally, as part of today's announcement, Amazon Quick retains context across the desktop and mobile applications. Any work you do on one surface carries over to the other, so you can start a chat or assign a task to an agent on your desktop, then review progress and continue the chat from your mobile device, picking up right where you left off when you're back at your computer.&nbsp;</p>
+  <p>The Amazon Quick mobile app is included with your existing Amazon Quick access at no additional cost.&nbsp;</p>
+  <p>Existing Quick customers can download the Quick mobile application for iOS from the <a href="https://apps.apple.com/us/app/amazon-quick/id1148226615" target="_blank"><u>Apple App Store,</u></a> and Android from the <a href="https://play.google.com/store/apps/details?id=com.amazonaws.quicksight.mobile&amp;hl=en_US" target="_blank"><u>Google Play Store</u></a>. If you're new to Quick, visit the <a href="https://aws.com/quick" target="_blank"><u>Quick Product Page</u></a> to create an account for free in minutes.&nbsp;</p>
+raw:
+  id: whats-new-v2#018a69a6-dabe-4771-a11b-2ae0d824c5a3
+  locale: en_US
+  directoryId: whats-new-v2
+  name: 018a69a6-dabe-4771-a11b-2ae0d824c5a3
+  dateCreated: 2026-09-10T18:16:26+0000
+  dateUpdated: 2026-09-10T18:16:27+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p>The Amazon Quick activity feed is now available on the Amazon Quick mobile app for iOS and Android, keeping you connected to your most important work from anywhere.&nbsp;</p>
+      <p>The activity feed is your single, prioritized view of everything that needs your attention across your enterprise communications and tools, so you don't have to check each one separately. Items requiring your attention populate the top of your feed, and instead of switching between apps, you can take action directly from within Quick.&nbsp; Never miss something time-sensitive, even when you're away from your desk. Your decide which notifications are important and which are noise. Over time, Quick learns your priorities and surfaces only the things that matter.&nbsp;</p>
+      <p>You can also ask Quick to post anything to your feed through a routine, pulling from any connected data source. For example, you can tell Quick “every morning at 7:30, tell me which customer meetings I have that day and give me 3 bullet points to prep”.&nbsp;&nbsp;</p>
+      <p>Additionally, as part of today's announcement, Amazon Quick retains context across the desktop and mobile applications. Any work you do on one surface carries over to the other, so you can start a chat or assign a task to an agent on your desktop, then review progress and continue the chat from your mobile device, picking up right where you left off when you're back at your computer.&nbsp;</p>
+      <p>The Amazon Quick mobile app is included with your existing Amazon Quick access at no additional cost.&nbsp;</p>
+      <p>Existing Quick customers can download the Quick mobile application for iOS from the <a href="https://apps.apple.com/us/app/amazon-quick/id1148226615" target="_blank"><u>Apple App Store,</u></a> and Android from the <a href="https://play.google.com/store/apps/details?id=com.amazonaws.quicksight.mobile&amp;hl=en_US" target="_blank"><u>Google Play Store</u></a>. If you're new to Quick, visit the <a href="https://aws.com/quick" target="_blank"><u>Quick Product Page</u></a> to create an account for free in minutes.&nbsp;</p>
+    headlineUrl: /about-aws/whats-new/2026/09/amazon-quick-activity-feed-available-ios-android-mobile-devices/
+    postDateTime: 2026-09-09T15:39:00Z
+    headline: Amazon Quick activity feed now available on iOS and Android mobile devices 
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-09-10T21:05:46.368Z
+  feedback: []

@@ -1,0 +1,89 @@
+id: amazon-quick-adds-always-on-agents-a-sha-19e5d489
+sourceId: amazon-quick
+title: Amazon Quick adds always-on agents, a sharper feed, and enterprise controls
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-always-on-agents-sharper-feed-enterprise-controls/
+publishedAt: 2026-09-09T15:51:00.000Z
+fetchedAt: 2026-09-10T21:05:37.368Z
+summary: >-
+  <p>Today, Amazon Quick offers new capabilities that make it easier to organize
+  your work, govern it across an organization, and trust the answers it
+  produces. These capabilities build on Amazon Quick across desktop and mobile,
+  bringing enterprise-grade management, richer collaboration, and always-on
+  intelligence to teams wherever they work.&nbsp;</p>
+
+  <p>Your agents no longer stop when you step away. Scheduled tasks and
+  monitoring agents run in the cloud and deliver results to your feed even when
+  your laptop is closed. A sharper activity feed adds top-level filters, an
+  improved catch-up view, a daily briefing that refreshes three times a day, and
+  search across up to seven days of feed data, so you see what needs you first.
+  Administrators gain mobile device management support, custom per-user
+  permissions, and Microsoft Purview data loss prevention integration. Teams can
+  share files and publish agents and skills for others to discover and install,
+  and browse a catalog of official skills. Quick spaces and Quick apps now run
+  natively on the desktop, any indexed local folder can become a searchable
+  space, and inline citations let you verify every answer against its source.
+  Additionally, every Quick subscriber now gets more agent hours each month —
+  Professional grows from 4 to 8 and Enterprise from 8 to 18 — combined into a
+  single, simpler allotment.&nbsp;</p>
+
+  <p>New users can <a href="https://aws.amazon.com/quick/download/"
+  target="_blank"><u>create an account for free</u></a> and start using Quick in
+  minutes.Or to learn more,&nbsp; visit the <a href="https://aws.com/quick"
+  target="_blank"><u>Amazon Quick product page.</u></a></p>
+raw:
+  id: whats-new-v2#launch-awp8gcbku9n7x3fbsckxb1
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-awp8gcbku9n7x3fbsckxb1
+  dateCreated: 2026-09-10T18:18:19+0000
+  dateUpdated: 2026-09-10T18:18:19+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: >
+      <p>Today, Amazon Quick offers new capabilities that make it easier to
+      organize your work, govern it across an organization, and trust the
+      answers it produces. These capabilities build on Amazon Quick across
+      desktop and mobile, bringing enterprise-grade management, richer
+      collaboration, and always-on intelligence to teams wherever they
+      work.&nbsp;</p>
+
+      <p>Your agents no longer stop when you step away. Scheduled tasks and
+      monitoring agents run in the cloud and deliver results to your feed even
+      when your laptop is closed. A sharper activity feed adds top-level
+      filters, an improved catch-up view, a daily briefing that refreshes three
+      times a day, and search across up to seven days of feed data, so you see
+      what needs you first. Administrators gain mobile device management
+      support, custom per-user permissions, and Microsoft Purview data loss
+      prevention integration. Teams can share files and publish agents and
+      skills for others to discover and install, and browse a catalog of
+      official skills. Quick spaces and Quick apps now run natively on the
+      desktop, any indexed local folder can become a searchable space, and
+      inline citations let you verify every answer against its source.
+      Additionally, every Quick subscriber now gets more agent hours each month
+      — Professional grows from 4 to 8 and Enterprise from 8 to 18 — combined
+      into a single, simpler allotment.&nbsp;</p>
+
+      <p>New users can <a href="https://aws.amazon.com/quick/download/"
+      target="_blank"><u>create an account for free</u></a> and start using
+      Quick in minutes.Or to learn more,&nbsp; visit the <a
+      href="https://aws.com/quick" target="_blank"><u>Amazon Quick product
+      page.</u></a></p>
+    headlineUrl: /about-aws/whats-new/2026/09/amazon-quick-always-on-agents-sharper-feed-enterprise-controls/
+    postDateTime: 2026-09-09T15:51:00Z
+    headline: Amazon Quick adds always-on agents, a sharper feed, and enterprise controls
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-09-10T21:05:46.368Z
+  feedback: []
