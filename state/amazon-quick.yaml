@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-10T21:05:37.368Z
-lastEtag: sha256:54659a03b6387426afa271861eca376194fcd44502c3dc126d77956071e54053
+lastFetchedAt: 2026-09-11T21:05:10.929Z
+lastEtag: sha256:ea0074fb139ec59f522074eb7211c05b70a1efbfb1754bb0237c6b21343f4233
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21878,3 +21878,11 @@ lastSeenIds:
   - aws-private-ca-eks-add-on-and-connector-ef9667ba
   - aws-entity-resolution-adds-record-level-8788227a
   - amazon-connect-customer-profiles-now-sen-4f0911dc
+  - amazon-ec2-x2idn-instances-are-now-avail-b37e9f84
+  - amazon-sagemaker-hyperpod-now-supports-m-d8c79236
+  - amazon-bedrock-managed-knowledge-base-no-190cb991
+  - aws-healthomics-now-publishes-real-time-23384aa7
+  - aws-devops-agent-adds-support-for-bidire-df4aed3a
+  - amazon-rds-for-oracle-now-supports-suppl-5d122bf9
+  - aws-transform-for-net-now-generates-unit-c7757911
+  - aws-marketplace-sellers-now-receive-qual-9451135b
