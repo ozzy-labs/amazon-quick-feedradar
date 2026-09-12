@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-11T21:05:10.929Z
-lastEtag: sha256:ea0074fb139ec59f522074eb7211c05b70a1efbfb1754bb0237c6b21343f4233
+lastFetchedAt: 2026-09-12T21:05:08.856Z
+lastEtag: sha256:5a7c567c3e68b9fc1295c0d57ee574f62acc29f76a6c25fc4c5785a8e13ea237
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21886,3 +21886,4 @@ lastSeenIds:
   - amazon-rds-for-oracle-now-supports-suppl-5d122bf9
   - aws-transform-for-net-now-generates-unit-c7757911
   - aws-marketplace-sellers-now-receive-qual-9451135b
+  - aws-lambda-now-supports-direct-read-conf-84613c25
