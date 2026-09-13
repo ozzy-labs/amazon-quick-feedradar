@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-12T21:05:08.856Z
-lastEtag: sha256:5a7c567c3e68b9fc1295c0d57ee574f62acc29f76a6c25fc4c5785a8e13ea237
+lastFetchedAt: 2026-09-13T21:05:28.754Z
+lastEtag: sha256:b91d9cabfdd6a70c83f383709e9061cbbc25d03b4812b73522f4324bbe193181
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21887,3 +21887,4 @@ lastSeenIds:
   - aws-transform-for-net-now-generates-unit-c7757911
   - aws-marketplace-sellers-now-receive-qual-9451135b
   - aws-lambda-now-supports-direct-read-conf-84613c25
+  - aws-elemental-medialive-enables-frame-ac-79ebeebd
