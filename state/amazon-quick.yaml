@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-14T21:05:16.937Z
-lastEtag: sha256:28c4d8ffffc344b51b5b61832614f0fda6da889836d4e4333b78629c9db788b1
+lastFetchedAt: 2026-09-15T21:05:26.640Z
+lastEtag: sha256:76087930b1fe129cef61f56c28f5d545d2e0d1b454a6867c9f038b257ffc777d
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21892,3 +21892,12 @@ lastSeenIds:
   - ministral-3-3b-instruct-2512-and-ministr-f1ea187f
   - gemma-4-31b-it-assistant-and-gemma-4-31b-860b3b6d
   - granite-speech-4-1-2b-kanana-2-30b-a3b-i-920e681e
+  - aws-billing-conductor-now-supports-custo-181a648a
+  - amazon-sagemaker-ai-now-supports-instanc-3bc54384
+  - analyze-your-cloudtrail-events-using-nat-a7d5cc45
+  - amazon-connect-customer-now-enables-agen-9bc85bdb
+  - aws-improves-regional-resiliency-for-roo-f59e3045
+  - aws-glue-zero-etl-adds-target-table-prop-748a6681
+  - aws-end-user-messaging-now-supports-dyna-59fe4e9b
+  - aws-end-user-messaging-strengthens-sms-d-de35f0d8
+  - amazon-sagemaker-unified-studio-now-supp-2fbecfd7
