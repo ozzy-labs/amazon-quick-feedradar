@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-15T21:05:26.640Z
-lastEtag: sha256:76087930b1fe129cef61f56c28f5d545d2e0d1b454a6867c9f038b257ffc777d
+lastFetchedAt: 2026-09-16T21:05:16.243Z
+lastEtag: sha256:950844248c6cdee9ad36bbd6738eeb0bcf81de75a2327611bb11d670be9b9ddc
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21901,3 +21901,16 @@ lastSeenIds:
   - aws-end-user-messaging-now-supports-dyna-59fe4e9b
   - aws-end-user-messaging-strengthens-sms-d-de35f0d8
   - amazon-sagemaker-unified-studio-now-supp-2fbecfd7
+  - aws-client-vpn-is-now-supporting-macos-2-8fd401be
+  - new-aws-experience-helps-builders-get-st-70debfd1
+  - amazon-workspaces-adds-support-for-nvidi-c519a614
+  - amazon-connect-customer-custom-metrics-n-fb8c0e5e
+  - aws-elemental-mediatailor-monetization-f-360194ee
+  - amazon-ecs-extends-amazon-s3-files-suppo-d8ed7b70
+  - amazon-connect-customer-now-lets-you-cre-558d310e
+  - aws-sts-simplifies-session-token-size-li-b213c4b5
+  - monitor-cost-anomalies-directly-in-billi-fa8584ec
+  - aws-direct-connect-announces-flat-rate-p-61025fb0
+  - aws-step-functions-adds-new-aws-service-4044a56b
+  - aws-glue-zero-etl-now-captures-archived-26b8fac7
+  - aws-pcs-now-supports-custom-gres-hardwar-0be6947f
