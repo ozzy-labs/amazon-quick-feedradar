@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-16T21:05:16.243Z
-lastEtag: sha256:950844248c6cdee9ad36bbd6738eeb0bcf81de75a2327611bb11d670be9b9ddc
+lastFetchedAt: 2026-09-17T21:05:31.902Z
+lastEtag: sha256:4ae8a1a86668bb113b0655a55c3e7cd50d1c606fbe30a9b042a4bb6b328fd111
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21914,3 +21914,13 @@ lastSeenIds:
   - aws-step-functions-adds-new-aws-service-4044a56b
   - aws-glue-zero-etl-now-captures-archived-26b8fac7
   - aws-pcs-now-supports-custom-gres-hardwar-0be6947f
+  - aws-transfer-family-now-supports-source-92638824
+  - aws-healthomics-now-supports-iam-session-9f3f66cc
+  - aws-batch-now-supports-bulk-job-cancella-a165f2ac
+  - aws-elastic-beanstalk-introduces-cluster-0a3a893d
+  - amazon-corretto-27-is-now-generally-avai-4b56257d
+  - amazon-sagemaker-ai-now-supports-serverl-b18fed21
+  - amazon-ecs-deployment-observability-for-93aea33a
+  - amazon-connect-customer-can-now-import-e-f1b9d4e2
+  - amazon-keyspaces-for-apache-cassandra-is-fb934135
+  - amazon-connect-talent-is-now-generally-a-b6d66970
