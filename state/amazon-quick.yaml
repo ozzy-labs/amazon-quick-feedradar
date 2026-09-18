@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-17T21:05:31.902Z
-lastEtag: sha256:4ae8a1a86668bb113b0655a55c3e7cd50d1c606fbe30a9b042a4bb6b328fd111
+lastFetchedAt: 2026-09-18T21:05:01.194Z
+lastEtag: sha256:767a01893a668db0bf7eb208b5122bd9e5fa064e8e45bdd1e51dbdb6738fd8da
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21924,3 +21924,15 @@ lastSeenIds:
   - amazon-connect-customer-can-now-import-e-f1b9d4e2
   - amazon-keyspaces-for-apache-cassandra-is-fb934135
   - amazon-connect-talent-is-now-generally-a-b6d66970
+  - amazon-quick-now-generates-individual-sh-8652a590
+  - aws-continuum-now-supports-credential-te-aeca12a7
+  - amazon-ecs-express-mode-now-supports-aws-781bafb7
+  - aws-resilience-hub-adds-three-new-capabi-dfe7542d
+  - aws-rtb-fabric-now-supports-configurable-981fcb71
+  - kimi-k3-by-moonshot-ai-is-now-generally-be8aa65c
+  - the-new-agentcore-runtime-is-now-availab-13e147c3
+  - aws-privatelink-announces-tunnel-endpoin-f8a1b572
+  - introducing-amazon-ec2-t8i-instances-beb8b516
+  - amazon-s3-express-one-zone-is-now-availa-be767e78
+  - aws-builder-center-now-available-as-mobi-4ea19960
+  - amazon-ses-now-supports-tenant-level-del-177b98ab
