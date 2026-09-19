@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-18T21:05:01.194Z
-lastEtag: sha256:767a01893a668db0bf7eb208b5122bd9e5fa064e8e45bdd1e51dbdb6738fd8da
+lastFetchedAt: 2026-09-19T21:04:44.908Z
+lastEtag: sha256:9557735181d1f6678b590160075e51ae1d3746299ef1d62467275ffb865d9b84
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21936,3 +21936,4 @@ lastSeenIds:
   - amazon-s3-express-one-zone-is-now-availa-be767e78
   - aws-builder-center-now-available-as-mobi-4ea19960
   - amazon-ses-now-supports-tenant-level-del-177b98ab
+  - amazon-sns-now-supports-message-payloads-cd403d66
