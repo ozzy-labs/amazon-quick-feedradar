@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-20T21:05:04.381Z
-lastEtag: sha256:95439f2bbd0d8eaf4c4c274c5dc16c1d389a3969ec404d78979509370d40854a
+lastFetchedAt: 2026-09-21T21:06:04.176Z
+lastEtag: sha256:9abb535029e84a7353ccc58eb0567024de1f5ed84fa7fc972712dbf8fbba7cd5
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21937,3 +21937,6 @@ lastSeenIds:
   - aws-builder-center-now-available-as-mobi-4ea19960
   - amazon-ses-now-supports-tenant-level-del-177b98ab
   - amazon-sns-now-supports-message-payloads-cd403d66
+  - amazon-quick-adds-generate-sheet-and-ima-8652a590
+  - amazon-ec2-x8i-instances-are-now-availab-234b3004
+  - amazon-ec2-i7ie-instances-now-available-05eef1d1
