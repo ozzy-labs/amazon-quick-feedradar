@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-21T21:06:04.176Z
-lastEtag: sha256:9abb535029e84a7353ccc58eb0567024de1f5ed84fa7fc972712dbf8fbba7cd5
+lastFetchedAt: 2026-09-22T21:13:47.095Z
+lastEtag: sha256:60cba3f902f86070082dbe5d310e40d807e8505454aacc041661d1590f6028fb
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21940,3 +21940,11 @@ lastSeenIds:
   - amazon-quick-adds-generate-sheet-and-ima-8652a590
   - amazon-ec2-x8i-instances-are-now-availab-234b3004
   - amazon-ec2-i7ie-instances-now-available-05eef1d1
+  - billing-transfer-now-supports-automatic-41d128e4
+  - openai-gpt-6-sol-and-gpt-6-luna-are-now-f2caf6c3
+  - claude-opus-5-5-is-now-available-on-aws-c5ea4280
+  - claude-opus-5-5-is-now-available-on-aws-7f27a315
+  - aws-security-hub-ai-inventory-adds-azure-5f2b5b9a
+  - aws-glue-data-quality-delivers-context-s-4cf5fc88
+  - amazon-ecs-now-provides-real-time-deploy-85f458c9
+  - amazon-evs-now-in-scope-for-fedramp-clas-dc914954
