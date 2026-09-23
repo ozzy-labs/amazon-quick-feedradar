@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-22T21:13:47.095Z
-lastEtag: sha256:60cba3f902f86070082dbe5d310e40d807e8505454aacc041661d1590f6028fb
+lastFetchedAt: 2026-09-23T21:13:21.700Z
+lastEtag: sha256:11faba713c1f99cdb24a8d3a6534fe18e2f587c0e59b182b255edfb865f08bad
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21948,3 +21948,11 @@ lastSeenIds:
   - aws-glue-data-quality-delivers-context-s-4cf5fc88
   - amazon-ecs-now-provides-real-time-deploy-85f458c9
   - amazon-evs-now-in-scope-for-fedramp-clas-dc914954
+  - amazon-connect-customer-now-provides-rou-9869439e
+  - amazon-bedrock-managed-knowledge-base-no-49144b69
+  - amazon-cloudwatch-omni-ai-first-observab-89bfcb38
+  - amazon-emr-introduces-long-term-support-b82e0339
+  - amazon-route-53-resolver-is-now-generall-e27fb0d5
+  - amazon-emr-7-14-is-now-available-8832f056
+  - amazon-rds-custom-now-supports-the-lates-213562ed
+  - amazon-connect-customer-launches-agent-t-840fd052
