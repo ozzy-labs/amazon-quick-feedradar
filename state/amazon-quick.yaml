@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-23T21:13:21.700Z
-lastEtag: sha256:11faba713c1f99cdb24a8d3a6534fe18e2f587c0e59b182b255edfb865f08bad
+lastFetchedAt: 2026-09-24T21:13:22.393Z
+lastEtag: sha256:f31a4ffc6b9f7c92b87c76b7eb4aa6c7080ea06083a9d041982e02ddcdf14438
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21956,3 +21956,12 @@ lastSeenIds:
   - amazon-emr-7-14-is-now-available-8832f056
   - amazon-rds-custom-now-supports-the-lates-213562ed
   - amazon-connect-customer-launches-agent-t-840fd052
+  - aws-lambda-durable-functions-are-now-ava-14e9c754
+  - amazon-rds-for-mysql-announces-extended-49b6776d
+  - amazon-rds-for-postgresql-now-supports-p-39c2b858
+  - amazon-rds-for-postgresql-now-supports-p-43ec7dc2
+  - aws-network-security-manager-is-now-gene-22e6a065
+  - run-interactive-workloads-on-amazon-emr-d6a2b2a1
+  - amazon-kinesis-data-streams-announces-se-938e0672
+  - amazon-emr-on-eks-now-supports-ipv6-amaz-7a3b5dcf
+  - amazon-dynamodb-global-tables-with-multi-a5e8f376
