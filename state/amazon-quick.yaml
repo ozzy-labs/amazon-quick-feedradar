@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-24T21:13:22.393Z
-lastEtag: sha256:f31a4ffc6b9f7c92b87c76b7eb4aa6c7080ea06083a9d041982e02ddcdf14438
+lastFetchedAt: 2026-09-25T21:14:14.703Z
+lastEtag: sha256:bb12dcf4421169c1f42aacae79d66251c4d8e53c32d624ba325acf35c5252e01
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21965,3 +21965,13 @@ lastSeenIds:
   - amazon-kinesis-data-streams-announces-se-938e0672
   - amazon-emr-on-eks-now-supports-ipv6-amaz-7a3b5dcf
   - amazon-dynamodb-global-tables-with-multi-a5e8f376
+  - amazon-transcribe-adds-customer-managed-1a0fb8c7
+  - aws-iam-outbound-identity-federation-now-62ac4a9e
+  - aws-datasync-launches-a-monitoring-dashb-44e963dc
+  - aws-elastic-disaster-recovery-now-suppor-b2d60035
+  - aws-billing-and-cost-management-now-prov-a10e43cf
+  - amazon-eventbridge-relaunches-event-buse-8f3ed227
+  - amazon-sagemaker-hyperpod-inference-gate-d193726a
+  - amazon-gamelift-servers-now-available-in-77bbc81f
+  - amazon-elasticache-global-datastore-now-19252443
+  - amazon-rds-supports-multi-az-for-sql-ser-a6745925
