@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-25T21:14:14.703Z
-lastEtag: sha256:bb12dcf4421169c1f42aacae79d66251c4d8e53c32d624ba325acf35c5252e01
+lastFetchedAt: 2026-09-26T21:13:31.352Z
+lastEtag: sha256:fe4060daa703554d0b6fcce4fb256352b0982de5c1bffb4b3bf14b9bac35346a
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21975,3 +21975,8 @@ lastSeenIds:
   - amazon-gamelift-servers-now-available-in-77bbc81f
   - amazon-elasticache-global-datastore-now-19252443
   - amazon-rds-supports-multi-az-for-sql-ser-a6745925
+  - amazon-ec2-m8i-and-m8i-flex-instances-ar-fcd93218
+  - amazon-ec2-r8i-and-r8i-flex-instances-ar-186a5368
+  - amazon-ec2-c8i-and-c8i-flex-instances-ar-803fdd4f
+  - aws-end-user-messaging-and-amazon-ses-no-1a9037e9
+  - aws-end-user-messaging-now-supports-voic-8322f478
