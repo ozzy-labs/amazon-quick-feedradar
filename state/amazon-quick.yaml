@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-27T21:13:47.773Z
-lastEtag: sha256:174fa3e83bbd92871b97dfff5d0a15f7e6956e6ed695d386c2c16830bb3eba94
+lastFetchedAt: 2026-09-28T21:14:19.341Z
+lastEtag: sha256:1f3a6afd1516528a4116fad717c511050e03c651d1961f48cdb93fd585d7bf2b
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21980,3 +21980,7 @@ lastSeenIds:
   - amazon-ec2-c8i-and-c8i-flex-instances-ar-803fdd4f
   - aws-end-user-messaging-and-amazon-ses-no-1a9037e9
   - aws-end-user-messaging-now-supports-voic-8322f478
+  - amazon-rekognition-face-liveness-now-ret-ee13d5a3
+  - claude-sonnet-5-5-now-available-on-aws-8e1d14d8
+  - claude-sonnet-5-5-now-available-on-aws-g-d25f4a63
+  - amazon-corretto-september-2026-patch-upd-99b63922
