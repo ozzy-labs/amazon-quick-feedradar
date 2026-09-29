@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-28T21:14:19.341Z
-lastEtag: sha256:1f3a6afd1516528a4116fad717c511050e03c651d1961f48cdb93fd585d7bf2b
+lastFetchedAt: 2026-09-29T21:14:29.887Z
+lastEtag: sha256:24258bd0471700ce80ca1a844277ffe7daa9c19d470e2f8f9f8e1be27679b9e5
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21984,3 +21984,15 @@ lastSeenIds:
   - claude-sonnet-5-5-now-available-on-aws-8e1d14d8
   - claude-sonnet-5-5-now-available-on-aws-g-d25f4a63
   - amazon-corretto-september-2026-patch-upd-99b63922
+  - openai-gpt-6-1-sol-is-now-generally-avai-ddbbcd48
+  - amazon-connect-customer-now-lets-busines-f957b7f0
+  - amazon-rds-for-postgresql-announces-exte-eb6f9f0f
+  - amazon-aurora-now-supports-postgresql-18-e9b8cb0c
+  - aws-systems-manager-now-supports-sharing-703ab81e
+  - amazon-route-53-resolver-dns-firewall-su-73317819
+  - amazon-ec2-future-dated-capacity-reserva-dc668a6f
+  - grok-4-7-is-now-available-on-amazon-bedr-9103cb8e
+  - amazon-sagemaker-unified-studio-now-supp-8a0af55d
+  - amazon-documentdb-with-mongodb-compatibi-2083832d
+  - amazon-documentdb-with-mongodb-compatibi-e26ca94f
+  - aws-backup-adds-logically-air-gapped-vau-50e96be6
