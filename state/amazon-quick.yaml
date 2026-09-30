@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-29T21:14:29.887Z
-lastEtag: sha256:24258bd0471700ce80ca1a844277ffe7daa9c19d470e2f8f9f8e1be27679b9e5
+lastFetchedAt: 2026-09-30T21:13:33.611Z
+lastEtag: sha256:f9db342bf701ffc5e1d7c4dc980d2a9e74593b45355f1a788ae7a102678cfdb3
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -21996,3 +21996,29 @@ lastSeenIds:
   - amazon-documentdb-with-mongodb-compatibi-2083832d
   - amazon-documentdb-with-mongodb-compatibi-e26ca94f
   - aws-backup-adds-logically-air-gapped-vau-50e96be6
+  - aws-cli-now-supports-bulk-skill-updates-3f55c601
+  - amazon-s3-vectors-introduces-metadata-pr-e6707193
+  - openai-gpt-6-astra-now-supports-ultrafas-e98bbc80
+  - amazon-aurora-serverless-now-scales-fast-0d3865fe
+  - amazon-aurora-and-rds-now-support-amd-ba-e815a13c
+  - amazon-rds-now-supports-amd-based-m8a-in-3ec93eb1
+  - aurora-postgresql-now-supports-querying-443c437d
+  - amazon-rds-for-mysql-supports-mysql-26-7-28a2a819
+  - uncover-blind-spots-in-aws-data-plane-op-1e9561af
+  - partner-revenue-measurement-adds-multi-p-cdebf512
+  - aws-transfer-family-now-automatically-ap-253b0ae1
+  - aws-accounts-now-support-phone-number-ve-ee6c65a9
+  - aws-marketplace-launches-an-ai-agent-ski-ce125c77
+  - aws-deadline-cloud-now-supports-expressi-b54ebfd9
+  - amazon-bedrock-managed-agents-powered-by-7d086bc3
+  - amazon-rds-now-adds-full-snapshot-size-i-e4e7f871
+  - aws-deadline-cloud-now-supports-ecs-cont-ff007807
+  - amazon-workspaces-applications-introduce-9b6d3d80
+  - aws-service-availability-updates-1494e68e
+  - amazon-bedrock-expands-claude-model-avai-4d075c8e
+  - aws-transform-now-supports-apache-kafka-c6e66b24
+  - amazon-cloudwatch-logs-now-automatically-650df4a8
+  - aws-datasync-now-supports-shared-vpcs-0f07ab7f
+  - aws-transfer-family-now-supports-downloa-fedce946
+  - amazon-cloudwatch-logs-insights-now-lets-b8d7fdda
+  - amazon-elasticache-serverless-for-valkey-b4f4b120
