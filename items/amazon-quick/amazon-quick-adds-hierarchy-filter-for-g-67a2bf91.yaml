@@ -1,0 +1,44 @@
+id: amazon-quick-adds-hierarchy-filter-for-g-67a2bf91
+sourceId: amazon-quick
+title: Amazon Quick adds Hierarchy Filter for guided dashboard drill-down
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/quick-hierarchy-filter
+publishedAt: 2026-09-30T15:00:00.000Z
+fetchedAt: 2026-10-01T21:14:12.221Z
+summary: |-
+  <p>Amazon Quick now supports the hierarchy filter, a single control that lets readers drill through related dimensions such as Region, Country, and City. It replaces several stacked filter controls with one, cutting clutter and guiding readers to their data in fewer clicks.</p>
+  <p>The filter holds up to five dimension levels, arranged broadest to most detailed. Readers open one dropdown and expand each level in turn, with every selection narrowing the next and auto-selecting its parent chain. Authors create it by adding a filter, setting its type to Hierarchy filter, and arranging the fields parent to child.</p>
+  <p>For a retail sales dashboard, instead of stacking Region, Country, and City controls side by side, an author adds one hierarchy filter. A reader expands a region to see its countries, then a country to see its cities, selecting any mix along the way. The relationships are visible in the control, so readers do not need to know which country belongs to which region.</p>
+  <p>The hierarchy filter is available today in all <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html" target="_blank" rel="noopener noreferrer">AWS Regions where Amazon Quick is supported</a>. To see how it works, read the <a href="https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/" target="_blank">blog post</a>. To learn more, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/hierarchy-filter.html" target="_blank" rel="noopener noreferrer">Hierarchy filters</a> in the Amazon Quick User Guide.</p>
+raw:
+  id: whats-new-v2#launch-nalrspjaca1bkxa5txbspg
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-nalrspjaca1bkxa5txbspg
+  dateCreated: 2026-10-01T04:41:11+0000
+  dateUpdated: 2026-10-01T17:00:06+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Amazon Quick now supports the hierarchy filter, a single control that lets readers drill through related dimensions such as Region, Country, and City. It replaces several stacked filter controls with one, cutting clutter and guiding readers to their data in fewer clicks.</p>
+      <p>The filter holds up to five dimension levels, arranged broadest to most detailed. Readers open one dropdown and expand each level in turn, with every selection narrowing the next and auto-selecting its parent chain. Authors create it by adding a filter, setting its type to Hierarchy filter, and arranging the fields parent to child.</p>
+      <p>For a retail sales dashboard, instead of stacking Region, Country, and City controls side by side, an author adds one hierarchy filter. A reader expands a region to see its countries, then a country to see its cities, selecting any mix along the way. The relationships are visible in the control, so readers do not need to know which country belongs to which region.</p>
+      <p>The hierarchy filter is available today in all <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html" target="_blank" rel="noopener noreferrer">AWS Regions where Amazon Quick is supported</a>. To see how it works, read the <a href="https://aws.amazon.com/blogs/machine-learning/simplify-dashboard-drill-down-with-the-amazon-quick-sight-hierarchy-filter/" target="_blank">blog post</a>. To learn more, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/hierarchy-filter.html" target="_blank" rel="noopener noreferrer">Hierarchy filters</a> in the Amazon Quick User Guide.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/09/quick-hierarchy-filter
+    postDateTime: 2026-09-30T15:00:00Z
+    headline: Amazon Quick adds Hierarchy Filter for guided dashboard drill-down
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-10-01T21:14:18.441Z
+  feedback: []
