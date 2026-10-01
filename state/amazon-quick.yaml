@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-09-30T21:13:33.611Z
-lastEtag: sha256:f9db342bf701ffc5e1d7c4dc980d2a9e74593b45355f1a788ae7a102678cfdb3
+lastFetchedAt: 2026-10-01T21:14:12.221Z
+lastEtag: sha256:f763a8e139088fdde5280f787dbf1cb18c52bc6ace469fb81a41fb803fc436a6
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22022,3 +22022,25 @@ lastSeenIds:
   - aws-transfer-family-now-supports-downloa-fedce946
   - amazon-cloudwatch-logs-insights-now-lets-b8d7fdda
   - amazon-elasticache-serverless-for-valkey-b4f4b120
+  - amazon-quick-adds-hierarchy-filter-for-g-67a2bf91
+  - aws-well-architected-agent-is-now-availa-50a36b09
+  - amazon-dynamodb-introduces-filtered-expo-20d5f49f
+  - amazon-dynamodb-accelerator-dax-is-now-a-b77df9e9
+  - amazon-guardduty-now-supports-centralize-44246caf
+  - amazon-corretto-8-september-2026-patch-u-15e18ac6
+  - amazon-s3-object-lock-variable-retention-c4c9e16d
+  - aws-glue-data-catalog-now-supports-table-cf2486fd
+  - serverless-storage-on-amazon-emr-serverl-0b2e9c73
+  - announcing-dns-analytics-and-insights-fo-8a48dd5d
+  - aws-iam-identity-center-extends-multi-re-c57100d8
+  - improve-your-secrets-security-posture-wi-9e045059
+  - amazon-s3-tables-now-support-up-to-100-t-e17142e7
+  - amazon-workspaces-core-managed-instances-c516e030
+  - apache-iceberg-materialized-views-now-su-482b59a0
+  - amazon-managed-grafana-now-supports-crea-f9a2152a
+  - aws-parallel-computing-service-now-suppo-d82eaeca
+  - amazon-bedrock-expands-claude-models-in-f3f2bb71
+  - aws-iam-identity-center-identity-store-a-e40a02f4
+  - amazon-redshift-simplifies-access-to-sec-f9f8e1f2
+  - amazon-kinesis-video-streams-now-support-23a2ee9d
+  - amazon-s3-tables-now-support-all-apache-14a51fef
