@@ -1,0 +1,44 @@
+id: amazon-quick-now-supports-live-data-from-35b3e169
+sourceId: amazon-quick
+title: Amazon Quick now supports live data from your datasets in apps
+url: https://aws.amazon.com/about-aws/whats-new/2026/09/live-data-in-apps
+publishedAt: 2026-09-30T15:00:00.000Z
+fetchedAt: 2026-10-02T21:13:46.152Z
+summary: |-
+  <p>Today, Amazon Quick adds support for building applications that use live data directly from your Quick datasets, so the KPIs, charts, tables, and insights in your application always reflect the latest data. These applications go beyond viewing data. They facilitate intelligent, data-driven business operations workflows where each person can act on what they see, from handling requests and approvals to triggering the next step. Each application user sees data under their own Amazon Quick permissions, so the row-level and column-level security you already set up is applied.</p>
+  <p>To build one, give the app builder chat agent the name of the dataset you want to use and describe in plain language what you want to build. This lets you enrich an application, such as a team portal that handles requests and approvals and now also shows current pipeline numbers, where each application user sees only the data their permissions allow.</p>
+  <p>This feature is available in <a href="https://docs.aws.amazon.com/quick/latest/userguide/apps-limitations.html#apps-regional-availability">all supported regions of apps in Amazon Quick</a>. To see how it works, read the&nbsp;<a href="https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/" target="_blank">blog post</a>. To learn more, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/connecting-datasets-apps.html" target="_blank" rel="noopener noreferrer">Connecting to datasets</a>&nbsp;in the Amazon Quick User Guide.<i></i></p>
+  <h2>&nbsp;</h2>
+raw:
+  id: whats-new-v2#be84f691-fb77-4dcb-9a84-21bc87279015
+  locale: en_US
+  directoryId: whats-new-v2
+  name: be84f691-fb77-4dcb-9a84-21bc87279015
+  dateCreated: 2026-09-30T22:47:07+0000
+  dateUpdated: 2026-10-02T02:28:12+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Today, Amazon Quick adds support for building applications that use live data directly from your Quick datasets, so the KPIs, charts, tables, and insights in your application always reflect the latest data. These applications go beyond viewing data. They facilitate intelligent, data-driven business operations workflows where each person can act on what they see, from handling requests and approvals to triggering the next step. Each application user sees data under their own Amazon Quick permissions, so the row-level and column-level security you already set up is applied.</p>
+      <p>To build one, give the app builder chat agent the name of the dataset you want to use and describe in plain language what you want to build. This lets you enrich an application, such as a team portal that handles requests and approvals and now also shows current pipeline numbers, where each application user sees only the data their permissions allow.</p>
+      <p>This feature is available in <a href="https://docs.aws.amazon.com/quick/latest/userguide/apps-limitations.html#apps-regional-availability">all supported regions of apps in Amazon Quick</a>. To see how it works, read the&nbsp;<a href="https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/" target="_blank">blog post</a>. To learn more, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/connecting-datasets-apps.html" target="_blank" rel="noopener noreferrer">Connecting to datasets</a>&nbsp;in the Amazon Quick User Guide.<i></i></p>
+      <h2>&nbsp;</h2>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/09/live-data-in-apps
+    postDateTime: 2026-09-30T15:00:00Z
+    headline: Amazon Quick now supports live data from your datasets in apps
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-10-02T21:13:53.060Z
+  feedback: []
