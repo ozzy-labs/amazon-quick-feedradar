@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-01T21:14:12.221Z
-lastEtag: sha256:f763a8e139088fdde5280f787dbf1cb18c52bc6ace469fb81a41fb803fc436a6
+lastFetchedAt: 2026-10-02T21:13:46.152Z
+lastEtag: sha256:50a922a6819f4e0c0d0ab084ba8dbeea6ec127b2b859ba8f62a455aaea92a61d
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22044,3 +22044,17 @@ lastSeenIds:
   - amazon-redshift-simplifies-access-to-sec-f9f8e1f2
   - amazon-kinesis-video-streams-now-support-23a2ee9d
   - amazon-s3-tables-now-support-all-apache-14a51fef
+  - amazon-quick-now-supports-live-data-from-35b3e169
+  - aws-health-introduces-the-version-catalo-945af4ee
+  - amazon-aurora-dsql-now-supports-partial-dfc66604
+  - amazon-eks-and-amazon-eks-distro-now-sup-5823093b
+  - aws-brazil-automates-distribution-of-non-15c055b7
+  - the-aws-mcp-server-is-now-available-in-s-418a3162
+  - agentcore-gateway-supports-private-tls-c-b6ff79f5
+  - amazon-elasticache-for-valkey-now-suppor-4bfb62e4
+  - guardduty-runtime-monitoring-is-now-incl-7a913e55
+  - amazon-redshift-now-supports-cross-regio-ebd8a08d
+  - aws-security-hub-introduces-remediation-3bae4bc2
+  - aws-transfer-family-now-supports-custom-6b96e1fa
+  - aws-budgets-now-supports-email-verificat-edb3b398
+  - aws-continuum-for-penetration-testing-no-8a695bc1
