@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-05T21:13:46.592Z
-lastEtag: sha256:ff5856bf849cd42b8436f4d5f40a259943bb9cddbba0f7ac2d5e06ae2609cf6b
+lastFetchedAt: 2026-10-06T21:14:51.008Z
+lastEtag: sha256:6a1a21278fa48fe272b034d7580a58b8a9b4272c9df72d3decf8f362ab8a7651
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22063,3 +22063,14 @@ lastSeenIds:
   - aws-batch-now-supports-amazon-eks-access-c47a0351
   - aws-private-ca-now-provides-detailed-cer-7ad37e24
   - amazon-q-developer-now-delivers-enhanced-46fdedcb
+  - aws-batch-now-publishes-job-metrics-to-a-93fde4f9
+  - aws-certificate-manager-now-supports-acm-937f0beb
+  - amazon-redshift-adds-support-for-creatin-3a977302
+  - glm-5-3-by-z-ai-is-now-generally-availab-a811fb0c
+  - aws-iam-identity-center-now-supports-net-ba91de16
+  - aws-control-tower-aft-now-supports-plan-bb18e9a2
+  - aws-continuum-for-penetration-testing-no-acbf870e
+  - amazon-ec2-introduces-shared-tags-for-am-ad9fb27e
+  - aws-client-vpn-now-supports-device-postu-875d2901
+  - announcing-amazon-nova-2-5-sonic-with-im-730587ae
+  - amazon-eks-auto-mode-now-supports-advanc-29e27c73
