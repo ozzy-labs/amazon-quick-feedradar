@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-06T21:14:51.008Z
-lastEtag: sha256:6a1a21278fa48fe272b034d7580a58b8a9b4272c9df72d3decf8f362ab8a7651
+lastFetchedAt: 2026-10-07T21:13:19.989Z
+lastEtag: sha256:f83919885008ceb11166420374ac210dbc42deb86e309dbd5922a41588ad4d59
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22074,3 +22074,8 @@ lastSeenIds:
   - aws-client-vpn-now-supports-device-postu-875d2901
   - announcing-amazon-nova-2-5-sonic-with-im-730587ae
   - amazon-eks-auto-mode-now-supports-advanc-29e27c73
+  - aws-capabilities-by-region-now-offers-av-f53611b7
+  - aws-config-now-supports-77-new-resource-aad64930
+  - claude-haiku-5-5-is-now-available-on-aws-b94f4c6d
+  - claude-haiku-5-5-is-now-available-on-aws-cfda073c
+  - amazon-ec2-hpc8a-instances-are-now-avail-c4810f49
