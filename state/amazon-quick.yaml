@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-07T21:13:19.989Z
-lastEtag: sha256:f83919885008ceb11166420374ac210dbc42deb86e309dbd5922a41588ad4d59
+lastFetchedAt: 2026-10-08T21:14:08.877Z
+lastEtag: sha256:a5c258f76e40c29ff1ad307ff3000688e78d02a540c81065bdb0e703ccc9be60
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22079,3 +22079,5 @@ lastSeenIds:
   - claude-haiku-5-5-is-now-available-on-aws-b94f4c6d
   - claude-haiku-5-5-is-now-available-on-aws-cfda073c
   - amazon-ec2-hpc8a-instances-are-now-avail-c4810f49
+  - amazon-ec2-c8gb-instances-now-generally-c8a614fc
+  - amazon-opensearch-service-introduces-val-8631ddf1
