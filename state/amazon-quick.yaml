@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-08T21:14:08.877Z
-lastEtag: sha256:a5c258f76e40c29ff1ad307ff3000688e78d02a540c81065bdb0e703ccc9be60
+lastFetchedAt: 2026-10-09T21:13:47.075Z
+lastEtag: sha256:bdb6b039ea6773b5cbb3bb12ab8bc221c3017bfc640bcd5239462bafdb3049de
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22081,3 +22081,19 @@ lastSeenIds:
   - amazon-ec2-hpc8a-instances-are-now-avail-c4810f49
   - amazon-ec2-c8gb-instances-now-generally-c8a614fc
   - amazon-opensearch-service-introduces-val-8631ddf1
+  - amazon-quick-now-supports-brand-template-121f7318
+  - amazon-ec2-r8gd-instances-are-now-availa-33bdaeeb
+  - amazon-ec2-r8g-instances-now-available-i-024ed45e
+  - amazon-bedrock-now-supports-reasoning-su-9eb30f9f
+  - anthropic-claude-sonnet-5-5-and-claude-o-ac2e6853
+  - amazon-connect-customer-now-provides-aut-6e2bf145
+  - amazon-s3-vectors-metadata-pre-filtering-d5d39c37
+  - aws-lambda-supports-oauth-authentication-c6150b92
+  - amazon-sagemaker-unified-studio-now-supp-3e31da04
+  - twelvelabs-pegasus-1-5-model-now-availab-fb243de9
+  - openai-gpt-6-1-sol-now-supports-ultrafas-72b3e804
+  - aws-cost-explorer-budgets-and-dashboards-ce6a3be4
+  - amazon-rds-for-oracle-now-supports-minor-0f3ec87a
+  - aws-network-firewall-adds-wildcard-suppo-91306630
+  - amazon-gamelift-servers-adds-cpu-burstab-edf59dc3
+  - amazon-guardduty-rds-protection-now-dete-9a885d6c
