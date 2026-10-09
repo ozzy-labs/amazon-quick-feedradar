@@ -1,0 +1,48 @@
+id: amazon-quick-now-supports-brand-template-121f7318
+sourceId: amazon-quick
+title: Amazon Quick now supports brand templates for on-brand presentations and
+  documents
+url: https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/
+publishedAt: 2026-10-09T15:00:00.000Z
+fetchedAt: 2026-10-09T21:13:47.075Z
+summary: |-
+  <p>Starting today, you can upload brand templates in Amazon Quick, allowing you to create presentations and documents that match your approved visual identity. Brand managers set up a template once and everyone gets on-brand output, without hunting for the right file in each chat.</p>
+  <p>Brand managers upload PowerPoint or Word templates, or pull them from a connected file store such as SharePoint. Quick extracts the colors, fonts, logos, layouts and brand rules from each file. A brand manager reviews and edits what Quick found before publishing it to the whole organization.</p>
+  <p>Quick also follows a template's rules as it creates new assets. If a request breaks a rule, Quick explains why and suggests an on-brand alternative. For each task, Quick picks the best-fit template based on guidance the brand manager writes. Users can still choose a different template.</p>
+  <p>Administrators decide who can create and publish brand templates using custom permissions, ensuring that only the proper members of brand, marketing, or other approved teams can set visual standards.&nbsp;</p>
+  <p>Brand assets are generally available today in the Amazon Quick desktop app. To learn more, see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/brand-assets-desktop.html" target="_blank">Amazon Quick documentation,</a> or <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost&amp;additionalState=ampDeviceId%3Da8b6426f-6802-4b96-8ebb-e39fff4fab5f%26ampSessionId%3D1791568256376#/validation&amp;refid=0ea79374-057c-4897-84f0-5fe792905a8f">create an account for free</a> and start using Quick in minutes.</p>
+raw:
+  id: whats-new-v2#launch-psjcdtbzsc16pwbb5wsfzg
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-psjcdtbzsc16pwbb5wsfzg
+  dateCreated: 2026-10-09T19:57:57+0000
+  dateUpdated: 2026-10-09T19:57:57+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    postBody: |
+      <p>Starting today, you can upload brand templates in Amazon Quick, allowing you to create presentations and documents that match your approved visual identity. Brand managers set up a template once and everyone gets on-brand output, without hunting for the right file in each chat.</p>
+      <p>Brand managers upload PowerPoint or Word templates, or pull them from a connected file store such as SharePoint. Quick extracts the colors, fonts, logos, layouts and brand rules from each file. A brand manager reviews and edits what Quick found before publishing it to the whole organization.</p>
+      <p>Quick also follows a template's rules as it creates new assets. If a request breaks a rule, Quick explains why and suggests an on-brand alternative. For each task, Quick picks the best-fit template based on guidance the brand manager writes. Users can still choose a different template.</p>
+      <p>Administrators decide who can create and publish brand templates using custom permissions, ensuring that only the proper members of brand, marketing, or other approved teams can set visual standards.&nbsp;</p>
+      <p>Brand assets are generally available today in the Amazon Quick desktop app. To learn more, see the <a href="https://docs.aws.amazon.com/quick/latest/userguide/brand-assets-desktop.html" target="_blank">Amazon Quick documentation,</a> or <a href="https://portal.aws.amazon.com/billing/signup/service?app=AmazonQuickSuite&amp;tier=free&amp;funnel=boost&amp;additionalState=ampDeviceId%3Da8b6426f-6802-4b96-8ebb-e39fff4fab5f%26ampSessionId%3D1791568256376#/validation&amp;refid=0ea79374-057c-4897-84f0-5fe792905a8f">create an account for free</a> and start using Quick in minutes.</p>
+    nosnippet: "0"
+    headlineUrl: /about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/
+    postDateTime: 2026-10-09T15:00:00Z
+    headline: Amazon Quick now supports brand templates for on-brand presentations
+      and documents
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-10-09T21:13:54.012Z
+  feedback: []
