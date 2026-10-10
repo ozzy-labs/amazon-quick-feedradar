@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-09T21:13:47.075Z
-lastEtag: sha256:bdb6b039ea6773b5cbb3bb12ab8bc221c3017bfc640bcd5239462bafdb3049de
+lastFetchedAt: 2026-10-10T21:13:00.103Z
+lastEtag: sha256:db834b1c46b57d3dba0c2d75484606dbe0a304684f2263b8f595ecc90850346d
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22097,3 +22097,4 @@ lastSeenIds:
   - aws-network-firewall-adds-wildcard-suppo-91306630
   - amazon-gamelift-servers-adds-cpu-burstab-edf59dc3
   - amazon-guardduty-rds-protection-now-dete-9a885d6c
+  - aws-security-hub-now-exports-findings-to-6dbf0889
