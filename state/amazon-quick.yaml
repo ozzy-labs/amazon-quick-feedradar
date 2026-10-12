@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-11T21:14:07.849Z
-lastEtag: sha256:4dda89efda497080100fa3e2a1960ebd427baa13e1f18896129762299f042d6e
+lastFetchedAt: 2026-10-12T21:13:50.651Z
+lastEtag: sha256:343b8d860679b61f6605862a5a6e1b75f2c7ad2c13c8b6ab9856b34bf8581187
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22098,3 +22098,7 @@ lastSeenIds:
   - amazon-gamelift-servers-adds-cpu-burstab-edf59dc3
   - amazon-guardduty-rds-protection-now-dete-9a885d6c
   - aws-security-hub-now-exports-findings-to-6dbf0889
+  - aws-transfer-family-supports-custom-port-24f934f3
+  - aws-secrets-manager-adds-managed-externa-89b170a7
+  - amazon-elasticache-for-valkey-introduces-d1c86cbb
+  - amazon-opensearch-service-now-supports-i-b6ecd0a3
