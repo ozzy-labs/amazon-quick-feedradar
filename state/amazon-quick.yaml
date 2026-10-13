@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-12T21:13:50.651Z
-lastEtag: sha256:343b8d860679b61f6605862a5a6e1b75f2c7ad2c13c8b6ab9856b34bf8581187
+lastFetchedAt: 2026-10-13T21:14:03.108Z
+lastEtag: sha256:477ca68721260d5e4c81350cc945a2c4dfa82e0d0695af68795639a5f6c99700
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22102,3 +22102,16 @@ lastSeenIds:
   - aws-secrets-manager-adds-managed-externa-89b170a7
   - amazon-elasticache-for-valkey-introduces-d1c86cbb
   - amazon-opensearch-service-now-supports-i-b6ecd0a3
+  - amazon-dcv-releases-version-2026-0-with-24747aab
+  - aws-deadline-cloud-now-helps-users-find-23f51478
+  - bring-deep-sagemaker-ai-expertise-to-you-8442f668
+  - aws-datasync-enhanced-mode-now-supports-8506d0c3
+  - amazon-rds-now-supports-the-latest-cu-fo-d682ea6c
+  - amazon-cloudfront-now-supports-aws-lambd-9f29099a
+  - amazon-ec2-g7-instances-now-available-in-c6b6c048
+  - amazon-connect-customer-now-prefills-ste-58aa0c2f
+  - aws-lambda-announces-lambda-web-function-dfceac16
+  - announcing-consumption-based-pricing-for-9a07ffbe
+  - amazon-s3-express-one-zone-is-now-availa-1eae15ff
+  - amazon-emr-now-supports-native-data-qual-5040d687
+  - aws-now-lets-customers-sign-up-for-aws-a-0f04354a
