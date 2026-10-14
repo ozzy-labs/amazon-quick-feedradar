@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-13T21:14:03.108Z
-lastEtag: sha256:477ca68721260d5e4c81350cc945a2c4dfa82e0d0695af68795639a5f6c99700
+lastFetchedAt: 2026-10-14T21:13:44.629Z
+lastEtag: sha256:b0dd4450ca416d9b08cfb2ae709c6a8b7af99fb9263068093f164ab71ae45248
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22115,3 +22115,18 @@ lastSeenIds:
   - amazon-s3-express-one-zone-is-now-availa-1eae15ff
   - amazon-emr-now-supports-native-data-qual-5040d687
   - aws-now-lets-customers-sign-up-for-aws-a-0f04354a
+  - aws-license-manager-now-supports-license-c1ac4684
+  - amazon-sagemaker-studio-simplifies-getti-27182ddc
+  - aws-healthomics-introduces-resource-fall-a821a111
+  - aws-backup-now-supports-amazon-fsx-file-ee1a4c83
+  - amazon-rds-proxy-now-supports-sql-server-aba9be7a
+  - amazon-s3-is-now-available-on-the-vercel-77174a21
+  - aws-security-hub-now-supports-resource-c-5a6bd01e
+  - amazon-ecs-adds-livetaskcount-and-remove-219b10f8
+  - aws-lambda-durable-functions-increases-d-d7a406c0
+  - aws-agent-registry-now-supports-custom-m-a5378e54
+  - amazon-location-service-launches-an-inte-a45cb1a2
+  - amazon-route-53-now-supports-registratio-1f04c99e
+  - amazon-ec2-m8id-instances-now-available-4bacc666
+  - amazon-ec2-c9g-c9gd-m9g-and-m9gd-instanc-b317e385
+  - amazon-ec2-c8gd-and-m8gd-instances-are-n-328ae6d4
