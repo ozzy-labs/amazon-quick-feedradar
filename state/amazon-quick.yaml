@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-14T21:13:44.629Z
-lastEtag: sha256:b0dd4450ca416d9b08cfb2ae709c6a8b7af99fb9263068093f164ab71ae45248
+lastFetchedAt: 2026-10-15T21:13:31.002Z
+lastEtag: sha256:81c59b183d99b18151e2ad848f9103bd65c1170cc3d5bf5f1eb795ba08b4377f
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22130,3 +22130,27 @@ lastSeenIds:
   - amazon-ec2-m8id-instances-now-available-4bacc666
   - amazon-ec2-c9g-c9gd-m9g-and-m9gd-instanc-b317e385
   - amazon-ec2-c8gd-and-m8gd-instances-are-n-328ae6d4
+  - amazon-ec2-t8i-instances-are-now-availab-68e0ae8e
+  - amazon-dynamodb-streams-now-supports-tim-4fc385c0
+  - aws-lambda-durable-execution-sdk-for-go-eee727d6
+  - muse-spark-open-model-now-available-on-a-43ba9d0c
+  - aws-healthomics-now-supports-shared-vpcs-dfcac6f9
+  - amazon-time-sync-service-adds-support-fo-ef90c08f
+  - aws-transform-for-full-stack-windows-mod-27a723e7
+  - amazon-msk-connect-and-aws-glue-schema-r-b1b8fc8a
+  - amazon-cloudfront-announces-dual-stack-s-e6f8e27f
+  - postgresql-19-rc1-is-now-available-in-am-65e5509a
+  - amazon-redshift-long-term-system-table-r-8a261542
+  - amazon-s3-metadata-now-available-in-six-3d869e09
+  - aws-security-hub-cspm-now-supports-the-c-41d0b0fb
+  - amazon-managed-service-for-prometheus-co-221881e4
+  - amazon-managed-workflows-for-apache-airf-84067fb8
+  - launch-aws-devops-agent-to-review-findin-09e6ae13
+  - amazon-cloudwatch-announces-log-routing-cdf1d98c
+  - aws-healthomics-expands-container-regist-cbae3fd1
+  - aws-lambda-recursive-loop-detection-now-264fc13c
+  - arc-region-switch-adds-four-new-capabili-707320f4
+  - announcing-blockchain-snapshots-on-aws-f-de60304e
+  - aws-transfer-family-console-supports-svg-8f39b2bd
+  - aws-transfer-family-now-supports-aws-sec-1193b4ef
+  - amazon-rds-now-supports-the-latest-cumul-d682ea6c
