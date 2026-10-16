@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-15T21:13:31.002Z
-lastEtag: sha256:81c59b183d99b18151e2ad848f9103bd65c1170cc3d5bf5f1eb795ba08b4377f
+lastFetchedAt: 2026-10-16T21:13:35.985Z
+lastEtag: sha256:083862b0bd9ea083fb9b0349d96c1d6aa68dadefd89e2fe941b4143a05e943bc
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22154,3 +22154,15 @@ lastSeenIds:
   - aws-transfer-family-console-supports-svg-8f39b2bd
   - aws-transfer-family-now-supports-aws-sec-1193b4ef
   - amazon-rds-now-supports-the-latest-cumul-d682ea6c
+  - aws-lambda-durable-functions-are-now-ava-c1e9533d
+  - nemotron-3-5-super-vl-model-now-availabl-1e2846aa
+  - beam-model-by-reflection-is-now-availabl-d44c9107
+  - aws-transform-announces-azure-to-aws-clo-0599f118
+  - second-generation-aws-outposts-racks-now-5295e62f
+  - aws-end-user-messaging-adds-registration-a9769543
+  - aws-end-user-messaging-now-supports-bran-2f50d517
+  - aws-end-user-messaging-now-offers-manage-e3b521fe
+  - aws-end-user-messaging-adds-a-guided-wiz-4ef187c9
+  - web-search-on-amazon-bedrock-agentcore-e-f906df06
+  - aws-transform-for-migrations-is-now-avai-a6f110bd
+  - oracle-database-aws-supports-aggregate-a-c5b24506
