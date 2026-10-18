@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-17T21:11:23.027Z
-lastEtag: sha256:8d53ff82f3a69f80b3a294778c3cd433b3de407629dd09d88881ee17164cb120
+lastFetchedAt: 2026-10-18T21:11:43.279Z
+lastEtag: sha256:d914e68bea9d0082c39aff0e672e063e842b8c0773229fcb656690a54a6b9cfe
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22167,3 +22167,4 @@ lastSeenIds:
   - aws-transform-for-migrations-is-now-avai-a6f110bd
   - oracle-database-aws-supports-aggregate-a-c5b24506
   - amazon-cloudwatch-log-centralization-now-09324f51
+  - amazon-braket-now-in-scope-for-fedramp-c-0c31d1c2
