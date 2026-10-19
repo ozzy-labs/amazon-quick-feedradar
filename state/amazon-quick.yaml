@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-18T21:11:43.279Z
-lastEtag: sha256:d914e68bea9d0082c39aff0e672e063e842b8c0773229fcb656690a54a6b9cfe
+lastFetchedAt: 2026-10-19T21:12:41.775Z
+lastEtag: sha256:f5184ee7b2a5d0ad5d555c014507b7b2e2f53d7cadbaf982216cdaed9d7502a1
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22168,3 +22168,8 @@ lastSeenIds:
   - oracle-database-aws-supports-aggregate-a-c5b24506
   - amazon-cloudwatch-log-centralization-now-09324f51
   - amazon-braket-now-in-scope-for-fedramp-c-0c31d1c2
+  - amazon-cloudwatch-omni-is-now-available-36894f99
+  - ec2-image-builder-now-integrates-with-as-7bd7b93c
+  - amazon-guardduty-adds-optional-threat-de-6e1496d1
+  - grok-4-7-is-now-available-on-amazon-bedr-723940f8
+  - aws-partner-central-adds-solution-matchi-b2dcc73d
