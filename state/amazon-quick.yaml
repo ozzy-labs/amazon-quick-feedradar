@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-19T21:12:41.775Z
-lastEtag: sha256:f5184ee7b2a5d0ad5d555c014507b7b2e2f53d7cadbaf982216cdaed9d7502a1
+lastFetchedAt: 2026-10-20T21:12:20.475Z
+lastEtag: sha256:52ca08a30b01caf885d6589d59a9f75a80d4117b67015813ccaf65342e794520
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22173,3 +22173,16 @@ lastSeenIds:
   - amazon-guardduty-adds-optional-threat-de-6e1496d1
   - grok-4-7-is-now-available-on-amazon-bedr-723940f8
   - aws-partner-central-adds-solution-matchi-b2dcc73d
+  - polly-generative-engine-upgraded-with-mo-d103d445
+  - aws-announces-torchneuron-native-pytorch-b8490b18
+  - structured-outputs-for-claude-models-ava-63cec219
+  - aws-clean-rooms-now-supports-databricks-be780e12
+  - aws-iam-identity-center-simplifies-ident-ccad9012
+  - aws-partner-central-launches-program-nav-f0152403
+  - aws-transform-for-migrations-expands-sup-fa94ba3c
+  - amazon-connect-customer-global-resilienc-5fa9bd74
+  - aws-iam-identity-center-now-supports-opt-d37164c4
+  - aws-elemental-mediaconnect-router-now-su-dfa66f27
+  - amazon-rds-custom-now-supports-the-lates-50fc8c4a
+  - amazon-rds-for-sql-server-now-supports-s-96e0d68c
+  - amazon-emr-serverless-now-supports-ipv6-0829e638
