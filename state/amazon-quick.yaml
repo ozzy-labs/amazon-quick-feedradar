@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-20T21:12:20.475Z
-lastEtag: sha256:52ca08a30b01caf885d6589d59a9f75a80d4117b67015813ccaf65342e794520
+lastFetchedAt: 2026-10-21T21:11:12.949Z
+lastEtag: sha256:59d5b32d43289dd3031a1be6c961472cd14ad798cec26ee98030834751f9366c
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22186,3 +22186,17 @@ lastSeenIds:
   - amazon-rds-custom-now-supports-the-lates-50fc8c4a
   - amazon-rds-for-sql-server-now-supports-s-96e0d68c
   - amazon-emr-serverless-now-supports-ipv6-0829e638
+  - aws-transform-adds-storage-migration-ass-b69867bf
+  - aws-direct-connect-announces-100g-expans-5bd4509d
+  - amazon-aurora-and-amazon-rds-now-support-9315c493
+  - amazon-cognito-extends-multi-region-repl-5e8650ed
+  - aws-neuron-2-33-adds-native-pytorch-supp-5ee78912
+  - amazon-connect-customer-launches-two-new-89e87c8f
+  - announcing-amazon-ecs-gateway-a-managed-dbf0b944
+  - amazon-dynamodb-global-tables-now-suppor-6e4bc98a
+  - amazon-workspaces-simplifies-secure-ai-a-71152d46
+  - amazon-bedrock-guardrails-now-supports-s-ac774e7c
+  - amazon-bedrock-advanced-prompt-optimizat-efcf7a67
+  - amazon-cloudwatch-alarms-now-supports-ta-371fe5c0
+  - amazon-elasticache-serverless-for-valkey-a520e4b7
+  - amazon-bedrock-agentcore-memory-now-supp-f017362c
