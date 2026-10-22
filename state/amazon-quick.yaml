@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-21T21:11:12.949Z
-lastEtag: sha256:59d5b32d43289dd3031a1be6c961472cd14ad798cec26ee98030834751f9366c
+lastFetchedAt: 2026-10-22T21:11:42.651Z
+lastEtag: sha256:a418ac6526ce965e1e11349bb23ff0cee98973d9ce448e158afb569c19388f78
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22200,3 +22200,15 @@ lastSeenIds:
   - amazon-cloudwatch-alarms-now-supports-ta-371fe5c0
   - amazon-elasticache-serverless-for-valkey-a520e4b7
   - amazon-bedrock-agentcore-memory-now-supp-f017362c
+  - amazon-quick-now-available-in-the-aws-si-e7218c06
+  - amazon-opensearch-serverless-now-support-b8d91f92
+  - aws-cloudformation-now-simplifies-stack-c4183de5
+  - amazon-sagemaker-ai-announces-training-s-3a97b9f4
+  - aws-announces-aws-interconnect-last-mile-a6a40b42
+  - amazon-sagemaker-ai-now-supports-serverl-3c60e8a4
+  - aws-lambda-microvms-is-now-available-in-c4605eec
+  - aws-service-reference-information-now-su-669e6913
+  - amazon-s3-server-access-log-delivery-to-165b5096
+  - aws-network-firewall-now-supports-route-58e6695a
+  - amazon-sagemaker-ai-now-supports-custom-ee57f8a6
+  - aws-transform-now-builds-new-networks-an-857c6b2b
