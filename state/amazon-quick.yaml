@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-22T21:11:42.651Z
-lastEtag: sha256:a418ac6526ce965e1e11349bb23ff0cee98973d9ce448e158afb569c19388f78
+lastFetchedAt: 2026-10-23T21:11:18.377Z
+lastEtag: sha256:84aab58159d729012e5d9ec53647476ee35c2be633728a8db69bb3a00f49eebb
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22212,3 +22212,14 @@ lastSeenIds:
   - aws-network-firewall-now-supports-route-58e6695a
   - amazon-sagemaker-ai-now-supports-custom-ee57f8a6
   - aws-transform-now-builds-new-networks-an-857c6b2b
+  - amazon-connect-customer-global-resilienc-428f667a
+  - aws-transit-gateway-and-aws-cloud-wan-no-9319897d
+  - amazon-corretto-october-2026-quarterly-u-723e8dc9
+  - amazon-emr-on-eks-reduces-emr-charge-by-64b54352
+  - amazon-mwaa-now-available-in-mexico-cent-21227083
+  - amazon-connect-customer-now-supports-cus-7f683748
+  - aws-continuum-for-code-vulnerabilities-i-8709a53a
+  - amazon-opensearch-service-introduces-int-453964a1
+  - aws-direct-connect-announces-100g-expans-e378dfa3
+  - amazon-msk-connect-now-supports-pausing-4c0facbf
+  - agentcore-gateway-now-supports-bedrock-i-2c6281c7
