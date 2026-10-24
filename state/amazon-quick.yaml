@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-23T21:11:18.377Z
-lastEtag: sha256:84aab58159d729012e5d9ec53647476ee35c2be633728a8db69bb3a00f49eebb
+lastFetchedAt: 2026-10-24T21:11:18.145Z
+lastEtag: sha256:9f7d447490eb5d1484f2524d15aa93f43263f12b3886b7887d603eb10f3a0f03
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22223,3 +22223,4 @@ lastSeenIds:
   - aws-direct-connect-announces-100g-expans-e378dfa3
   - amazon-msk-connect-now-supports-pausing-4c0facbf
   - agentcore-gateway-now-supports-bedrock-i-2c6281c7
+  - web-search-on-amazon-bedrock-now-support-4c98d0fb
