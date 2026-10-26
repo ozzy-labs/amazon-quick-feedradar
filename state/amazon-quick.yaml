@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-25T21:12:13.272Z
-lastEtag: sha256:7e13a2a311d6e950a081aca2f1b5f3255272b5fd1277b6c65812c236c15f5f26
+lastFetchedAt: 2026-10-26T21:12:55.730Z
+lastEtag: sha256:c5aa5ecbea0c7082776307e5e11ddb6cd845ba4dd5d96ea6350fb27c3e57a619
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22224,3 +22224,13 @@ lastSeenIds:
   - amazon-msk-connect-now-supports-pausing-4c0facbf
   - agentcore-gateway-now-supports-bedrock-i-2c6281c7
   - web-search-on-amazon-bedrock-now-support-4c98d0fb
+  - openai-gpt-6-1-terra-is-now-generally-av-a8986178
+  - amazon-workspaces-core-managed-instances-f5be8b42
+  - amazon-sagemaker-unified-studio-adds-lig-263d0c2d
+  - amazon-connect-customer-expands-testing-d723b745
+  - amazon-connect-customer-now-lets-you-vie-0e4d91e2
+  - amazon-connect-customer-now-measures-the-2802d8bd
+  - aws-iam-identity-center-now-supports-cro-9a9b222d
+  - aws-ec2-auto-scaling-now-supports-launch-2720060d
+  - aws-key-management-service-now-supports-1f9d8291
+  - amazon-rds-now-supports-the-latest-cumul-207106b4
