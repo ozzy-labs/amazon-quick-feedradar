@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-26T21:12:55.730Z
-lastEtag: sha256:c5aa5ecbea0c7082776307e5e11ddb6cd845ba4dd5d96ea6350fb27c3e57a619
+lastFetchedAt: 2026-10-27T21:13:32.120Z
+lastEtag: sha256:050e8e76fd7f5873be8e590b4b44366740075a1922b23a719afa5a94508fb56c
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22234,3 +22234,10 @@ lastSeenIds:
   - aws-ec2-auto-scaling-now-supports-launch-2720060d
   - aws-key-management-service-now-supports-1f9d8291
   - amazon-rds-now-supports-the-latest-cumul-207106b4
+  - amazon-aurora-serverless-now-supports-up-c20b2def
+  - amazon-corretto-october-2026-patch-updat-bcfbfa24
+  - amazon-ecr-now-supports-replication-back-5ab351c9
+  - amazon-ivs-low-latency-streaming-now-pro-3f9de9e9
+  - aws-elemental-mediaconnect-router-now-su-f42ef706
+  - aws-glue-data-catalog-now-supports-oauth-09f13e25
+  - amazon-connect-customer-now-enables-you-cd48cafe
