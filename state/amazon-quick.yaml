@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-27T21:13:32.120Z
-lastEtag: sha256:050e8e76fd7f5873be8e590b4b44366740075a1922b23a719afa5a94508fb56c
+lastFetchedAt: 2026-10-29T21:12:39.211Z
+lastEtag: sha256:7a9d5042a876a9526589bc372db7b564b326a4f3b5a0aabb71718b0cd5ebb130
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22241,3 +22241,27 @@ lastSeenIds:
   - aws-elemental-mediaconnect-router-now-su-f42ef706
   - aws-glue-data-catalog-now-supports-oauth-09f13e25
   - amazon-connect-customer-now-enables-you-cd48cafe
+  - quick-now-supports-smart-approvals-for-a-331dcf02
+  - amazon-rds-for-oracle-and-sql-server-now-7e2773b4
+  - aws-step-functions-workflows-now-availab-6a3a296c
+  - amazon-dynamodb-accelerator-dax-is-now-a-1b95868f
+  - acm-now-supports-acme-for-public-certifi-f596c3bd
+  - amazon-rds-for-oracle-now-supports-septe-de47314c
+  - amazon-bedrock-agentcore-cli-version-1-0-e2d68c85
+  - public-endpoints-for-amazon-elasticache-5b6ce599
+  - aws-lambda-supports-seekable-oci-soci-la-76c62470
+  - introducing-time-series-collections-for-33531d07
+  - amazon-eks-dashboard-now-provides-fleet-9a6796e3
+  - amazon-ecs-managed-instances-adds-cross-f26ecba2
+  - aws-lambda-durable-functions-now-exports-0cd83317
+  - amazon-eks-auto-mode-now-supports-kubern-e70cc60c
+  - aws-backup-adds-restore-testing-support-7f89945c
+  - announcing-the-aws-marketplace-and-amazo-111a8b93
+  - aws-agent-registry-is-now-available-in-f-eb83f0e6
+  - aws-iam-identity-center-s-identity-store-d6882d17
+  - amazon-ecs-now-supports-gpu-sharing-with-ebc4a158
+  - sagemaker-mlflow-apps-now-support-mlflow-73c0e6a9
+  - amazon-connect-customer-supports-inline-84a4ff2f
+  - amazon-elasticache-expands-data-tiering-80694a8a
+  - amazon-elasticache-for-valkey-now-suppor-96ccd7c8
+  - amazon-neptune-now-supports-online-index-8904dce1

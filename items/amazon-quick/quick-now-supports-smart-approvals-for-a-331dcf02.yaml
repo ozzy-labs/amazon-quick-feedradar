@@ -1,0 +1,46 @@
+id: quick-now-supports-smart-approvals-for-a-331dcf02
+sourceId: amazon-quick
+title: Quick now supports smart approvals for agentic actions
+url: https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/
+publishedAt: 2026-10-28T18:28:00.000Z
+fetchedAt: 2026-10-29T21:12:39.211Z
+summary: |-
+  <p>Amazon Quick now supports smart approvals, a review layer that reduces unnecessary approval prompts while preserving human oversight of the actions that matter most. As agents take more actions on a user's behalf, such as sending email, updating records, and creating tickets, asking a person to approve every step leads to approval fatigue and weaker oversight over time. With smart approvals, a separate review model called the classifier evaluates each eligible action against the user's request. It approves routine actions automatically and refers consequential actions to the user for review.</p>
+  <p>Your existing policies always come first. Smart approvals only reviews actions where the user's setting is &quot;ask&quot; each time. Denied actions stay denied, and smart approvals never grants new access. The classifier sends higher-impact actions to the user for review. These include sending content outside the organization, changing permissions, deleting content, making payments, and actions that go beyond what the user asked for. Each automatic approval covers only the exact action that was reviewed. If a review fails or times out, the action goes to the user.</p>
+  <p>Smart approvals is on for all users by default. Administrators control who can use it with custom permissions, and users can turn it off for their conversations and scheduled runs in chat options. AWS CloudTrail records each action review made through smart approvals and each change to a user's smart approvals setting.</p>
+  <p>Smart approvals is available in Amazon Quick in all AWS Regions where Amazon Quick agentic capabilities are supported. For more information, see the <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Region table</a>.</p>
+  <p>To learn more about smart approvals, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/smart-approvals.html" target="_blank" rel="noopener noreferrer">smart approvals</a> in the Amazon Quick User Guide. For more information about Amazon Quick, see the <a href="https://aws.amazon.com/quick/" target="_blank" rel="noopener noreferrer">Amazon Quick product page</a>.</p>
+raw:
+  id: whats-new-v2#launch-hzgkwoo83mukuk1npcvq8w
+  locale: en_US
+  directoryId: whats-new-v2
+  name: launch-hzgkwoo83mukuk1npcvq8w
+  dateCreated: 2026-10-28T20:10:53+0000
+  dateUpdated: 2026-10-28T20:10:53+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p>Amazon Quick now supports smart approvals, a review layer that reduces unnecessary approval prompts while preserving human oversight of the actions that matter most. As agents take more actions on a user's behalf, such as sending email, updating records, and creating tickets, asking a person to approve every step leads to approval fatigue and weaker oversight over time. With smart approvals, a separate review model called the classifier evaluates each eligible action against the user's request. It approves routine actions automatically and refers consequential actions to the user for review.</p>
+      <p>Your existing policies always come first. Smart approvals only reviews actions where the user's setting is &quot;ask&quot; each time. Denied actions stay denied, and smart approvals never grants new access. The classifier sends higher-impact actions to the user for review. These include sending content outside the organization, changing permissions, deleting content, making payments, and actions that go beyond what the user asked for. Each automatic approval covers only the exact action that was reviewed. If a review fails or times out, the action goes to the user.</p>
+      <p>Smart approvals is on for all users by default. Administrators control who can use it with custom permissions, and users can turn it off for their conversations and scheduled runs in chat options. AWS CloudTrail records each action review made through smart approvals and each change to a user's smart approvals setting.</p>
+      <p>Smart approvals is available in Amazon Quick in all AWS Regions where Amazon Quick agentic capabilities are supported. For more information, see the <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Region table</a>.</p>
+      <p>To learn more about smart approvals, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/smart-approvals.html" target="_blank" rel="noopener noreferrer">smart approvals</a> in the Amazon Quick User Guide. For more information about Amazon Quick, see the <a href="https://aws.amazon.com/quick/" target="_blank" rel="noopener noreferrer">Amazon Quick product page</a>.</p>
+    headlineUrl: /about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/
+    postDateTime: 2026-10-28T18:28:00Z
+    headline: Quick now supports smart approvals for agentic actions
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - summary
+status: reviewed
+injectionFlags: []
+triage:
+  decision: research
+  confidence: 0.88
+  reason: Amazon Quick の新機能 smart approvals (agentic actions の承認レイヤ) の GA
+    発表。全ユーザーデフォルト ON、CloudTrail 記録、classifier モデル導入など新機能の GA ローンチに該当。
+  agent: gemini-cli
+  triagedAt: 2026-10-29T21:14:24.414Z
+  feedback: []
