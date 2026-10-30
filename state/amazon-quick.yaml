@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-29T21:12:39.211Z
-lastEtag: sha256:7a9d5042a876a9526589bc372db7b564b326a4f3b5a0aabb71718b0cd5ebb130
+lastFetchedAt: 2026-10-30T21:12:45.888Z
+lastEtag: sha256:5a6db02ec10ee3ccca28eb4a7ba38e23df993942fa31bd09042ce9ff8ce8b89e
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22265,3 +22265,21 @@ lastSeenIds:
   - amazon-elasticache-expands-data-tiering-80694a8a
   - amazon-elasticache-for-valkey-now-suppor-96ccd7c8
   - amazon-neptune-now-supports-online-index-8904dce1
+  - amazon-bedrock-expands-api-support-and-i-082c5066
+  - web-search-now-available-on-kiro-in-aws-2a3691cb
+  - amazon-connect-customer-automatically-sa-4a746d97
+  - daybreak-red-from-openai-now-available-t-c8727d1e
+  - amazon-cloudfront-now-provides-viewer-is-eaad079e
+  - amazon-msk-now-supports-tls-1-3-for-data-b8dcbdf2
+  - amazon-rds-for-oracle-no-longer-requires-0e4f9907
+  - aws-waf-announces-automatic-sdk-integrat-587980e2
+  - aws-glue-data-catalog-now-supports-apach-7734daab
+  - aws-marketplace-now-enables-partners-to-f52358d5
+  - amazon-aurora-now-supports-post-quantum-cac0247e
+  - amazon-msk-connect-now-supports-updating-b36bf4aa
+  - amazon-managed-grafana-now-supports-in-p-ba0a0415
+  - aws-datasync-enhanced-mode-now-supports-8dc20edb
+  - amazon-sagemaker-ai-now-supports-soci-in-cbfd2551
+  - aws-backup-now-supports-cross-account-ma-d4692b66
+  - amazon-sagemaker-unified-studio-now-supp-0089106b
+  - amazon-bedrock-now-offers-canada-cross-r-e3492fd3
