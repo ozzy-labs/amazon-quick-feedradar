@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-10-30T21:12:45.888Z
-lastEtag: sha256:5a6db02ec10ee3ccca28eb4a7ba38e23df993942fa31bd09042ce9ff8ce8b89e
+lastFetchedAt: 2026-10-31T21:12:01.515Z
+lastEtag: sha256:9f70b587d8609f0d0bfc01a976ba1c1054d3b42f537b7877bc4cf44aa35306f5
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22283,3 +22283,7 @@ lastSeenIds:
   - aws-backup-now-supports-cross-account-ma-d4692b66
   - amazon-sagemaker-unified-studio-now-supp-0089106b
   - amazon-bedrock-now-offers-canada-cross-r-e3492fd3
+  - amazon-connect-customer-now-supports-ver-295996e0
+  - managed-prometheus-collectors-now-suppor-abd135f1
+  - amazon-sagemaker-ai-inference-now-suppor-0442a78a
+  - amazon-redshift-announces-hands-off-auto-828ced42
