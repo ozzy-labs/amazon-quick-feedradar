@@ -1,0 +1,46 @@
+id: amazon-quick-on-desktop-now-uses-your-or-89075e92
+sourceId: amazon-quick
+title: Amazon Quick on desktop now uses your organization's existing Amazon
+  Quick sign-in
+url: https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/
+publishedAt: 2026-11-02T18:36:00.000Z
+fetchedAt: 2026-11-02T21:11:34.521Z
+summary: |-
+  <p>For organizations that use Amazon Quick, the desktop application now signs users in with the same sign-in method the organization already uses for Quick on the web. Administrators no longer need to register an OIDC application in their identity provider or set up separate desktop sign-in before users can get started. If a user can sign in to Quick on the web, that user can sign in to the desktop application.</p>
+  <p>To turn on desktop access, an administrator adds the desktop connector once in the Amazon Quick console. Users then enter their Quick account name, choose Sign In, and finish signing in through their browser. This works for accounts that use IAM Identity Center, IAM federation, or native Amazon Quick users. If your organization wants to manage desktop sign-in separately, you can still set up a dedicated identity provider configuration with providers such as Microsoft Entra ID, Google Workspace, Okta, or Ping Identity.</p>
+  <p>Amazon Quick on desktop is available in <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html#regions-qs" target="_blank">AWS Regions that support the full Amazon Quick feature set</a>.</p>
+  <p>To get started, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/amazon-quick-desktop.html">Amazon Quick on desktop</a> in the Amazon Quick User Guide.</p>
+raw:
+  id: whats-new-v2#f54b4968-f3f7-4b76-8fb9-74f23e938018
+  locale: en_US
+  directoryId: whats-new-v2
+  name: f54b4968-f3f7-4b76-8fb9-74f23e938018
+  dateCreated: 2026-11-02T18:45:25+0000
+  dateUpdated: 2026-11-02T18:45:25+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p>For organizations that use Amazon Quick, the desktop application now signs users in with the same sign-in method the organization already uses for Quick on the web. Administrators no longer need to register an OIDC application in their identity provider or set up separate desktop sign-in before users can get started. If a user can sign in to Quick on the web, that user can sign in to the desktop application.</p>
+      <p>To turn on desktop access, an administrator adds the desktop connector once in the Amazon Quick console. Users then enter their Quick account name, choose Sign In, and finish signing in through their browser. This works for accounts that use IAM Identity Center, IAM federation, or native Amazon Quick users. If your organization wants to manage desktop sign-in separately, you can still set up a dedicated identity provider configuration with providers such as Microsoft Entra ID, Google Workspace, Okta, or Ping Identity.</p>
+      <p>Amazon Quick on desktop is available in <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html#regions-qs" target="_blank">AWS Regions that support the full Amazon Quick feature set</a>.</p>
+      <p>To get started, see <a href="https://docs.aws.amazon.com/quick/latest/userguide/amazon-quick-desktop.html">Amazon Quick on desktop</a> in the Amazon Quick User Guide.</p>
+    headlineUrl: /about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/
+    postDateTime: 2026-11-02T18:36:00Z
+    headline: Amazon Quick on desktop now uses your organization's existing Amazon
+      Quick sign-in
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-11-02T21:11:42.904Z
+  feedback: []
