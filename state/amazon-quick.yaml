@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-01T21:12:09.633Z
-lastEtag: sha256:e2be3e6bee5f89b48155f5c8f9d6be0e9752ebf9bb8b12732d393046add83d31
+lastFetchedAt: 2026-11-02T21:11:34.521Z
+lastEtag: sha256:9846c6c98504b53d6f2b289fca0c5f5df0f56ebdef3f78c60fe49feca9670d93
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22287,3 +22287,12 @@ lastSeenIds:
   - managed-prometheus-collectors-now-suppor-abd135f1
   - amazon-sagemaker-ai-inference-now-suppor-0442a78a
   - amazon-redshift-announces-hands-off-auto-828ced42
+  - amazon-quick-on-desktop-now-uses-your-or-89075e92
+  - amazon-quick-introduces-quick-essentials-0e8b7b17
+  - haiku-5-5-now-available-on-kiro-in-aws-g-c6b124ca
+  - amazon-rds-now-supports-per-snapshot-bil-83aa9701
+  - amazon-aurora-mysql-3-14-compatible-with-5a24a91c
+  - amazon-aurora-mysql-8-4-10-is-now-genera-d0a99045
+  - aws-lambda-now-supports-queues-for-apach-03d9b515
+  - amazon-connect-customer-now-supports-mod-210bc788
+  - amazon-cloudfront-now-supports-self-serv-9bd32fdb

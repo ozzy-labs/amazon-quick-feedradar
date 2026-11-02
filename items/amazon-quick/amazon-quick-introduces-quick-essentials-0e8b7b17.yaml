@@ -1,0 +1,44 @@
+id: amazon-quick-introduces-quick-essentials-0e8b7b17
+sourceId: amazon-quick
+title: Amazon Quick Introduces Quick Essentials
+url: https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-essentials/
+publishedAt: 2026-10-30T08:00:00.000Z
+fetchedAt: 2026-11-02T21:11:34.521Z
+summary: |-
+  <p>Amazon Quick introduces Quick Essentials for enterprises. The plan makes it easier for organizations to get started with all the features of Quick such as AI-powered chat, Research, Flows, and Apps, and lets users view and interact with Quick Sight dashboards and reports and then manage adoption at the desired pace.</p>
+  <p>In AWS Regions where Amazon Quick is available, Quick Sight Reader users are upgraded to Quick Essentials at no additional per-user cost. With Quick Essentials, Quick Sight Readers can ask their dashboards questions in plain language, like what drove a revenue dip in March, and dig into the details with follow-up questions. They can turn the answer into a document, presentation, or spreadsheet for their team. When they need more context, Research pulls from their data, files, and the web into a detailed report with citations. If they need the same update every week, Flows can build it and send it automatically. When they need a tool that doesn't exist yet, like a request tracker, they can describe it and Apps builds it, without writing code.</p>
+  <p>Existing dashboards, Favorites, and Recents stay in place. Row-level and column-level security apply to every answer, and data is not shared across customers or used to train shared models. Administrators continue to manage the capabilities with <a href="https://docs.aws.amazon.com/quick/latest/userguide/custom-permissions.html" target="_blank">custom permission</a> profiles that can be applied to any user or a role.</p>
+  <p>Quick Essentials is enabled in a phased rollout across <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html#regions-qs" target="_blank"><u>AWS Regions where Quick AI features are available</u></a>. To learn more, read the <a href="https://community.amazonquick.com/t/every-reader-gets-professional-capabilities/53958" target="_blank"><u>Amazon Quick Community blog post</u></a>. For pricing details, visit the <a href="https://aws.amazon.com/quick/pricing/" target="_blank">Amazon Quick pricing page</a>.</p>
+raw:
+  id: whats-new-v2#f8f2de3d-19d1-4a77-bd41-1a681d9e1a52
+  locale: en_US
+  directoryId: whats-new-v2
+  name: f8f2de3d-19d1-4a77-bd41-1a681d9e1a52
+  dateCreated: 2026-10-29T22:05:47+0000
+  dateUpdated: 2026-11-02T16:15:07+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p>Amazon Quick introduces Quick Essentials for enterprises. The plan makes it easier for organizations to get started with all the features of Quick such as AI-powered chat, Research, Flows, and Apps, and lets users view and interact with Quick Sight dashboards and reports and then manage adoption at the desired pace.</p>
+      <p>In AWS Regions where Amazon Quick is available, Quick Sight Reader users are upgraded to Quick Essentials at no additional per-user cost. With Quick Essentials, Quick Sight Readers can ask their dashboards questions in plain language, like what drove a revenue dip in March, and dig into the details with follow-up questions. They can turn the answer into a document, presentation, or spreadsheet for their team. When they need more context, Research pulls from their data, files, and the web into a detailed report with citations. If they need the same update every week, Flows can build it and send it automatically. When they need a tool that doesn't exist yet, like a request tracker, they can describe it and Apps builds it, without writing code.</p>
+      <p>Existing dashboards, Favorites, and Recents stay in place. Row-level and column-level security apply to every answer, and data is not shared across customers or used to train shared models. Administrators continue to manage the capabilities with <a href="https://docs.aws.amazon.com/quick/latest/userguide/custom-permissions.html" target="_blank">custom permission</a> profiles that can be applied to any user or a role.</p>
+      <p>Quick Essentials is enabled in a phased rollout across <a href="https://docs.aws.amazon.com/quick/latest/userguide/regions.html#regions-qs" target="_blank"><u>AWS Regions where Quick AI features are available</u></a>. To learn more, read the <a href="https://community.amazonquick.com/t/every-reader-gets-professional-capabilities/53958" target="_blank"><u>Amazon Quick Community blog post</u></a>. For pricing details, visit the <a href="https://aws.amazon.com/quick/pricing/" target="_blank">Amazon Quick pricing page</a>.</p>
+    headlineUrl: /about-aws/whats-new/2026/10/amazon-quick-essentials/
+    postDateTime: 2026-10-30T08:00:00Z
+    headline: Amazon Quick Introduces Quick Essentials
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-11-02T21:11:42.904Z
+  feedback: []
