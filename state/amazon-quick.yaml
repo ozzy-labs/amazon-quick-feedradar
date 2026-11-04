@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-02T21:11:34.521Z
-lastEtag: sha256:9846c6c98504b53d6f2b289fca0c5f5df0f56ebdef3f78c60fe49feca9670d93
+lastFetchedAt: 2026-11-04T21:12:12.998Z
+lastEtag: sha256:e5bda34b7276bc52c98bf0fc9f5d02c88dde4d679df63177d17f3c5f76d56e05
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22296,3 +22296,22 @@ lastSeenIds:
   - aws-lambda-now-supports-queues-for-apach-03d9b515
   - amazon-connect-customer-now-supports-mod-210bc788
   - amazon-cloudfront-now-supports-self-serv-9bd32fdb
+  - amazon-documentdb-with-mongodb-compatibi-a375e8f7
+  - amazon-rds-for-oracle-now-supports-copyi-c2cfd7c0
+  - aws-announces-aws-interconnect-last-mile-b5082289
+  - amazon-ec2-and-vpc-now-display-related-r-e97ff4a3
+  - rhel-10-rocky-10-and-ubuntu-26-04-bundle-3c4492cd
+  - new-features-for-amazon-ec2-capacity-man-1b909883
+  - amazon-connect-customer-lets-agents-paus-b414ca67
+  - amazon-workspaces-for-ai-agents-now-supp-94bf624a
+  - amazon-connect-customer-prefills-the-ema-99a40cb1
+  - aws-config-now-supports-10-new-resource-06e1e515
+  - amazon-rds-now-supports-the-latest-cumul-1595131b
+  - aws-transform-for-mainframe-improves-the-60aa3bde
+  - amazon-cloudwatch-now-supports-api-keys-a477f1a1
+  - amazon-eks-capabilities-now-supports-arg-aedee07a
+  - amazon-rds-for-oracle-now-supports-m8i-a-c19519bf
+  - amazon-connect-customer-now-supports-cas-32159dfd
+  - ec2-amazon-machine-images-can-now-be-sca-90a8573b
+  - amazon-textract-now-available-in-asia-pa-b98ab525
+  - announcing-an-updated-text-detection-mod-336a1ae9
