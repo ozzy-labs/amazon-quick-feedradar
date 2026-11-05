@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-04T21:12:12.998Z
-lastEtag: sha256:e5bda34b7276bc52c98bf0fc9f5d02c88dde4d679df63177d17f3c5f76d56e05
+lastFetchedAt: 2026-11-05T21:13:27.798Z
+lastEtag: sha256:5e5e61e987ccb8a418c24ac3f99abb63a2bb68c2f2f27932b550f37365419dba
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22315,3 +22315,15 @@ lastSeenIds:
   - ec2-amazon-machine-images-can-now-be-sca-90a8573b
   - amazon-textract-now-available-in-asia-pa-b98ab525
   - announcing-an-updated-text-detection-mod-336a1ae9
+  - amazon-dynamodb-now-supports-bulk-put-it-2afdd781
+  - amazon-cognito-announces-99-99-service-l-ab619824
+  - iam-roles-anywhere-now-supports-automati-c827fd9e
+  - aws-security-hub-network-scanning-now-av-c31b8428
+  - amazon-sagemaker-ai-studio-now-supports-a023e106
+  - aws-systems-manager-parameter-store-now-d7cd6c4a
+  - amazon-mwaa-now-supports-cost-allocation-5d3f3d0e
+  - amazon-ecs-managed-daemons-can-now-colle-c95f8376
+  - amazon-connect-customer-now-shows-associ-c147a206
+  - aws-datasync-enhanced-mode-supports-open-1f18fd73
+  - amazon-s3-tables-now-provide-a-simple-co-5137b792
+  - amazon-opensearch-service-optimized-engi-4751330f
