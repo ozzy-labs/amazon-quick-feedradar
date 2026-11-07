@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-05T21:13:27.798Z
-lastEtag: sha256:5e5e61e987ccb8a418c24ac3f99abb63a2bb68c2f2f27932b550f37365419dba
+lastFetchedAt: 2026-11-07T21:11:03.653Z
+lastEtag: sha256:a95e4f72bf4ce29b84ba5393529b0727460f0bd11240d13af3f7d490c08844f7
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22327,3 +22327,24 @@ lastSeenIds:
   - aws-datasync-enhanced-mode-supports-open-1f18fd73
   - amazon-s3-tables-now-provide-a-simple-co-5137b792
   - amazon-opensearch-service-optimized-engi-4751330f
+  - kimi-k3-1-pro-highspeed-now-available-on-6fbbbc12
+  - agent-registry-is-now-generally-availabl-6110baba
+  - amazon-msk-replicator-is-now-available-i-a449c157
+  - amazon-redshift-expands-super-data-type-be8f2865
+  - aws-launches-support-for-amortization-of-582fe7ae
+  - capacity-reservation-resource-groups-now-8fce9fad
+  - amazon-simple-email-service-is-now-avail-65a7bcf4
+  - aws-glue-data-catalog-now-supports-catal-ca819e51
+  - aws-elemental-mediaconvert-adds-a-native-2b6fda46
+  - aws-security-hub-now-provides-an-sbom-in-cfa62aad
+  - aws-interconnect-last-mile-announces-new-e333a551
+  - announcing-web-answer-on-amazon-bedrock-b48ef20c
+  - aws-network-load-balancer-is-now-availab-8ca61e15
+  - amazon-fsx-for-lustre-delivers-16x-highe-d9c38d23
+  - amazon-rds-for-oracle-now-supports-kerbe-f1f41a4b
+  - aws-lambda-durable-functions-increases-d-d6ee9057
+  - aws-codeconnections-is-now-available-in-a793b15d
+  - amazon-ec2-now-publishes-imdsv1enabled-c-70a0ed71
+  - aws-waf-ai-traffic-monetization-now-supp-2c756b7c
+  - amazon-q-developer-in-console-is-now-the-a551a433
+  - amazon-connect-customer-outbound-campaig-032db47e
