@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-08T21:11:14.398Z
-lastEtag: sha256:14afe0d6bffa0b25ef1705e114404bdda669c3470d05d7f78a8ae67810295734
+lastFetchedAt: 2026-11-09T21:12:21.471Z
+lastEtag: sha256:b067dc74916638d5c0512240bb2b495835303cca30e145d3aa7971aaf3e9bf45
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22348,3 +22348,14 @@ lastSeenIds:
   - aws-waf-ai-traffic-monetization-now-supp-2c756b7c
   - amazon-q-developer-in-console-is-now-the-a551a433
   - amazon-connect-customer-outbound-campaig-032db47e
+  - amazon-bedrock-now-offers-claude-mythos-3d3bf7f7
+  - claude-fable-5-2-is-now-available-on-aws-8fe7475b
+  - amazon-connect-customer-launches-evaluat-e9dd4145
+  - introducing-an-open-source-ui-for-graph-82daeb75
+  - amazon-athena-introduces-system-tables-f-b1fcddbf
+  - claude-fable-5-2-is-now-available-on-aws-4016dde0
+  - introducing-aws-nitro-sandboxes-on-amazo-4f5d6d58
+  - amazon-s3-access-points-for-amazon-fsx-a-dc39445c
+  - amazon-eks-auto-mode-and-karpenter-now-s-0707849b
+  - amazon-mwaa-serverless-supports-apache-a-8036b3a5
+  - amazon-mwaa-serverless-now-supports-cust-7e0038e1
