@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-09T21:12:21.471Z
-lastEtag: sha256:b067dc74916638d5c0512240bb2b495835303cca30e145d3aa7971aaf3e9bf45
+lastFetchedAt: 2026-11-10T21:12:33.170Z
+lastEtag: sha256:fbdd73bd2b3a71ed6737e34b678ebdd3691422451fc43b43d44fbe63be1e9842
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22359,3 +22359,20 @@ lastSeenIds:
   - amazon-eks-auto-mode-and-karpenter-now-s-0707849b
   - amazon-mwaa-serverless-supports-apache-a-8036b3a5
   - amazon-mwaa-serverless-now-supports-cust-7e0038e1
+  - amazon-quick-is-now-aws-quick-0ce9f546
+  - amazon-rds-for-postgresql-announces-exte-8aad44ab
+  - amazon-rds-for-mysql-26-10-is-now-availa-0c82b92b
+  - aws-partner-central-now-provides-an-impr-b6e58e83
+  - amazon-elasticache-serverless-now-suppor-3a6edbbe
+  - cloudwatch-promql-alarms-now-support-ec2-df34db10
+  - amazon-opensearch-service-now-lets-you-v-481b96dd
+  - amazon-bedrock-agentcore-now-offers-a-we-47b1f2ca
+  - amazon-cloudwatch-logs-announces-account-85ed9614
+  - aws-glue-adds-100-new-native-connectors-378442ab
+  - aws-sts-now-supports-cross-partition-fed-80c554b2
+  - amazon-mwaa-now-supports-duckdb-operator-220fed06
+  - amazon-documentdb-serverless-now-provide-46378f89
+  - aws-analytics-services-now-support-workd-ceb59e58
+  - amazon-route-53-profiles-now-supports-mu-b60d56c4
+  - aws-sign-in-now-supports-oauth-2-0-token-bd8a979a
+  - aws-compute-optimizer-now-supports-addit-b7bc0bb0
