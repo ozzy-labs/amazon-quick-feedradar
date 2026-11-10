@@ -1,0 +1,46 @@
+id: amazon-quick-is-now-aws-quick-0ce9f546
+sourceId: amazon-quick
+title: Amazon Quick is now AWS Quick
+url: https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-aws-quick/
+publishedAt: 2026-11-09T19:00:00.000Z
+fetchedAt: 2026-11-10T21:12:33.170Z
+summary: |-
+  <p>Amazon Quick, the AI workspace built only for work, is now AWS Quick, a name that reflects the enterprise security and governance built into Quick from the start as an AWS service. The new name now appears across the Quick website, the web, desktop, and mobile apps, and AWS documentation. Existing customers don't need to take any action, and Quick works the same way it did before.</p>
+  <p>Amazon Quick Sight, the business intelligence capability in Quick, is now AWS Quick Sight. Quick Sight customers&nbsp;can keep using their dashboards, datasets, and analyses just as they do today, with no changes to their data, settings, or pricing.</p>
+  <p>With Quick, teams use AI agents to research, analyze, and act across the data and applications they already use, regardless of vendor. Quick understands your role, your team, and how your work connects, and anyone can build agents, apps, and automations in plain language that become shared assets for the whole team. Quick is HIPAA eligible and holds compliance certifications including FedRAMP, SOC 2, and ISO 27001. Your data stays in your environment and never trains&nbsp;someone else's models.</p>
+  <p>AWS Quick is available in many AWS Regions. For more information, see the <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Region table</a>.</p>
+  <p>To learn more, see <a href="https://aws.amazon.com/quick/" target="_blank" rel="noopener noreferrer">AWS Quick</a>.</p>
+raw:
+  id: whats-new-v2#563637d5-0819-4daa-9e4b-9b27231575e1
+  locale: en_US
+  directoryId: whats-new-v2
+  name: 563637d5-0819-4daa-9e4b-9b27231575e1
+  dateCreated: 2026-11-09T20:01:34+0000
+  dateUpdated: 2026-11-09T22:34:11+0000
+  additionalFields:
+    nofollow: "0"
+    noindex: "0"
+    nosnippet: "0"
+    postBody: |
+      <p>Amazon Quick, the AI workspace built only for work, is now AWS Quick, a name that reflects the enterprise security and governance built into Quick from the start as an AWS service. The new name now appears across the Quick website, the web, desktop, and mobile apps, and AWS documentation. Existing customers don't need to take any action, and Quick works the same way it did before.</p>
+      <p>Amazon Quick Sight, the business intelligence capability in Quick, is now AWS Quick Sight. Quick Sight customers&nbsp;can keep using their dashboards, datasets, and analyses just as they do today, with no changes to their data, settings, or pricing.</p>
+      <p>With Quick, teams use AI agents to research, analyze, and act across the data and applications they already use, regardless of vendor. Quick understands your role, your team, and how your work connects, and anyone can build agents, apps, and automations in plain language that become shared assets for the whole team. Quick is HIPAA eligible and holds compliance certifications including FedRAMP, SOC 2, and ISO 27001. Your data stays in your environment and never trains&nbsp;someone else's models.</p>
+      <p>AWS Quick is available in many AWS Regions. For more information, see the <a href="https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/" target="_blank" rel="noopener noreferrer">AWS Region table</a>.</p>
+      <p>To learn more, see <a href="https://aws.amazon.com/quick/" target="_blank" rel="noopener noreferrer">AWS Quick</a>.</p>
+    headlineUrl: /about-aws/whats-new/2026/11/amazon-quick-aws-quick/
+    postDateTime: 2026-11-09T19:00:00Z
+    headline: Amazon Quick is now AWS Quick
+matchedKeywords:
+  - Amazon Quick
+matchedFields:
+  - title
+  - summary
+status: triaged_unsure
+injectionFlags: []
+triage:
+  decision: unsure
+  confidence: 0
+  reason: agent CLI failure
+  agent: gemini-cli
+  triagedAt: 2026-11-10T21:12:43.594Z
+  feedback: []
