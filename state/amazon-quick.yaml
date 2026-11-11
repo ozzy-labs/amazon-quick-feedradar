@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-10T21:12:33.170Z
-lastEtag: sha256:fbdd73bd2b3a71ed6737e34b678ebdd3691422451fc43b43d44fbe63be1e9842
+lastFetchedAt: 2026-11-11T21:12:18.682Z
+lastEtag: sha256:e91095ba0db00120c9de1b4831042b001b857582e24e53470271321f01d29ea9
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22376,3 +22376,18 @@ lastSeenIds:
   - amazon-route-53-profiles-now-supports-mu-b60d56c4
   - aws-sign-in-now-supports-oauth-2-0-token-bd8a979a
   - aws-compute-optimizer-now-supports-addit-b7bc0bb0
+  - aws-lambda-microvms-now-supports-the-x86-4ff09f45
+  - amazon-eks-auto-mode-now-supports-securi-09bf5dd2
+  - aws-quick-apps-are-now-available-in-asia-db8d59c3
+  - amazon-ses-now-supports-higher-limits-fo-fe5a83fb
+  - aws-billing-and-cost-management-now-supp-18cd38ea
+  - amazon-ec2-g7-instances-now-available-in-70c71677
+  - amazon-opensearch-service-announces-mana-e130b8d2
+  - aws-emulator-is-now-available-for-buildi-1528d1f4
+  - amazon-s3-access-grants-now-support-list-cfdce8fa
+  - amazon-bedrock-adds-bedrock-runtime-endp-e5bdb999
+  - amazon-s3-tables-now-support-s3-server-a-444bdbda
+  - aws-marketplace-saas-free-trials-now-con-e64d4c55
+  - aws-network-firewall-launches-next-gener-6c24337a
+  - amazon-gamelift-servers-now-supports-gam-20286e00
+  - amazon-documentdb-with-mongodb-compatibi-d9fcaa51
