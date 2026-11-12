@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-11T21:12:18.682Z
-lastEtag: sha256:e91095ba0db00120c9de1b4831042b001b857582e24e53470271321f01d29ea9
+lastFetchedAt: 2026-11-12T21:12:18.837Z
+lastEtag: sha256:7603937e0b9fb0e93e23c6d9cf259deca6546a20461f9d575292eadd3e7a50ce
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22391,3 +22391,17 @@ lastSeenIds:
   - aws-network-firewall-launches-next-gener-6c24337a
   - amazon-gamelift-servers-now-supports-gam-20286e00
   - amazon-documentdb-with-mongodb-compatibi-d9fcaa51
+  - amazon-mwaa-now-supports-fine-grained-ac-7e6e746c
+  - amazon-connect-customer-supports-merging-46155c89
+  - aws-quick-enhances-granular-governance-w-02d71aa1
+  - amazon-route-53-domains-now-supports-sel-9a612aff
+  - ec2-image-builder-console-now-integrates-4c36ed7f
+  - aws-backup-now-supports-resource-modifie-2daa9a51
+  - the-next-generation-agentcore-runtime-is-b2504e6e
+  - ornith-1-0-9b-and-ornith-1-0-35b-models-007967f5
+  - deepseek-v4-pro-deepseek-v4-flash-and-de-0d96a9c4
+  - aws-network-security-manager-now-availab-2cbe1e3a
+  - aws-cloud-wan-now-supports-flow-logs-1555d99c
+  - amazon-eks-provisioned-control-plane-now-88c71cd3
+  - amazon-cognito-now-supports-user-pool-se-3ef427a7
+  - amazon-mwaa-serverless-supports-duckdb-o-a115feb2
