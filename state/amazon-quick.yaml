@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-12T21:12:18.837Z
-lastEtag: sha256:7603937e0b9fb0e93e23c6d9cf259deca6546a20461f9d575292eadd3e7a50ce
+lastFetchedAt: 2026-11-13T21:12:27.329Z
+lastEtag: sha256:724edb02413f5a42efb28f54c83deeec25ca2f6e315368e203a3faad23789113
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22405,3 +22405,24 @@ lastSeenIds:
   - amazon-eks-provisioned-control-plane-now-88c71cd3
   - amazon-cognito-now-supports-user-pool-se-3ef427a7
   - amazon-mwaa-serverless-supports-duckdb-o-a115feb2
+  - aurora-postgresql-with-express-configura-b4cebbdd
+  - grok-4-7-now-available-on-kiro-in-aws-go-cd737655
+  - amazon-rds-for-oracle-reduces-downtime-f-39870903
+  - aws-security-hub-cspm-now-supports-centr-657ef172
+  - amazon-bedrock-agentcore-identity-now-su-f2a0c0f4
+  - aws-batch-on-amazon-eks-adds-linux-capab-7cb7caca
+  - aws-secrets-manager-now-supports-cross-a-7a0f9224
+  - amazon-sagemaker-unified-studio-now-supp-5f3c2521
+  - amazon-cognito-now-supports-oauth-2-0-to-41d7e9f2
+  - amazon-aurora-and-rds-now-support-gravit-d89ff748
+  - amazon-sns-now-supports-push-notificatio-d910446e
+  - amazon-fsx-for-lustre-lowers-the-entry-c-e96f9bf6
+  - aws-glue-announces-automatic-version-upg-c219a193
+  - aws-backup-adds-logically-air-gapped-vau-ec2ed071
+  - amazon-rds-for-sql-server-now-supports-m-94539080
+  - amazon-managed-service-for-apache-flink-ed6f8f04
+  - aws-cloud-wan-now-supports-bgp-communiti-3fdd66a9
+  - amazon-connect-customer-now-supports-bat-58777f24
+  - amazon-route-53-now-supports-record-set-c699e36c
+  - announcing-accelerated-compute-insights-5dc92fd2
+  - aws-dms-schema-conversion-expands-offlin-f399d840
