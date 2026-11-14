@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-13T21:12:27.329Z
-lastEtag: sha256:724edb02413f5a42efb28f54c83deeec25ca2f6e315368e203a3faad23789113
+lastFetchedAt: 2026-11-14T21:10:51.708Z
+lastEtag: sha256:4b01eec0c5e59aadfc7d58f7f473b840f162ddeb0082cd5d91aaa7fe6205ac47
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22426,3 +22426,7 @@ lastSeenIds:
   - amazon-route-53-now-supports-record-set-c699e36c
   - announcing-accelerated-compute-insights-5dc92fd2
   - aws-dms-schema-conversion-expands-offlin-f399d840
+  - aws-marketplace-now-supports-vat-credit-b6f55977
+  - aws-systems-manager-simplifies-onboardin-11656856
+  - apache-airflow-ui-available-in-amazon-mw-8dd1e798
+  - amazon-opensearch-serverless-supports-in-af19eca0
