@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-15T21:11:05.799Z
-lastEtag: sha256:b5924a6038333b449c1ae8a3fea159ba3dd13eaa0e3874efcf6a6a9d18ca1cfd
+lastFetchedAt: 2026-11-16T21:11:14.251Z
+lastEtag: sha256:fad6e12c764f9f7ff222b06e3cfeba439d904c14ee97633276b6cb3303f79306
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22430,3 +22430,9 @@ lastSeenIds:
   - aws-systems-manager-simplifies-onboardin-11656856
   - apache-airflow-ui-available-in-amazon-mw-8dd1e798
   - amazon-opensearch-serverless-supports-in-af19eca0
+  - amazon-redshift-now-supports-multi-state-4b014381
+  - aws-devops-agent-is-now-available-in-aws-9c6b68c7
+  - set-up-connect-and-govern-ai-agents-fast-89f5f56c
+  - aws-waf-advanced-rate-based-rules-are-no-e0111594
+  - aws-backup-adds-logically-air-gapped-vau-e6746e5a
+  - agentcore-runtime-instances-are-now-avai-c189ac02
