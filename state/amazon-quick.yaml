@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-16T21:11:14.251Z
-lastEtag: sha256:fad6e12c764f9f7ff222b06e3cfeba439d904c14ee97633276b6cb3303f79306
+lastFetchedAt: 2026-11-17T21:10:57.802Z
+lastEtag: sha256:f205953f99b9b77efd8a4d684a75f99c9fdc713589c528cecb9fae242292705c
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22436,3 +22436,48 @@ lastSeenIds:
   - aws-waf-advanced-rate-based-rules-are-no-e0111594
   - aws-backup-adds-logically-air-gapped-vau-e6746e5a
   - agentcore-runtime-instances-are-now-avai-c189ac02
+  - aws-security-hub-now-infers-resource-cri-cb108276
+  - amazon-bedrock-agentcore-memory-now-supp-fc66213d
+  - amazon-api-gateway-rest-apis-now-support-5daff274
+  - amazon-bedrock-agentcore-memory-now-prov-051240b2
+  - amazon-sagemaker-now-supports-ai-data-pr-ee3942d7
+  - amazon-bedrock-agentcore-now-offers-free-3f0b6fed
+  - aws-config-announces-managed-conformance-88e51930
+  - amazon-aurora-dsql-now-offers-sql-statem-9a4b3d35
+  - openai-gpt-6-2-astra-and-gpt-6-2-sol-are-5034b16b
+  - amazon-vpc-aws-transit-gateway-and-aws-c-92441c27
+  - amazon-workspaces-advisor-now-helps-you-03b7ecd2
+  - amazon-workspaces-provides-a-new-windows-d2d54e41
+  - aws-announces-general-availability-of-aw-ed300063
+  - amazon-msk-standard-brokers-now-support-1f5f08ab
+  - amazon-msk-express-brokers-now-support-g-cc2991d7
+  - amazon-api-gateway-rest-apis-now-support-3b43813f
+  - aws-security-hub-extends-unified-securit-9deedf90
+  - amazon-route-53-resolver-dns-firewall-no-e7e1a6d1
+  - aws-announces-consistent-sharing-control-d5cf1a7e
+  - aws-announces-agentic-account-creation-f-82db2513
+  - aws-launches-credit-splitting-and-transf-ad9f8e36
+  - aws-iam-announces-access-troubleshooter-954cef4d
+  - amazon-sagemaker-hyperpod-now-supports-c-7f821426
+  - aws-split-cost-allocation-data-now-suppo-8b8dc4f9
+  - amazon-eks-auto-mode-now-rightsizes-pods-23793513
+  - aws-split-cost-allocation-data-now-suppo-28048caa
+  - aws-transit-gateway-now-shares-resource-8e0acf5f
+  - aws-lambda-durable-functions-now-support-3d2d64a0
+  - amazon-s3-storage-lens-now-tracks-s3-int-c5ad9f9c
+  - amazon-ecr-now-replicates-image-deletion-4e60f834
+  - amazon-ebs-now-supports-associating-addi-c4d5b3b9
+  - amazon-s3-vectors-now-supports-hybrid-se-6f8c3d0a
+  - amazon-connect-health-medical-coding-is-1260629e
+  - amazon-connect-customer-agent-assist-now-94251a5b
+  - aws-kms-now-supports-key-sharing-with-aw-177cb07f
+  - aws-marketplace-metering-service-now-sup-04369636
+  - aws-secrets-manager-adds-managed-externa-337587f1
+  - iam-identity-center-now-supports-vpc-end-4e7e58df
+  - amazon-sagemaker-ai-now-supports-kv-cach-d1cca24e
+  - aws-network-firewall-now-supports-contex-90637b95
+  - aws-security-hub-now-detects-when-vulner-682ed819
+  - aws-announces-networking-flexible-cost-a-f96614df
+  - aws-iam-identity-center-now-supports-for-a4e8aee6
+  - aws-security-hub-network-scanning-now-su-9851d7f3
+  - amazon-fsx-for-lustre-now-offers-a-75-lo-e96f9bf6
