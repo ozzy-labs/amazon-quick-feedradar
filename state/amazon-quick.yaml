@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-17T21:10:57.802Z
-lastEtag: sha256:f205953f99b9b77efd8a4d684a75f99c9fdc713589c528cecb9fae242292705c
+lastFetchedAt: 2026-11-18T21:11:02.336Z
+lastEtag: sha256:a13b99c0a18dcb6a12409121deeb201ee6f2e7538c79da1413830f8e5fdf11db
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22481,3 +22481,44 @@ lastSeenIds:
   - aws-iam-identity-center-now-supports-for-a4e8aee6
   - aws-security-hub-network-scanning-now-su-9851d7f3
   - amazon-fsx-for-lustre-now-offers-a-75-lo-e96f9bf6
+  - amazon-cloudfront-announces-websocket-an-75d01720
+  - aws-lambda-adds-support-for-gpu-instance-9323f024
+  - amazon-rds-for-mysql-supports-mysql-mino-c22d0ade
+  - amazon-cognito-now-supports-point-in-tim-5fff6870
+  - amazon-rds-for-mysql-now-supports-mysql-010c27c6
+  - amazon-eks-hybrid-nodes-reduces-price-fo-05ee7d5b
+  - amazon-cloudfront-functions-now-supports-049529e1
+  - amazon-rds-now-supports-fast-storage-vol-d0419d39
+  - aws-lambda-now-supports-customer-managed-9ce52a02
+  - amazon-aurora-dsql-now-supports-audit-lo-0553be5c
+  - aws-control-tower-now-supports-existing-12f9bf4f
+  - amazon-workspaces-applications-adds-supp-76bc14fb
+  - amazon-emr-8-2-is-now-available-693cbe16
+  - introducing-the-apache-spark-optimizatio-d2dbad64
+  - aws-transform-now-accelerates-migration-f5e14d44
+  - amazon-ec2-c8gn-instances-are-now-availa-5536eb96
+  - amazon-ec2-c8ine-instances-are-now-avail-3a3f1251
+  - amazon-ecr-now-supports-global-authentic-5e8cb4df
+  - customize-aws-elemental-inference-with-c-4d2d0ca5
+  - aws-lambda-now-supports-scale-to-and-fro-8c192adc
+  - amazon-cognito-now-supports-authenticati-b636df23
+  - amazon-dynamodb-caching-is-now-available-71986ac4
+  - amazon-opensearch-serverless-now-support-fd15b6d2
+  - amazon-opensearch-ui-is-now-available-in-1b559d88
+  - amazon-evs-launches-support-for-r7i-meta-0bf1ad58
+  - amazon-corretto-november-2026-critical-s-3234bcf4
+  - amazon-s3-now-provides-post-quantum-tls-43a11ad3
+  - amazon-s3-adds-post-quantum-tls-key-exch-d3159bb5
+  - amazon-route-53-resolver-dns-firewall-no-b9909867
+  - amazon-kinesis-data-streams-announces-qu-9df002f1
+  - amazon-connect-customer-now-supports-cas-1c4f3bb8
+  - cost-optimization-hub-now-supports-stopp-415dad13
+  - aws-elemental-mediaconnect-expands-routi-1335a87e
+  - aws-transform-now-provides-f5-big-ip-loa-3a5c2c49
+  - aws-transform-now-supports-migration-to-909f2a3d
+  - amazon-sagemaker-hyperpod-inference-now-652a00e1
+  - amazon-route-53-global-resolver-is-now-a-2b8d677e
+  - aws-workload-credentials-provider-adds-c-af766b45
+  - aws-transit-gateway-supports-native-inte-962d0d3c
+  - aws-waf-announces-simplified-onboarding-fdc9630e
+  - aws-transform-now-provides-well-architec-9ee204a2
