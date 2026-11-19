@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-18T21:11:02.336Z
-lastEtag: sha256:a13b99c0a18dcb6a12409121deeb201ee6f2e7538c79da1413830f8e5fdf11db
+lastFetchedAt: 2026-11-19T21:11:44.007Z
+lastEtag: sha256:ee0610451823ca5f3c4e19bba68b2fefb82b9ce0e3dddbdc6e29582fe9902116
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22522,3 +22522,57 @@ lastSeenIds:
   - aws-transit-gateway-supports-native-inte-962d0d3c
   - aws-waf-announces-simplified-onboarding-fdc9630e
   - aws-transform-now-provides-well-architec-9ee204a2
+  - amazon-connect-launches-resolutions-an-a-43f9c147
+  - aws-marketplace-agent-mode-now-helps-you-b042f6a2
+  - amazon-route-53-now-supports-health-chec-d0fa2c9a
+  - aws-revenue-measurement-now-supports-dea-0920a713
+  - aws-lambda-now-supports-a-30-minute-time-306b796d
+  - aws-transform-combines-migration-assessm-20826c54
+  - aws-transform-extends-application-centri-32a5e46f
+  - amazon-ivs-real-time-streaming-now-provi-b9b97705
+  - aws-elemental-mediatailor-adds-dynamic-a-e810d583
+  - aws-partner-central-now-supports-ai-assi-6efbe7b0
+  - aurora-postgresql-with-express-configura-028cb5c1
+  - amazon-aurora-now-supports-moving-cluste-0532c05a
+  - amazon-msk-connect-now-supports-restarti-73cc5549
+  - amazon-aurora-dsql-now-supports-multi-re-fe839b0a
+  - aws-marketplace-now-supports-buyer-conta-a9a0b60a
+  - aws-systems-manager-parameter-store-rais-ab4c55bf
+  - aws-marketplace-now-supports-buyer-appro-4261519c
+  - aws-transform-supports-optimized-storage-ffb649be
+  - amazon-connect-customer-enables-cases-by-c8d778ac
+  - amazon-ec2-launches-performance-status-c-b6f3efd2
+  - aws-revenue-measurement-now-supports-ide-3c97dde3
+  - aws-revenue-measurement-now-supports-clo-995d000f
+  - amazon-workspaces-now-lets-developers-en-a859ae6d
+  - aws-marketplace-now-offers-express-check-8e5134fb
+  - aws-partner-central-agents-now-guide-par-7895db6c
+  - announcing-data-as-a-service-for-aws-mar-80abb8a2
+  - aws-transform-automates-source-and-migra-6c654609
+  - aws-health-now-supports-resource-and-acc-3e1f63fc
+  - aws-revenue-measurement-now-supports-acc-ddc34cb9
+  - aws-lambda-durable-execution-sdk-for-rus-5b67b146
+  - amazon-vpc-flow-logs-now-supports-amazon-edc92202
+  - aws-license-manager-now-supports-aws-man-27571ae4
+  - amazon-connect-customer-now-provides-ai-0d418628
+  - amazon-polly-now-supports-voice-cloning-c787dd64
+  - aws-appconfig-launches-support-for-manag-3717f117
+  - aws-cloudformation-stacksets-adds-progre-ac0989b6
+  - amazon-opensearch-memory-is-now-generall-854ee6eb
+  - introducing-the-apache-spark-optimizatio-f1405bf4
+  - amazon-sagemaker-ai-now-supports-cross-r-9ac205c1
+  - aws-announces-extenddb-1-0-5e16061d
+  - aws-transform-custom-now-supports-cross-ed968b98
+  - amazon-cloudfront-standard-logging-now-s-14995be5
+  - aws-clean-rooms-supports-writing-pyspark-1ed02109
+  - amazon-elasticache-now-supports-distribu-654f6cd2
+  - amazon-cloudwatch-simplifies-network-per-789a2d7a
+  - aws-devops-agent-now-supports-slack-code-0cfd8d09
+  - aws-iam-account-access-manager-is-now-ev-0b45fcea
+  - aws-healthomics-now-supports-nextflow-ve-b6009789
+  - amazon-braket-adds-paused-device-status-7a092fb9
+  - aws-deadline-cloud-now-supports-amazon-e-2d063af8
+  - agentcore-runtime-instances-now-support-66a01683
+  - amazon-s3-replication-adds-exclusions-an-738185c6
+  - amazon-sagemaker-hyperpod-now-supports-h-fe8faf19
+  - amazon-opensearch-ingestion-service-now-5280bf09
