@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-19T21:11:44.007Z
-lastEtag: sha256:ee0610451823ca5f3c4e19bba68b2fefb82b9ce0e3dddbdc6e29582fe9902116
+lastFetchedAt: 2026-11-20T21:12:21.579Z
+lastEtag: sha256:90aab483a9e907321f7107f65b46dd74fb5a4f38f8f559c51735adb1e1a82ae2
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22576,3 +22576,66 @@ lastSeenIds:
   - amazon-s3-replication-adds-exclusions-an-738185c6
   - amazon-sagemaker-hyperpod-now-supports-h-fe8faf19
   - amazon-opensearch-ingestion-service-now-5280bf09
+  - amazon-cloudwatch-eks-container-insights-27bdb81d
+  - amazon-cloudwatch-observability-eks-add-c833be4e
+  - amazon-transcribe-announces-a-synchronou-b3a8fac7
+  - amazon-dynamodb-vector-search-now-suppor-7b99762c
+  - amazon-cloudwatch-observability-eks-add-2d4c28ca
+  - amazon-sagemaker-jumpstart-now-offers-a-abec62e1
+  - aws-partner-central-agents-now-help-part-88c42d48
+  - spend-limits-in-the-new-aws-experience-n-2f14abd3
+  - amazon-s3-vectors-raises-the-filterable-92100856
+  - aws-glue-data-catalog-introduces-data-qu-79a2ee62
+  - aws-pricing-calculator-now-estimates-wor-a6c72a5e
+  - aws-billing-and-cost-management-now-offe-182230b0
+  - amazon-eventbridge-scheduler-adds-589-ne-3dcadbd2
+  - aws-cloudformation-service-managed-stack-18036885
+  - amazon-eventbridge-custom-event-bus-now-a237c3cb
+  - amazon-eventbridge-custom-event-bus-now-7e3e5557
+  - amazon-aurora-mysql-8-4-12-is-now-genera-1e3e2e19
+  - amazon-connect-customer-expands-how-team-0f9b44b3
+  - aws-transform-announces-ui-component-mod-0a792da1
+  - aws-transform-announces-support-for-net-96389d3c
+  - aws-lambda-microvms-is-now-available-in-3a84afc5
+  - introducing-amazon-ec2-t9g-instances-bas-129723c4
+  - amazon-msk-now-supports-in-place-upgrade-02f0f163
+  - aws-launches-standardized-cost-and-rate-35142831
+  - agentcore-runtime-instances-now-support-49b6d397
+  - announcing-the-general-availability-of-a-208f634a
+  - amazon-transcribe-now-available-in-aws-e-cc6b662a
+  - aws-continuum-for-penetration-testing-no-7b557d8c
+  - amazon-vpc-lattice-now-supports-cloudwat-489ee489
+  - aws-devops-agent-adds-new-chat-capabilit-b42a5a62
+  - aws-devops-agent-reduces-investigation-l-634faa12
+  - amazon-textract-insights-is-now-generall-a0cc695b
+  - aws-devops-agent-adds-community-and-part-723ae575
+  - aws-partner-central-guides-now-available-af083b39
+  - aws-marketplace-now-supports-agentic-pay-3cb84434
+  - amazon-cognito-now-supports-client-id-me-0fe77747
+  - amazon-aurora-dsql-now-delivers-up-to-50-4d75a175
+  - amazon-cloudfront-adds-ip-based-routing-095434c5
+  - amazon-cloudfront-simplifies-domain-move-220a6527
+  - aws-lambda-durable-functions-now-support-b6907d38
+  - amazon-workspaces-applications-now-suppo-a245071a
+  - iam-roles-anywhere-now-supports-aliases-cc0f8168
+  - amazon-cognito-now-supports-aws-secrets-d6cfaeda
+  - aws-waf-launches-new-security-analytics-4a7d779e
+  - aws-rtb-fabric-modules-are-now-generally-ef4c437d
+  - agentcore-runtime-instances-now-support-2e46bd16
+  - aws-partner-central-agents-now-guide-hig-7895db6c
+  - amazon-aurora-dsql-now-supports-pl-pgsql-ae678dcc
+  - aws-expands-amazon-connect-customer-comp-349da76e
+  - aws-data-competency-adds-open-data-and-i-5bfb3d9e
+  - aws-sts-announces-getscopedcredentials-t-bf73e69b
+  - aws-continuum-for-penetration-testing-no-2fb2b9bf
+  - aws-site-to-site-vpn-now-supports-post-q-428f3549
+  - second-generation-aws-outposts-racks-now-52047160
+  - amazon-sagemaker-ai-now-detects-rising-r-d86cd346
+  - aws-network-firewall-launches-explicit-p-c1be2d7d
+  - aws-partner-central-agents-now-generate-bf519e36
+  - amazon-inspector-code-security-adds-gith-9b9dafa4
+  - amazon-bedrock-agentcore-identity-adds-p-00e8a509
+  - amazon-cognito-now-supports-dynamic-clie-6037823e
+  - aws-network-load-balancer-now-supports-m-f92458f4
+  - aws-partners-can-now-manage-their-aws-pa-ff454327
+  - amazon-s3-tables-now-support-promoting-r-8c183136
