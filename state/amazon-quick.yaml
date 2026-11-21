@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-20T21:12:21.579Z
-lastEtag: sha256:90aab483a9e907321f7107f65b46dd74fb5a4f38f8f559c51735adb1e1a82ae2
+lastFetchedAt: 2026-11-21T21:11:19.965Z
+lastEtag: sha256:afa9fbe8d0a28c8235601303378c29b012bc8041b07f8960a61c5d82a5ba2e0a
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22639,3 +22639,50 @@ lastSeenIds:
   - aws-network-load-balancer-now-supports-m-f92458f4
   - aws-partners-can-now-manage-their-aws-pa-ff454327
   - amazon-s3-tables-now-support-promoting-r-8c183136
+  - aws-quick-now-supports-plugins-to-bundle-2ddc8630
+  - amazon-cloudwatch-omni-now-supports-micr-fa5042ad
+  - aws-quick-launches-a-new-web-experience-785418f5
+  - web-search-on-amazon-bedrock-expands-lan-42951112
+  - build-more-capable-automations-through-c-65392745
+  - amazon-rds-for-oracle-now-supports-prima-7578a454
+  - aws-lambda-now-publishes-event-function-b6b96ce3
+  - aws-network-firewall-introduces-automate-5a6b2edf
+  - aws-quick-now-supports-japanese-german-v-06794747
+  - amazon-rds-for-oracle-now-supports-repli-bb3f0eae
+  - amazon-cognito-extends-multi-region-repl-f9b37200
+  - amazon-neptune-serverless-now-delivers-u-a7c1c0c8
+  - amazon-cloudwatch-extends-the-promql-que-ca5fbd15
+  - demand-center-now-available-in-aws-partn-8b32e86e
+  - account-mapping-and-planning-now-availab-e7371192
+  - lead-groups-and-channel-recommendations-c02cd24c
+  - aws-quick-now-supports-group-assignments-366ffb5c
+  - aws-quick-introduces-enterprise-guardrai-1790f37b
+  - aws-announces-data-hub-in-aws-billing-an-36648409
+  - aws-lambda-now-provides-cost-optimizatio-f4282c3a
+  - aws-lambda-now-supports-a-batch-size-of-7fd9ccb5
+  - amazon-msk-standard-brokers-adds-support-9ff5ab15
+  - amazon-ecs-action-logs-now-cover-tasks-c-7bc291ba
+  - amazon-managed-service-for-prometheus-su-12c96eee
+  - amazon-managed-service-for-prometheus-no-9dda8479
+  - aws-lambda-adds-support-for-node-js-26-ca237ea6
+  - amazon-s3-increases-the-read-request-rat-ec369304
+  - aws-lambda-adds-support-for-python-3-15-d75d4f21
+  - aws-cloudformation-increases-the-default-ff982364
+  - amazon-rds-for-db2-now-supports-renaming-2bb74186
+  - amazon-rds-for-db2-now-supports-new-cana-d0b27e9f
+  - amazon-rds-for-db2-now-supports-object-l-e2195776
+  - amazon-rds-custom-now-supports-the-lates-1360b935
+  - amazon-route-53-now-supports-availabilit-1258adf1
+  - amazon-vpc-ipam-policies-now-support-aut-ffa9b7d6
+  - second-generation-aws-outposts-racks-now-e8aac71d
+  - aws-agent-registry-now-supports-webbotau-2ac54669
+  - aws-backup-now-supports-incremental-back-79b36514
+  - announcing-a-new-skill-for-ai-agents-in-8b43d445
+  - amazon-route-53-private-hosted-zones-now-264e2951
+  - aws-secrets-store-csi-driver-provider-no-7c8de1e7
+  - aws-agent-registry-now-offers-naming-and-a1c9ce93
+  - aws-lambda-microvms-now-supports-custome-bee968d6
+  - amazon-route-53-now-offers-advanced-host-1e219f68
+  - announcing-test-insights-for-aws-device-466951a0
+  - amazon-sagemaker-adds-new-capabilities-i-1e57fce5
+  - amazon-fsx-for-netapp-ontap-launches-a-n-c5fcc4f6
