@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-22T21:10:50.624Z
-lastEtag: sha256:a24c58be08a3102be9cec16dc3ecbe27d13f1ed8f454f786dbb43ec838723f55
+lastFetchedAt: 2026-11-23T21:11:02.343Z
+lastEtag: sha256:e39d6f8472087404b4087c4ca3dad52d499a76e901cc7d07e31ce4511742251e
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22686,3 +22686,26 @@ lastSeenIds:
   - announcing-test-insights-for-aws-device-466951a0
   - amazon-sagemaker-adds-new-capabilities-i-1e57fce5
   - amazon-fsx-for-netapp-ontap-launches-a-n-c5fcc4f6
+  - amazon-connect-customer-launches-the-abi-883ee875
+  - amazon-connect-customer-expands-automate-bcede0e4
+  - aws-partner-central-expands-analytics-ac-3d3c8f50
+  - agentcore-runtime-instances-are-now-gene-edbd3444
+  - amazon-cloudfront-announces-http-2-suppo-1e4ded0b
+  - aws-global-accelerator-now-preserves-cli-ada8d230
+  - announcing-metal-size-for-amazon-ec2-g7-71ae6829
+  - amazon-aurora-serverless-for-mysql-now-s-d5e24900
+  - amazon-sagemaker-studio-now-supports-tra-83cf7207
+  - amazon-connect-customer-ai-agents-now-fi-001576dc
+  - aws-codedeploy-now-supports-suspending-a-5706dbdb
+  - amazon-inspector-expands-runtime-reachab-2d48063e
+  - aws-systems-manager-automation-now-autom-ca025d9e
+  - amazon-ec2-capacity-blocks-for-ml-now-su-916241b0
+  - you-can-now-copy-data-server-side-betwee-c93985b7
+  - aws-certificate-manager-now-supports-ama-819a0061
+  - amazon-cloudwatch-query-studio-now-suppo-4b6e30a8
+  - aws-compute-optimizer-automation-rules-n-d628d967
+  - aws-devops-agent-achieves-fedramp-class-03660a0d
+  - aws-private-ca-now-supports-x-509-iam-co-50f40699
+  - aws-cdk-blocks-reaches-general-availabil-f12665c2
+  - aws-parallel-computing-service-now-suppo-5e228c86
+  - aws-elemental-medialive-can-now-create-e-4fc56ce3
