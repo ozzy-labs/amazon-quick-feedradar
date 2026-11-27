@@ -1,6 +1,6 @@
 sourceId: amazon-quick
-lastFetchedAt: 2026-11-22T21:10:50.624Z
-lastEtag: sha256:a24c58be08a3102be9cec16dc3ecbe27d13f1ed8f454f786dbb43ec838723f55
+lastFetchedAt: 2026-11-27T21:11:25.546Z
+lastEtag: sha256:90e6b9a1fed404d97f7ebd3b0eafc424795260f8a1c4a2a2e414d63140f37593
 lastSeenIds:
   - amazon-quick-suite-now-supports-memory-f-6125dd60
   - amazon-quick-suite-browser-extension-now-6d996bb5
@@ -22686,3 +22686,68 @@ lastSeenIds:
   - announcing-test-insights-for-aws-device-466951a0
   - amazon-sagemaker-adds-new-capabilities-i-1e57fce5
   - amazon-fsx-for-netapp-ontap-launches-a-n-c5fcc4f6
+  - amazon-neptune-introduces-neptune-graph-e7552a80
+  - amazon-rds-for-postgresql-supports-minor-2ba6d073
+  - aws-lambda-now-supports-orchestrating-mi-647c4608
+  - amazon-cloudwatch-omni-now-integrates-wi-0b66c58f
+  - amazon-ec2-m8g-instances-are-now-availab-0aa86955
+  - amazon-ec2-m9gd-instances-are-now-availa-f5ccfb59
+  - amazon-ec2-c9gd-instances-now-available-a63bff44
+  - amazon-ec2-c9g-instances-are-now-availab-70b1f483
+  - amazon-ec2-m9g-instances-now-available-i-af81a0f1
+  - elastic-load-balancing-for-envoy-is-now-3db230d9
+  - amazon-transcribe-turbo-more-accurate-tr-c9285dee
+  - aws-iot-core-now-uses-dedicated-ipv6-add-40fce36e
+  - aws-iot-core-quotas-and-usage-are-now-vi-fe1beeec
+  - aws-device-farm-now-supports-android-emu-58fc41ae
+  - aws-iam-extends-trusted-identity-propaga-294385c8
+  - amazon-bedrock-adds-bedrock-runtime-endp-329b2595
+  - amazon-opensearch-serverless-is-now-avai-538bea2e
+  - aws-cloudformation-makes-resource-covera-3f0b10e3
+  - amazon-connect-customer-dashboards-now-s-bdb7e826
+  - amazon-opensearch-service-optimized-engi-743d5340
+  - amazon-rds-for-sql-server-now-supports-u-17dbb13c
+  - amazon-ec2-x8i-instances-are-now-availab-2dc0909e
+  - aws-sign-in-introduces-configurable-sign-d79b2190
+  - amazon-sagemaker-hyperpod-now-supports-m-d4c70326
+  - amazon-api-gateway-announces-api-portal-d6f803f9
+  - amazon-opensearch-service-now-supports-o-ab637467
+  - aws-waf-introduces-simplified-pricing-045bdc9f
+  - aws-waf-announces-automated-discovery-an-8781a21d
+  - amazon-connect-customer-launches-the-abi-883ee875
+  - amazon-connect-customer-now-lets-you-tes-f121dede
+  - amazon-connect-customer-expands-automate-bcede0e4
+  - amazon-cloudfront-is-now-available-in-th-52cb8bea
+  - aws-partner-central-expands-analytics-ac-3d3c8f50
+  - agentcore-runtime-instances-are-now-gene-edbd3444
+  - amazon-cloudfront-announces-http-2-suppo-1e4ded0b
+  - aws-quick-adds-identity-aware-access-via-156af24f
+  - amazon-sagemaker-hyperpod-now-detects-an-e944f4c3
+  - amazon-sagemaker-hyperpod-extends-ami-au-e59f513d
+  - amazon-sagemaker-hyperpod-now-detects-ku-1c404940
+  - amazon-sagemaker-hyperpod-deep-health-ch-13309d73
+  - rds-postgresql-now-supports-postgresql-1-3913f825
+  - aws-quick-brings-ai-ready-capabilities-t-a629e6be
+  - amazon-sagemaker-hyperpod-now-supports-n-097b824a
+  - aws-global-accelerator-now-preserves-cli-ada8d230
+  - announcing-metal-size-for-amazon-ec2-g7-71ae6829
+  - amazon-aurora-serverless-for-mysql-now-s-d5e24900
+  - amazon-sagemaker-studio-now-supports-tra-83cf7207
+  - amazon-connect-customer-ai-agents-now-fi-001576dc
+  - amazon-inspector-expands-runtime-reachab-2d48063e
+  - aws-codedeploy-now-supports-suspending-a-5706dbdb
+  - aws-waf-announces-automated-discovery-an-d27cde66
+  - aws-device-farm-launches-device-connect-3f04074a
+  - amazon-sagemaker-ai-now-supports-viewing-fea38aaf
+  - amazon-sagemaker-hyperpod-launches-a-red-98f5afb9
+  - aws-devops-agent-adds-access-profiles-an-24afe1ec
+  - aws-systems-manager-automation-now-autom-ca025d9e
+  - amazon-ec2-capacity-blocks-for-ml-now-su-916241b0
+  - aws-parallel-computing-service-now-suppo-6b6f5042
+  - amazon-fsx-for-netapp-ontap-adds-aws-clo-8d09c2dd
+  - you-can-now-copy-data-server-side-betwee-c93985b7
+  - aws-certificate-manager-now-supports-ama-819a0061
+  - amazon-cloudwatch-query-studio-now-suppo-4b6e30a8
+  - aws-compute-optimizer-automation-rules-n-d628d967
+  - aws-devops-agent-achieves-fedramp-class-03660a0d
+  - aws-private-ca-now-supports-x-509-iam-co-50f40699
